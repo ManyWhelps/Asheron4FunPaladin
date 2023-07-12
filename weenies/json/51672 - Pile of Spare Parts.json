@@ -1,0 +1,183 @@
+{
+  "wcid": 51672,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560838
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536871001
+    },
+    {
+      "key": 8,
+      "value": 100690544
+    },
+    {
+      "key": 22,
+      "value": 872415328
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Pile of Spare Parts"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpareParts_0813"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You search through the parts again but find nothing."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpareParts_0813"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Searching through the pile of Gear Knight parts, you find a key hidden amongst the springs and cogs!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpareParts_0813"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 48747,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpareParts_0813"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:33.0154386Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

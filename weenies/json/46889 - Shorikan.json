@@ -1,0 +1,623 @@
+{
+  "wcid": 46889,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 350
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 380
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 350
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 19275,
+      "current": 19425
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 16410,
+      "current": 16710
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 13275,
+      "current": 13565
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 77
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 307,
+      "value": 35
+    },
+    {
+      "key": 308,
+      "value": 30
+    },
+    {
+      "key": 314,
+      "value": 35
+    },
+    {
+      "key": 316,
+      "value": 30
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561479
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437563
+    },
+    {
+      "key": 8,
+      "value": 100669124
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.333
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Shorikan"
+    },
+    {
+      "key": 5,
+      "value": "Spectral Commander"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-72599",
+              "cprof": {
+                "wcid": 72599,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72599
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_200-999",
+              "max": 999,
+              "min": 200,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TanadaSlaughterFinished_0912@1-9999",
+              "max": 9999,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TanadaSlaughterScrollFinished_0912@1-9999"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Intro"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TanadaSlaughterFinished_0912@1-9999"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I trust that we have an agreement."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must wait %tqt before completing this quest again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NanjouStockadeFinished_1012"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Shorikan looks your way. You cannot see his face but you can feel the tension in the air."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Impossible! This cannot be! We will not fail again."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Shorikan reaches towards you and places a single finger on your shoulder."
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 6032
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NanjouStockadeStarted_1012"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have aided Kinchou in our battle against the Tanada. If you seek more work, Kousha may have a use for you."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TanadaSlaughterFinished_0912@1-9999"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are unknown to me. If you seek work, find Kinchou and Kousha. But beware, they will not speak with you unless you first prove yourself to Darviss."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TanadaSlaughterScrollFinished_0912@1-9999"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NanjouStockadeStarted_1012"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NanjouStockadeFinished_1012"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NanjouStockadeStarted_1012"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have proven to be instrumental in our battle with the Tanada. The tide surely swings in our favor due to your actions."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We are grateful, but the situation is...delicate. None can know of what has transpired. The Tanada would surely wage an all out war and many of our own may view our actions as dishonorable and cowardly."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Nothing is beyond reproach, not to ensure our victory."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Shorikan pauses for a moment."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I must be sure the news of what we have accomplished dies with you. Our success is far more important than your life."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "It truly pains me, but I have little choice. Your actions and our involvement end on this day."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Shorikan reaches towards you and places a single finger on your shoulder."
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 6032
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NanjouStockadeStarted_1012"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2048,
+              "msg": "LegendaryQuestsB"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LegendaryQuestCounter_0913"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "LegendaryQuestsB"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckPrereq"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_200-999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72599,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NanjouStockadeFinished_1012"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NanjouStockadeStarted_1012"
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 300000000,
+              "heroxp64": 0
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 15000
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 9,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You throw the sword at the feet of Shorikan. Shorikan picks up the sword and wipes the dirt from the blade."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You still live? Your skill in the art of battle is impressive."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No good can come from further bloodshed over our misunderstanding. I underestimated you and you have proven me wrong."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take these rewards, but keep the tale of our interactions silent. Even someone as hardy as yourself would be crushed by the reprisal of both the Tanada and our forces. Let us not forget that the Tanada would show you no mercy for your slaughter of their recruits."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The logical course of actions would be for all to forget we ever spoke. Revenge would only place you in the middle of a war that even you could not win."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I trust that we have an agreement."
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2048,
+              "msg": "LegendaryQuestsB"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-72599"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are too weak to be of use. Leave this place."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_200-999"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TanadaSlaughterScrollFinished_0912@1-9999",
+              "max": 9999,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckPrereq"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NanjouStockadeFinished_1012"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Intro"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:02.9757604Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

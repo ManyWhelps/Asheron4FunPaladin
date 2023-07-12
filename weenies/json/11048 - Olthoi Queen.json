@@ -1,0 +1,1154 @@
+{
+  "wcid": 11048,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1000
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1000
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1000
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1000
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 14500,
+      "current": 15000
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 3000,
+      "current": 4000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 1010
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 2,
+          "dval": 300,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 700,
+            "armor_vs_slash": 770,
+            "armor_vs_pierce": 560,
+            "armor_vs_bludgeon": 560,
+            "armor_vs_cold": 700,
+            "armor_vs_fire": 770,
+            "armor_vs_acid": 770,
+            "armor_vs_electric": 700,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.10000000149011612,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.10000000149011612,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.10000000149011612,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.10000000149011612,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 4,
+          "dval": 5,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 700,
+            "armor_vs_slash": 770,
+            "armor_vs_pierce": 560,
+            "armor_vs_bludgeon": 560,
+            "armor_vs_cold": 700,
+            "armor_vs_fire": 770,
+            "armor_vs_acid": 770,
+            "armor_vs_electric": 700,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.44999998807907104,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.3499999940395355,
+            "HRF": 0.44999998807907104,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.3499999940395355,
+            "HLB": 0.44999998807907104,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.3499999940395355,
+            "HRB": 0.44999998807907104,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.3499999940395355
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 4,
+          "dval": 300,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 700,
+            "armor_vs_slash": 770,
+            "armor_vs_pierce": 560,
+            "armor_vs_bludgeon": 560,
+            "armor_vs_cold": 700,
+            "armor_vs_fire": 770,
+            "armor_vs_acid": 770,
+            "armor_vs_electric": 700,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 18,
+        "value": {
+          "dtype": 1,
+          "dval": 300,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 700,
+            "armor_vs_slash": 770,
+            "armor_vs_pierce": 560,
+            "armor_vs_bludgeon": 560,
+            "armor_vs_cold": 700,
+            "armor_vs_fire": 770,
+            "armor_vs_acid": 770,
+            "armor_vs_electric": 700,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.10000000149011612,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.10000000149011612,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.10000000149011612,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.10000000149011612
+          }
+        }
+      },
+      {
+        "key": 19,
+        "value": {
+          "dtype": 1,
+          "dval": 15,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 700,
+            "armor_vs_slash": 770,
+            "armor_vs_pierce": 560,
+            "armor_vs_bludgeon": 560,
+            "armor_vs_cold": 700,
+            "armor_vs_fire": 770,
+            "armor_vs_acid": 770,
+            "armor_vs_electric": 700,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.3499999940395355,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.3499999940395355,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.3499999940395355,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.3499999940395355
+          }
+        }
+      },
+      {
+        "key": 20,
+        "value": {
+          "dtype": 1,
+          "dval": 300,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 700,
+            "armor_vs_slash": 770,
+            "armor_vs_pierce": 560,
+            "armor_vs_bludgeon": 560,
+            "armor_vs_cold": 700,
+            "armor_vs_fire": 770,
+            "armor_vs_acid": 770,
+            "armor_vs_electric": 700,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.44999998807907104,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.44999998807907104,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.44999998807907104,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.44999998807907104,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 22,
+        "value": {
+          "dtype": 32,
+          "dval": 200,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 0,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 1
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 8000
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 200
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 2
+    },
+    {
+      "key": 68,
+      "value": 13
+    },
+    {
+      "key": 72,
+      "value": 35
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 103,
+      "value": 3
+    },
+    {
+      "key": 133,
+      "value": 2
+    },
+    {
+      "key": 140,
+      "value": 1
+    },
+    {
+      "key": 146,
+      "value": 750000
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557165
+    },
+    {
+      "key": 2,
+      "value": 150995135
+    },
+    {
+      "key": 3,
+      "value": 536871037
+    },
+    {
+      "key": 4,
+      "value": 805306419
+    },
+    {
+      "key": 8,
+      "value": 100667623
+    },
+    {
+      "key": 22,
+      "value": 872415379
+    },
+    {
+      "key": 30,
+      "value": 86
+    },
+    {
+      "key": 35,
+      "value": 361
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 25.0
+    },
+    {
+      "key": 4,
+      "value": 100.0
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 13,
+      "value": 1.1
+    },
+    {
+      "key": 14,
+      "value": 0.8
+    },
+    {
+      "key": 15,
+      "value": 0.8
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.1
+    },
+    {
+      "key": 18,
+      "value": 1.1
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 31,
+      "value": 24.0
+    },
+    {
+      "key": 34,
+      "value": 1.0
+    },
+    {
+      "key": 36,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 41,
+      "value": 300.0
+    },
+    {
+      "key": 43,
+      "value": 5.0
+    },
+    {
+      "key": 64,
+      "value": 0.5
+    },
+    {
+      "key": 65,
+      "value": 0.7
+    },
+    {
+      "key": 66,
+      "value": 0.7
+    },
+    {
+      "key": 67,
+      "value": 0.5
+    },
+    {
+      "key": 68,
+      "value": 0.7
+    },
+    {
+      "key": 69,
+      "value": 0.3
+    },
+    {
+      "key": 70,
+      "value": 0.45
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 0.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 0.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 117,
+      "value": 0.6
+    },
+    {
+      "key": 125,
+      "value": 0.0
+    },
+    {
+      "key": 151,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Olthoi Queen"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 11150,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 1,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 3678,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 1,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 3678,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 1,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 3678,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 1,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 3678,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 1,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 11140,
+      "palette": 0,
+      "shade": 0.8700000047683716,
+      "destination": 8,
+      "stack_size": 8,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 714.6239,
+        "init_level": 120,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 714.6239,
+        "init_level": 280,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 714.6239,
+        "init_level": 50,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 714.6239,
+        "init_level": 120,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 714.6239,
+        "init_level": 20,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 22,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 714.6239,
+        "init_level": 200,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 714.6239,
+        "init_level": 50,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 3,
+      "value": [
+        {
+          "category": 3,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InvasionQuest08"
+            },
+            {
+              "type": 16,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "In the darkest depths of Marescent Plateau on far Marae Lassel, the party of the bold %s has slain the young queen of the island's Olthoi brood! As one, the Olthoi swarms recoil from her final burst of terror, and slowly begin to withdraw back into their hives."
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirDrummerN"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TumerokLeaderWar"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TumerokLeaderPeace"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirBrokenN"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirIntactN"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirBrokenNE"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirIntactNE"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirBrokenSE"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirIntactSE"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirBrokenSW"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirIntactSW"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirBrokenNW"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirIntactNW"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoyalGuard"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BroodNobleHive"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthLocalInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthFullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthSwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthSwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthSwarmC"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthPeace"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthEastLocalInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthEastFullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthEastSwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthEastSwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthEastSwarmC"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthEastPeace"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthEastLocalInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthEastFullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthEastSwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthEastSwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthEastSwarmC"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthEastPeace"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthWestLocalInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthWestFullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthWestSwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthWestSwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthWestSwarmC"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SouthWestPeace"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthWestLocalInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthWestFullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthWestSwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthWestSwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthWestSwarmC"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NorthWestPeace"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires1FullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires1SwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires1SwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires1SwarmC"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires2FullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires2SwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires2SwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires2SwarmC"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires3FullInvasion"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires3SwarmA"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires3SwarmB"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dires3SwarmC"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EvisceratorSprayer"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QueenMaraeDynamic"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483708,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 450.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": -4.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 11156,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:01:05.7392683Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

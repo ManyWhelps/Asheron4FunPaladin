@@ -1,0 +1,735 @@
+{
+  "wcid": 40099,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 250
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 350
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100,
+      "current": 390
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 210
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Tokashi Ando"
+    },
+    {
+      "key": 4,
+      "value": "Sho"
+    },
+    {
+      "key": 5,
+      "value": "Researcher"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 130,
+      "palette": 10,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37189,
+      "palette": 13,
+      "shade": 0.75,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37196,
+      "palette": 13,
+      "shade": 0.75,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37201,
+      "palette": 13,
+      "shade": 0.75,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37205,
+      "palette": 13,
+      "shade": 0.75,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37209,
+      "palette": 13,
+      "shade": 0.75,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37215,
+      "palette": 13,
+      "shade": 0.75,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "rarecrystallineshardturnin"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 40102
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "This is a very unique crystal indeed. It seems to have the combined properties of all these wisps combied! Here is a reward for you adventurer."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 75000000,
+              "percent": 0.2
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "I bestow you with the title of Crystalline Adventurer."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 668
+            }
+          ],
+          "probability": 1.0,
+          "classID": 40101
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "This is a very unique crystal indeed. It seems to have the combined properties of all these wisps combied! Here is a reward for you adventurer."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 100000000,
+              "percent": 0.2
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "I bestow you with the title of Frozen Fighter."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 671
+            }
+          ],
+          "probability": 1.0,
+          "classID": 40432
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "This is a very unique crystal indeed. It seems to have the combined properties of all these wisps combied! Here is a reward for you adventurer."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 125000000,
+              "percent": 0.2
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "I bestow you with the title of Burning Soul."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 670
+            }
+          ],
+          "probability": 1.0,
+          "classID": 40487
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "crystallineshardturninwait"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 40100
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The structure of this crystal fragment... where did you find it?"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You tell Tokashi of your adventures inside the crag."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 150000000,
+              "percent": 0.2
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38917,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You've come a long way and done so much for us. This is the least I can do to reward you."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We have quite a bit of work ahead of us. Hopefully we'll some day be able to discern what happened here."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This Ja'qu you talked about. I wish only that he could remember... we could learn so much from him."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ProgenitorIngotTurnIn"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 71867
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I've been sent to head up the research in this area however I am not able to make significant advancements on my own."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "It's been decided that I should bring others in to assist with the exploration and research about the creatures and crystals in this region."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I've also been able to recover crystalline shards in the remains of the wisps. They'll assist our research and I'll reward you for bringing them to me."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If you find any unique wisps they may have unique crystalline shards that I'd be able to grant you a greater reward in exchange for it."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "There are also a few locations that I have not been able to reach on my own. If you can reach these places you may find great reward there."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Return to me with any objects you may find. Talk to my associates about any other rewards."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Now get out there and have an adventure!"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I have enough of these crystals for now. Come back later and I may be ready for some more."
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You must wait %tqt before attempting this quest again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "rarecrystallineshardturnin"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 40100,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I have enough of these crystals for now. Come back later and I may be ready for some more."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "crystallineshardturninwait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "crystallineshardturninwait"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This crystal contains the remaining essence of the wisp it was recovered from. I thank you greatly and here is your reward."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 50000,
+              "heroxp64": 0
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "crystallineshardturnin"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "crystallineshardturnin"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-40102",
+              "cprof": {
+                "wcid": 40102,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "rarecrystallineshardturnin"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "crystallineshardturnin"
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "crystallineshardturnin"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "crystallineshardturninwait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This crystal contains the remaining essence of the wisp it was recovered from. I thank you greatly and here is your reward."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 50000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "crystallineshardturnin"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 40102,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You have discovered ten of these crystals. We can make use of these. You've done excellent work, thank you and here's your reward."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 75000000,
+              "percent": 0.2
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "rarecrystallineshardturnin"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-40102"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Quite the discovery. Please return to me when you have 10 of these and I'll reward you for them."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-40102"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:38.8820216Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,648 @@
+{
+  "wcid": 47799,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 170
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 145
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 165
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 225
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 251,
+      "current": 323
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 160,
+      "current": 305
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100,
+      "current": 325
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 155
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667377
+    },
+    {
+      "key": 9,
+      "value": 83890513
+    },
+    {
+      "key": 10,
+      "value": 83890549
+    },
+    {
+      "key": 11,
+      "value": 83890659
+    },
+    {
+      "key": 15,
+      "value": 67117017
+    },
+    {
+      "key": 16,
+      "value": 67109566
+    },
+    {
+      "key": 17,
+      "value": 67109560
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Colton Reeyan"
+    },
+    {
+      "key": 5,
+      "value": "Aristocrat"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 5850,
+      "palette": 93,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 31867,
+      "palette": 17,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_150-999",
+              "max": 999,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I will start working with the Mosswarts immediately to ensure things never regress this far again."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You may complete this quest again in %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SaveAPetFinished_1212"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WorkersMotivated@10-10",
+              "max": 10,
+              "min": 10
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SaveAPetStarted_1212"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckSaved"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WorkersMotivated@10-10"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Rewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Petsave"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SaveAPetStarted_1212"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SaveAPetFinished_1212"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please convince 10 of the workers to return to work."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 47831,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 47831,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckSaved"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WorkersMotivated@10-10"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SaveAPetStarted_1212"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This can't be happening. No, this CAN'T be happening!"
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "The workers have all gathered and they are refusing to return to work without another large increase to their wages."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Not only that, but they are also holding my three little pets hostage to try and force my hand in meeting their demands. My poor babies must be so scared."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 47831,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Please bring this message to them at my sanctuary located around 22.9N, 37.0W. Hopefully they will accept the offer and return my pets. I must prepare you though."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "If they refuse the offer they can be unpredictable and may become violent. They mean well, they are a good group. The pressure of the mob mentality has forced many of the workers to act in such a manner."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Please do your best not to kill the workers. If they are \"roughed up\" a bit though, they are sure to come to their senses and stop this nonsense."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Convince 10 of the workers to return to work. I bet once several see the errors in their way that the others will follow."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72980,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 3,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "The victims in all this are my poor little pets. A Tusker, an Armoredillo and an Ursuin."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "They aren't much for strangers but if you feed them this meat it should make them groggy enough to where you can safely place them back in their cages. I have added a special ingredient to the food to tranquilize them very quickly."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SaveAPetStarted_1212"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please save my pets."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72980,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72980,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 3,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Petsave"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SaveAPetFinished_1212"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-999"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I apologize, but I have no time to talk. There is much on my mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-999"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 7,
+              "msg": "Petsave"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckSaved"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SaveAPetFinished_1212"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SaveAPetStarted_1212"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WorkersMotivated"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Petsave"
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 20000
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 350000000,
+              "percent": 1.0
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38917,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 776
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have been awarded the title of \"Pet Savior\"."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You saved my babies and the workers were not killed in the process?"
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Thank you! Thank you so much."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "My little ones thank you for saving them as well. I don't know what I would have done if I had lost them!"
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "I will start working with the Mosswarts immediately to ensure things never regress this far again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Rewards"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:06.4076281Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

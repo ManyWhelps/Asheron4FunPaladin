@@ -1,0 +1,477 @@
+{
+  "wcid": 87190,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 350
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 199800,
+      "current": 200000
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 4600,
+      "current": 5000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500000,
+      "current": 500500
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 119,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 300
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 2
+    },
+    {
+      "key": 188,
+      "value": 11
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150995470
+    },
+    {
+      "key": 3,
+      "value": 536870934
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437422
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.2
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Apparition of Emperor Geraine"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 40.0,
+              "msg": "Ah, there you are my child. I have been expecting thee."
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767236
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "HoshinoKneel"
+            },
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "With a wave of his hand, the Apparition of Emperor Geraine magically pins Hoshino Kei to the ground."
+            },
+            {
+              "type": 8,
+              "delay": 3.0,
+              "extent": 40.0,
+              "msg": "Oh no, whelp. You will not be interfering today. There is much here for you to learn, and I'd hate to have to kill you before then."
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "With a wave of his hand, the Apparition of Emperor Geraine magically pins Borelean to the ground."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767236
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BoreleanKneel"
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 40.0,
+              "msg": "That's better. Stay there for a while, and learn something for once."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BorleanSpeak"
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 40.0,
+              "msg": "That was a pivotal moment in your timeline, boy."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "That assassination would've driven forth a timeline that was... less than optimal to my plans."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "Your actions saved me a great deal of effort in this ritual, I should thank you."
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Emperor Geraine smiles."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "And, I should thank you for bringing your darling wife here. I've been waiting for her to come back to me."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BorleanSpeakTwo"
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 40.0,
+              "msg": "Oh, I'm afraid I cannot do that, boy.."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "You see, she has been a key to my success for some time."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "Why did you think I had my undead kidnap her all those months ago?"
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "I set in her the preparations needed to sacrifice her to the Book, so as to complete this ritual in its entirety."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "You came here to stop me, but all you accomplished was guaranteeing my success."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "For that, I thank you."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BorleanSpeakThree"
+            },
+            {
+              "type": 17,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Emperor Geraine points at Borelean in mocking laughter."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767232
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "It will take more than that to break my hold on thee, boy. Now sit quiet and watch. You're about to see history remade..."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "With a screm that tears through your heart and soul, Hoshino Kei dies."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "HoshinoDeath"
+            },
+            {
+              "type": 5,
+              "delay": 3.0,
+              "extent": 1.0,
+              "motion": 318767241
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Emperor Geraine laughs maniacally."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "Ahh, boy, you have made all of these long plans so worthwhile."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "For that gift, and the soul of your wife, I'll send her corpse to you after you leave this place."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "I'm afraid that's all of her that you will be getting back, however."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Emperor Geraine smiles."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "The Book is a rather voracious eater when it comes to certain sacrifices."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Emperor Geraine sighs."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "Now, I tire of this."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "Die."
+            },
+            {
+              "type": 17,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Borelean Strathelar lets out a strangled grunt as the life is crushed out of him and he is whisked back to the Lifestone."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BorleanDies"
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "No one can stop me now. Not you, whelp, not your precious mother and not even your upstart of a tutor, Asheron."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 40.0,
+              "msg": "With this sacrifice, this ritual will be anchored in eternity!"
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "HoshinoReady"
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Emperor Geraine pulls a struggling ball of light from Hoshino Kei's chest."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "HoshinoDelete"
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 40.0,
+              "msg": "Begin the final stage of the Ritual! Our victory is now at hand!"
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "A hot, dry wind blows through the chamber as the vision fades. Shortly thereafter, a ripple seems to pass through everything, and the world shifts."
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The air shimmers and hums with power as time itself shifts, revealing the Time Ritual's defenders."
+            },
+            {
+              "type": 24,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "DericostCutSceneEvent"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:56.3927296Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

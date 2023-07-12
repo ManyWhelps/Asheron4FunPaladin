@@ -1,0 +1,466 @@
+{
+  "wcid": 52075,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 95,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555231
+    },
+    {
+      "key": 2,
+      "value": 150995055
+    },
+    {
+      "key": 3,
+      "value": 536870981
+    },
+    {
+      "key": 8,
+      "value": 100667624
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "White Lever"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortalLeverPull"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortalLeverPull@4-4",
+              "max": 4,
+              "min": 4
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Check4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@4-4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Check3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@3-3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Check2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@2-2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Check1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@1-1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Correct."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal1White"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Correct."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal2White"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Correct."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal3White"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortalLeverPullCompleted"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Correct. Consult the Rynthid Assessment Crystal."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal4White"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortalLeverPull@3-3",
+              "max": 3,
+              "min": 3
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@4-4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortalLeverPull@2-2",
+              "max": 2,
+              "min": 2
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@3-3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortalLeverPull@1-1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@2-2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Failed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortalLeverPull@1-1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Failed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal1White"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Failed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal2White"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Failed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal3White"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Failed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoredPortal4White"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortal1White"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Check1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortal2White"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Check2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortal3White"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Check3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoredPortal4White"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Check4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Incorrect."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Removal from facility commencing."
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 129.408,
+                    "y": 109.745,
+                    "z": 105.015
+                  },
+                  "angles": {
+                    "w": 0.611371,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.791344
+                  }
+                },
+                "objcell_id": 741408813
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Failed"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:38.6444748Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

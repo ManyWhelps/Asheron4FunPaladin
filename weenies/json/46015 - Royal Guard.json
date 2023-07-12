@@ -1,0 +1,446 @@
+{
+  "wcid": 46015,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 326
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 456
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 99
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560843
+    },
+    {
+      "key": 2,
+      "value": 150995368
+    },
+    {
+      "key": 3,
+      "value": 536870933
+    },
+    {
+      "key": 8,
+      "value": 100674350
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Royal Guard"
+    },
+    {
+      "key": 5,
+      "value": "Grievver Shredder Hunter"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 42717,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 24611,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KillTaskTouTouGrievversCompleted0812@3"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Another thanks for reducing the numbers of those awful Grievvers"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "For now, the Grievver Shredders have withdrawn, and we do not wish to press them into more drastic actions."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KillTaskTouTouGrievversCompleted0812@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KillTaskTouTouGrievvers0812@KillTaskCompleted"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KillTaskTouTouGrievvers0812@KillTaskInProgress"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! The clicking of those \"legs\" still echo in my head."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 80000000,
+              "percent": 0.1
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 4000
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 48746,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 48746,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 48746,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 48746,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 48746,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 48746,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KillTaskTouTouGrievversCompleted0812"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KillTaskTouTouGrievvers0812"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KillTaskTouTouGrievvers0812@KillTaskCompleted"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KillTaskTouTouGrievvers0812@KillTaskInProgress",
+              "max": 2147483647,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KillTaskTouTouGrievversCompleted0812@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've killed %tqc out of %tqm Grievver Shredders."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Once you've killed 15 Grievver Shredders, I will reward you. Keep up the good work."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KillTaskTouTouGrievvers0812@KillTaskCompleted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I have made it my mission to rid the land of those... abominations."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Kill 15 Grievver Shredders and I will reward you for your efforts."
+            },
+            {
+              "type": 70,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 0,
+              "msg": "KillTaskTouTouGrievvers0812"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KillTaskTouTouGrievvers0812@KillTaskInProgress"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:50.4657396Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

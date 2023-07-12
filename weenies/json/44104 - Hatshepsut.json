@@ -1,0 +1,403 @@
+{
+  "wcid": 44104,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 90
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 75
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 130
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 60
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 110
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 140
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 101
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 220
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561252
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Hatshepsut"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_180-999_11",
+              "max": 999,
+              "min": 180,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for freeing me from this prison. I am truly grateful."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "NeftetFreeHatsheputWait@%tqt"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NeftetFreeHatsheputWait@4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I am not sure where you came from but I certainly appreciate you freeing me from this place."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Those Mumiyah simply came out of no where without any warning and enslaved so many of my people."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I can't thank you enough."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NeftetFreeHatsheputWait"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NeftetFreeHatsheput"
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 160000000,
+              "heroxp64": 0
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 10000
+            },
+            {
+              "type": 3,
+              "delay": 0.5,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 52010,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.5,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 20,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4096,
+              "msg": "LegendaryQuestsA@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NeftetFreeHatsheput@4"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NeftetFreeHatsheput@4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NeftetFreeHatsheputWait@4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4096,
+              "msg": "LegendaryQuestsA"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LegendaryQuestCounter_0913"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "LegendaryQuestsA@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Sand Kings took control of our temple and began enslaving our people inside. Did Nephthys send you to free me? Speak with Nephthys and disable the Mumiyah device."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NeftetFreeHatsheput@4"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NeftetFreeHatsheputWait@4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_180-999_11"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not meet the requirements to assist me, return when you have grown in power."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_180-999_11"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:26.5835021Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

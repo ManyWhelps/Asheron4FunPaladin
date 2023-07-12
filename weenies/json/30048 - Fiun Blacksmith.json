@@ -1,0 +1,691 @@
+{
+  "wcid": 30048,
+  "weenieType": 12,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 225
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 275
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 10
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 20
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 20
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 78
+    },
+    {
+      "key": 3,
+      "value": 63
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 50
+    },
+    {
+      "key": 74,
+      "value": 1613561775
+    },
+    {
+      "key": 75,
+      "value": 0
+    },
+    {
+      "key": 76,
+      "value": 1000000
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559124
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67115466
+    },
+    {
+      "key": 7,
+      "value": 268436944
+    },
+    {
+      "key": 8,
+      "value": 100677369
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 11,
+      "value": 300.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 37,
+      "value": 0.8
+    },
+    {
+      "key": 38,
+      "value": 1.8
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Fiun Blacksmith"
+    },
+    {
+      "key": 5,
+      "value": "Blacksmith"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2621,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2622,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2623,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2624,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2625,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2626,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2627,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 20628,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 20629,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 20630,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30571,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30556,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30581,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30591,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30611,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30606,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30596,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30625,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30616,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30746,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28618,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28627,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28628,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28630,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28632,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28633,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28634,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28626,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30948,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28621,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28623,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30949,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28625,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 2,
+      "value": [
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Welcome. We have endured much suffering at the hands of those of Ispar. But we believe that one day your people will recognize the cruelty by which your leaders lead."
+            }
+          ],
+          "probability": 1.0,
+          "vendorType": 1
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I thank you."
+            }
+          ],
+          "probability": 1.0,
+          "vendorType": 2
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I thank you."
+            }
+          ],
+          "probability": 1.0,
+          "vendorType": 3
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I wish you well."
+            }
+          ],
+          "probability": 1.0,
+          "vendorType": 4
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767239,
+              "msg": ""
+            }
+          ],
+          "probability": 0.125,
+          "vendorType": 5
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767229,
+              "msg": ""
+            }
+          ],
+          "probability": 0.25,
+          "vendorType": 5
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767238,
+              "msg": ""
+            }
+          ],
+          "probability": 0.375,
+          "vendorType": 5
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767235,
+              "msg": ""
+            }
+          ],
+          "probability": 0.5,
+          "vendorType": 5
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:35.2657805Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

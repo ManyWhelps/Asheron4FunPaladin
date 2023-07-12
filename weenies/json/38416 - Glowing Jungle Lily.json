@@ -1,0 +1,278 @@
+{
+  "wcid": 38416,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 81,
+      "value": 6
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560322
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536871017
+    },
+    {
+      "key": 8,
+      "value": 100689548
+    },
+    {
+      "key": 22,
+      "value": 872415369
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 0.0
+    },
+    {
+      "key": 43,
+      "value": 4.5
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Glowing Jungle Lily"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TaskFreebooterJungleLilyStarted"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 72,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 77,
+              "delay": 1.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TaskFreebooterJungleLilyStarted"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must wait %tqt before attempting this quest again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TaskFreebooterJungleLilyComplete"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TaskFreebooterJungleLilyComplete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TaskFreebooterJungleLilyStarted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sensing you are unworthy, you fail to remove the glowing jungle lily."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TaskFreebooterJungleLilyComplete"
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 2,
+      "maxNum": 2,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 38406,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 38411,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 38409,
+      "whenCreate": 1,
+      "whereCreate": 2
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:23.1384224Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

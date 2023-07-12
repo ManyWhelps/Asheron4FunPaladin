@@ -1,0 +1,841 @@
+{
+  "wcid": 34383,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 20
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 30
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 55
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 25
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 15
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 15,
+      "current": 30
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 140
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 15
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 80
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 5
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559122
+    },
+    {
+      "key": 2,
+      "value": 150995323
+    },
+    {
+      "key": 3,
+      "value": 536871098
+    },
+    {
+      "key": 6,
+      "value": 67115388
+    },
+    {
+      "key": 8,
+      "value": 100677366
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 39,
+      "value": 0.75
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Mr. P"
+    },
+    {
+      "key": 5,
+      "value": "Penguin"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46022,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P looks at the letter and hops up and down with excitement. You don't know what the letter said, but you can see the happiness on Mr. P's face."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46023,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 346775165,
+              "heroxp64": 0
+            },
+            {
+              "type": 113,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 17500
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "LegendaryQuestsB"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 46022
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P sticks his head into the Igloo, chatters something to the small pengy, and then looks at you approvingly."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 33981
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P thinks MacNiall's Freehold needs a candy store."
+            }
+          ],
+          "probability": 0.02
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P is enjoying the warm sunshine and soothing ocean sounds"
+            }
+          ],
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P is sitting outside nibbling on cookies when you hand him the Small Sack of Penguin Treats."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P sniffs at the sack and can smell the pengy food. Mr. P sticks his tongue out at it but knows that a proper diet is best for young pengys. Mr. P nods at you for a job well done."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P continues to nibble on his cookie a bit then hands it to you."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 71883,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Odd, it's shaped like an igloo... Maybe you should look for a mechanic who knows a thing or two about igloos."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34381
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P inspects your Portable Igloo and nods. Mr. P has never been fond of igloos but understands that not all pengys like the warm weather like he does."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P has one final important task for you. He has received news that a pengy rookery has been overrun by mean old Eaters. Mr. P wants you to help save the pengy population and rescue an egg."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P draws a small but highly detailed map of the Halatean Isles in the sand, pointing out a location that seems to be at 80.8N, 57.4W."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 71884
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P is so happy to see that you have saved an egg he jumps up and down and does a little belly slide. Mr. P waddles into his house for a moment and returns with a gift for you, your very own pet pengy."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 33981,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 6000000,
+              "heroxp64": 0
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "petpenguinwait"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "petpenguinstart"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 71882
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "petpenguinwait"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P looks at you with pride in his eyes, and then nibbles on a piece of candy contentedly."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "petpenguinwait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckWrapper"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "petpenguinstart"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "LegendaryQuestsB"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LegendaryQuestCounter_0913"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "LegendaryQuestsB"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "petpenguinstart"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "petpenguinwait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P reaches into his \"P-pocket\" and pulls out a small piece of candy. His eyes light up at the sight of it and he quickly tosses it into his mouth."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P leans back and continues to enjoy his sweet treat when he realizes he is being watched."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Feeling a little embarrassed Mr. P puffs up his belly and squints at you. You feel as if this strange little penguin is judging you. After a few awkward moments he picks up an old candy wrapper from the ground, smoothes \t\t\t\t\t\tit out a bit and hands it to you."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34378,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Mr. P sits back again and hums to himself while rubbing his tummy."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "petpenguinstart"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "petpenguinstart"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P sniffs at your pockets, and then looks through your packs for the pengy food. Not finding any, he draws a tiny but highly detailed map of Osteth in the sand."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Looking at the map, there is a Pet Store noted at 35.2N, 39.4E."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34378"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P sniffs at your pockets, and then looks at you expectantly."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34381"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P looks at you for a minute, sighs, and then draws a tiny but highly detailed map of Osteth in the sand."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As you look at the map, you realize you should be looking around 68.5S, 25.5E for a Snowman."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-71883"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P shivers slightly, like the temperature suddenly dropped, and then looks at you expectantly."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-71884"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P looks you over for a pengy egg, seeming a bit excited that you may have one."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-71882"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckTreats"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34378"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckCookie"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34381"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckIgloo"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-71883"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckEgg"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-71884"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mr. P looks you over for a pengy egg."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Failing to find a pengy egg on you, Mr. P draws a small but highly detailed map of the Halatean Isles in the sand, pointing out a location that seems to be at 80.8N, 57.4W."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-71882"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-34378",
+              "cprof": {
+                "wcid": 34378,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckWrapper"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-34381",
+              "cprof": {
+                "wcid": 34381,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckTreats"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-71883",
+              "cprof": {
+                "wcid": 71883,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckCookie"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-71884",
+              "cprof": {
+                "wcid": 71884,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckIgloo"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-71882",
+              "cprof": {
+                "wcid": 71882,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckEgg"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:37.4090541Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

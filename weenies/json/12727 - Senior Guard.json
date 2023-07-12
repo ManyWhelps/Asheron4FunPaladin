@@ -1,0 +1,2097 @@
+{
+  "wcid": 12727,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 145
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 135
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 130
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 115
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 70,
+      "current": 140
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 70,
+      "current": 210
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50,
+      "current": 165
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 45
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 845
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Senior Guard"
+    },
+    {
+      "key": 3,
+      "value": "Male"
+    },
+    {
+      "key": 4,
+      "value": "Sho"
+    },
+    {
+      "key": 5,
+      "value": "Soldier"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 10870,
+      "palette": 17,
+      "shade": 0.699999988079071,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 118,
+      "palette": 14,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 816.0114,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 816.0114,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 816.0114,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 100.0,
+              "msg": "Double-click on me to hear what I have to say."
+            }
+          ],
+          "probability": 0.001,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "So this is the pair of bellows the Blacksmith has been so worried about! I see that you've vanquished those pesky Mosswarts. Take this to him--I'm sure he'll appreciate it and reward you to boot!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12710,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12710
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Aha! You have vanquished our fearsome Sparring Golems. Thank you -- I'll be sure to replenish them with this for future arrivals."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12709
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No thank you. This will come in useful later on in your adventures--keep it."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 1077,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 1077
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This looks like a wing pulled off one of those Carpenter Wasps that have been bothering the Academy Foreman lately. Take this to him--I'm sure he'll appreciate it."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 13089,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 13089
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Ah! The Blacksmith must have rewarded you for helping him with his little...problem. This oil was prepared especially for us by the alchemists among our beloved Queen's most trusted advisors. Use this oil on one of the items sold by the Academy Quartermaster--you'll find that it will improve significantly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12711,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12711
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12746,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12746
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12740,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12740
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12741,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12741
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12742,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12742
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12739,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12739
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12744,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12744
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12745,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12745
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12743,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12743
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12747,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12747
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12748,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12748
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is one of the Training items forged in our Academy. If you use the Blacksmith's Oil of Rendering on it, you'll find its powers will improve greatly."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12749,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12749
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12752,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12752
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12751,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12751
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12754,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12754
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12753,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12753
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12750,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12750
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12755,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12755
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12756,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12756
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12757,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12757
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12758,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12758
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12759,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12759
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Senior Guard smiles as he weighs it in his hands and slowly inspects its craftmanship."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You have created one of the Academy weapons! Your progress has been excellent. You should keep this as a reward, for you have come far."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12760,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Suddenly the Senior Guard's face turns grave, and he pauses a moment before speaking again."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have learned that the outer courtyard of the Academy has come under attack. The blast has weakened our defenses and caused a breach in the outer walls. There is no time to lose--the Sentry in that area has requested immediate help. I now give you permission to use the Portal to the Outer Courtyard. You must go to her aid!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12760
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is the key to the Quartermaster's workshop. You should pay him a visit! To unlock the door, double-click on the key, then click on the door."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 12707,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 12707
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WaspWingGiven"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OilGiven"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WaspWingGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RecruitSent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OilGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "What? You're still here? They Royal Guard needs your help immediately! You must assist him! Use the portal to the Outer Courtyard!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RecruitSent"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Goodness. You've vanquished the Carpenter Wasps AND the Mosswarts? You are unbeatable! Good job! Truly deserving of a weapons upgrade, in my mind. Have you taken the Blacksmith's Oil of Rendering to the Quartermaster's yet? Once you craft your Academy weapon, give it to me for inspection--I would like to oversee your further progress."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RecruitSent"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Congratulations on helping the Academy Foreman clear out those Carpenter Wasps--one can't build a fortification with rotten wood! Now, you should visit the Academy Blacksmith--undoubtably he will have a task for you as well."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OilGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Greetings! As you can see, we are still fortifying this area. We are still unprepared to give proper training drills, but you can do much to help us prepare the Academy for others! Feel free to explore this area--we have hidden chests filled with goodies for you to discover. Also, talk to the others who work here with me--they all enjoy meeting new arrivals and will have tasks for you. When you have finished those tasks, come back to see me--I would love to see your progress."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WaspWingGiven"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:01:42.6086616Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

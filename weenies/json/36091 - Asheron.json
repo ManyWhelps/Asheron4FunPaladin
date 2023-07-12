@@ -1,0 +1,339 @@
+{
+  "wcid": 36091,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 610
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 495,
+      "current": 800
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 390,
+      "current": 1000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 4400,
+      "current": 5000
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 51
+    },
+    {
+      "key": 3,
+      "value": 61
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 710
+    },
+    {
+      "key": 93,
+      "value": 6292508
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556936
+    },
+    {
+      "key": 2,
+      "value": 150995214
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67112626
+    },
+    {
+      "key": 7,
+      "value": 268436402
+    },
+    {
+      "key": 8,
+      "value": 100673074
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.0
+    },
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 76,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Asheron"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "I am Asheron Realaidain, heir of Lord Atlan and Lady Maila and last scion of the Yalaini."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeIntro"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AsheronIntro"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "No. I have come to work toward alliance against our common enemy Bael'Zharon, and I believe that exchanging insults is counterproductive."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 17,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "Lady Aerfalle and Lord Haranue both look upon Asheron with dark looks."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerfalleDrink"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AsheronRetort"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "Asheron holds the chalice up and says, \"Yes, we must work toward unity against a common foe.\" He offers the chalice to Claude."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1073741851
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeAttack"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AsheronDrink"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 4.0,
+              "extent": 80.0,
+              "msg": "Thank you, Isin. Know that you have chosen wisely, and repentance is not impossible even at this late date."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DuleRepent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AsheronDiscuss"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 3.0,
+              "extent": 80.0,
+              "msg": "So be it."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerfalleDiscuss"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AsheronRespond"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 8.0,
+              "extent": 80.0,
+              "msg": "Here is what I would propose, then - what I believe is needed in order to defeat Bael'Zharon. Let us obtain and use these artifacts - forge them into the keystone of a ritual, whereby I may weaken him. Then he may perhaps be defeated, at least for a time..."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ambush"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AsheronFinish"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:56.0536196Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

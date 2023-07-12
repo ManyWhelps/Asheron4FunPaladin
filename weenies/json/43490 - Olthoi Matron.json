@@ -1,0 +1,608 @@
+{
+  "wcid": 43490,
+  "weenieType": 12,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 380
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 420
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1500,
+      "current": 1710
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500,
+      "current": 920
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 250
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 39,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 1
+    },
+    {
+      "key": 3,
+      "value": 8
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 586
+    },
+    {
+      "key": 74,
+      "value": 1613561775
+    },
+    {
+      "key": 75,
+      "value": 0
+    },
+    {
+      "key": 76,
+      "value": 100000
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557165
+    },
+    {
+      "key": 2,
+      "value": 150995135
+    },
+    {
+      "key": 3,
+      "value": 536871037
+    },
+    {
+      "key": 6,
+      "value": 67113288
+    },
+    {
+      "key": 7,
+      "value": 268437207
+    },
+    {
+      "key": 8,
+      "value": 100667623
+    },
+    {
+      "key": 22,
+      "value": 872415379
+    },
+    {
+      "key": 30,
+      "value": 86
+    },
+    {
+      "key": 57,
+      "value": 43491
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 37,
+      "value": 0.8
+    },
+    {
+      "key": 38,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 0.8
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 77,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Olthoi Matron"
+    },
+    {
+      "key": 5,
+      "value": "Soldier Vendor"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 43685,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43686,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43687,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43672,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43681,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43682,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43683,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43684,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43627,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43628,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43629,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43630,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43595,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43596,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43597,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43598,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43599,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43600,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43601,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43602,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43603,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43604,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43605,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43606,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43607,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43608,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43609,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43610,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43611,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43612,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43613,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43614,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43615,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43616,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43617,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43618,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43619,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43620,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43621,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43622,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43623,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43624,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43625,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43626,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43732,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43633,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43635,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43634,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43701,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43819,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:17.1941191Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

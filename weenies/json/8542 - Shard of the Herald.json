@@ -1,0 +1,1027 @@
+{
+  "wcid": 8542,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 350
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 350
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 675,
+      "current": 850
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600,
+      "current": 950
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 2500,
+      "current": 2900
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 50,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 200,
+            "armor_vs_pierce": 200,
+            "armor_vs_bludgeon": 200,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 240,
+            "armor_vs_acid": 216,
+            "armor_vs_electric": 20000,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.5,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.5,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 10,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 220,
+            "armor_vs_slash": 220,
+            "armor_vs_pierce": 220,
+            "armor_vs_bludgeon": 220,
+            "armor_vs_cold": 220,
+            "armor_vs_fire": 264,
+            "armor_vs_acid": 238,
+            "armor_vs_electric": 22000,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.5,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.5,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 12,
+        "value": {
+          "dtype": 4,
+          "dval": 50,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 200,
+            "armor_vs_pierce": 200,
+            "armor_vs_bludgeon": 200,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 240,
+            "armor_vs_acid": 216,
+            "armor_vs_electric": 20000,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.25,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.25,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 13,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 220,
+            "armor_vs_slash": 220,
+            "armor_vs_pierce": 220,
+            "armor_vs_bludgeon": 220,
+            "armor_vs_cold": 220,
+            "armor_vs_fire": 264,
+            "armor_vs_acid": 238,
+            "armor_vs_electric": 22000,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.30000001192092896,
+            "MLB": 0.4000000059604645,
+            "LLB": 0.5,
+            "HRB": 0.30000001192092896,
+            "MRB": 0.4000000059604645,
+            "LRB": 0.5
+          }
+        }
+      },
+      {
+        "key": 15,
+        "value": {
+          "dtype": 4,
+          "dval": 50,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 200,
+            "armor_vs_pierce": 200,
+            "armor_vs_bludgeon": 200,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 240,
+            "armor_vs_acid": 216,
+            "armor_vs_electric": 20000,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.25,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.25
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 220,
+            "armor_vs_slash": 220,
+            "armor_vs_pierce": 220,
+            "armor_vs_bludgeon": 220,
+            "armor_vs_cold": 220,
+            "armor_vs_fire": 264,
+            "armor_vs_acid": 238,
+            "armor_vs_electric": 22000,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.30000001192092896,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.25,
+            "HRF": 0.30000001192092896,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.25,
+            "HLB": 0.6000000238418579,
+            "MLB": 0.5,
+            "LLB": 0.25,
+            "HRB": 0.6000000238418579,
+            "MRB": 0.5,
+            "LRB": 0.25
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 4,
+          "dval": 50,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 200,
+            "armor_vs_pierce": 200,
+            "armor_vs_bludgeon": 200,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 240,
+            "armor_vs_acid": 216,
+            "armor_vs_electric": 20000,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.10000000149011612,
+            "MLB": 0.10000000149011612,
+            "LLB": 0.0,
+            "HRB": 0.10000000149011612,
+            "MRB": 0.10000000149011612,
+            "LRB": 0.0
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 6,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 120,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 47
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 135
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 2
+    },
+    {
+      "key": 68,
+      "value": 5
+    },
+    {
+      "key": 69,
+      "value": 4
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 146,
+      "value": 80025
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556732
+    },
+    {
+      "key": 2,
+      "value": 150995107
+    },
+    {
+      "key": 3,
+      "value": 536871001
+    },
+    {
+      "key": 4,
+      "value": 805306407
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435859
+    },
+    {
+      "key": 8,
+      "value": 100670283
+    },
+    {
+      "key": 22,
+      "value": 872415347
+    },
+    {
+      "key": 35,
+      "value": 461
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 1.0
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 12,
+      "value": 0.1
+    },
+    {
+      "key": 13,
+      "value": 1.0
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.0
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.2
+    },
+    {
+      "key": 18,
+      "value": 1.08
+    },
+    {
+      "key": 19,
+      "value": 100.0
+    },
+    {
+      "key": 31,
+      "value": 12.0
+    },
+    {
+      "key": 34,
+      "value": 1.0
+    },
+    {
+      "key": 36,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 0.9
+    },
+    {
+      "key": 68,
+      "value": 0.65
+    },
+    {
+      "key": 69,
+      "value": 0.3
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 0.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 0.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 80,
+      "value": 2.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 122,
+      "value": 2.0
+    },
+    {
+      "key": 125,
+      "value": 0.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Shard of the Herald"
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 270,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 450,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 450,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 100,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 10,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 500,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 500,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 500,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 250,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 3,
+      "value": [
+        {
+          "category": 3,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 2019
+            },
+            {
+              "type": 16,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "In the depths below the ruined Cathedral of Ithaenc, %s's party make the grievous error of shattering the last Soul Crystal! The patterns of magic are rent asunder."
+            },
+            {
+              "type": 16,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The currents coursing through the ley lines flare and sputter in dismay. A tremor passes through the ground, as if the world itself were recoiling in horror. For a moment, all is still. The wind holds its breath. Then, on the back of a rising gale, there comes the faint sound of black laughter."
+            },
+            {
+              "type": 16,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Herald is come."
+            },
+            {
+              "type": 16,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The children of Ispar have lost..."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to be drifting in roiling ashen darkness. But from a great distance you sense a blossoming power. It is oddly familiar."
+            }
+          ],
+          "probability": 0.03,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to regard a flickering violet light. You know this light... it lit your dreams as a child."
+            }
+          ],
+          "probability": 0.06,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to call out to the abyss. You tell it of the violet light. It stirs anxiously, and the movements of it lacerate your will. Go. Find. Take. A key. A redoubt. A source. A door. A path. All the lights. All the ways opened. Mend the great crime. Revenge us. Vengeance. Vengeance."
+            }
+          ],
+          "probability": 0.09,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to burn with fury. You remember a fat man who preached of sin and atonement, who waggled a disdainful finger as your people starved and froze. They must pay. You will snap them like twigs. You will feast on their children, as yours wasted away in their ragged blankets. The world shall be reborn in cleansing fire. You will teach them. If they say your blood be tainted, you shall bathe in theirs."
+            }
+          ],
+          "probability": 0.12,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to hover over the sea. Waves flee from your approach, dashing each other to pieces in fright."
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to stand upon a beach. The sands blister and fuse into glass at each step."
+            }
+          ],
+          "probability": 0.18,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to stalk through the woods. The grass withers and blackens in a great arc before you. There is a howling at your back."
+            }
+          ],
+          "probability": 0.21,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to survey an army. Rank upon rank of black, shimmering figures stand forth from a vast reach of ebon mist. Their numbers are infinite. You burn with pride for them."
+            }
+          ],
+          "probability": 0.24,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to be fighting a great battle. A rotting corpse, animated by obscure magic, thrusts a spear at you. You slap the corpse away in disdain, shattering him into a hundred pieces."
+            }
+          ],
+          "probability": 0.27,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to approach a great fortress. It sits atop a high, dusty mesa. The stars shudder and fade as you approach."
+            }
+          ],
+          "probability": 0.3,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to see a great mesa, its base hidden in skirls of deadly black fog. On the plateau above these amorphous seas rests a fortress. On its battlements, torches scurry back and forth, and you laugh to see them."
+            }
+          ],
+          "probability": 0.33,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to fly through stone corridors. Torches sputter and smoke and die before you. You roar. They know you are there. Let them know what awaits them."
+            }
+          ],
+          "probability": 0.36,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to burst through a heavy wooden door. A boy stands before you. He stumbles back, revealing a great spinning snowflake-shape, throwing violet-white light across the floor. There are five others in the shadows here. One is bleeding. You can smell it."
+            }
+          ],
+          "probability": 0.39,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to see two women standing beside a boy. One is aged, her copper curls streaked with silver. She holds herself straight, but leans upon a cane."
+            },
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "The other is younger, with beads tied into her straight sable hair. Her bare arms are a patchwork of scars, and her marble-green eyes regard you with neither fear nor defiance. The two women exchange a glance, and reach for the boy. A drop of blood falls from the old woman's hand and spatters the floor."
+            }
+          ],
+          "probability": 0.42,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you seem to grip an old man by the head. He wears frost blue robes. He shrieks, clawing at your hand as your grip tightens. His skull cracks, and you fling him aside, reaching for a violet light. You will storm the gates of heaven. They cannot stop you. We... YOU... will be avenged."
+            }
+          ],
+          "probability": 0.45,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Your vision swims. For a moment, you behold a wasteland. There is ash, ash everywhere. The broiling wind blinds you with it. But there is movement; a figure flails in the dust. A young man, badly burned. He gasps at the wasteland, and mumbles something as he stares with disbelieving eyes. He scrabbles at the dust, as if seeking something buried. But there is nothing."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "\"Maitrell?\" he says, numbly. And then he howls the word into the night. \"Maitrell!\" He sinks to the ground, sobs overcoming him."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "Stars blink awake in the vault of night. The man weeps, and the winds never cease."
+            }
+          ],
+          "probability": 0.48,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 80,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 170,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 279,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 628,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 652,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 1089,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 1161,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 1176,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 1242,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 1312,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    },
+    {
+      "key": 1420,
+      "value": {
+        "casting_likelihood": 2.0829999446868896
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:00:12.1959913Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

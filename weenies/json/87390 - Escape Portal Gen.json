@@ -1,0 +1,117 @@
+{
+  "wcid": 87390,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 103,
+      "value": 2
+    },
+    {
+      "key": 142,
+      "value": 3
+    },
+    {
+      "key": 145,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 999999.0
+    },
+    {
+      "key": 43,
+      "value": 2.0
+    },
+    {
+      "key": 121,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Escape Portal Gen"
+    },
+    {
+      "key": 34,
+      "value": "EscapePortalEvent"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 189.069,
+          "y": -98.9344,
+          "z": -35.995
+        },
+        "angles": {
+          "w": 0.912,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.410191
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 15597852,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": 0,
+      "type": 87389,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:13:00.8174679Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

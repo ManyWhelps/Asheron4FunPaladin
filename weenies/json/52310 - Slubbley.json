@@ -1,0 +1,756 @@
+{
+  "wcid": 52310,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 326
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 456
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 30.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Slubbley"
+    },
+    {
+      "key": 5,
+      "value": "Caretaker"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 43833,
+      "palette": 85,
+      "shade": 0.03449999913573265,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43828,
+      "palette": 85,
+      "shade": 0.03449999913573265,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43830,
+      "palette": 85,
+      "shade": 0.03449999913573265,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43831,
+      "palette": 85,
+      "shade": 0.03449999913573265,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43832,
+      "palette": 85,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.085,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.1,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435539
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435540
+            }
+          ],
+          "probability": 0.2,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KilltaskCorruptedGravestonesWait_1311"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've completed your quest already."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You may complete this quest again in %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KilltaskCorruptedGravestonesWait_1311"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KilltaskCorruptedGravestones_1311@KillTaskCompleted"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KilltaskCorruptedGravestones_1311@KillTaskInProgress"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Here is your reward."
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 15000000,
+              "heroxp64": 0
+            },
+            {
+              "type": 113,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 3000
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KilltaskCorruptedGravestonesWait_1311"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KilltaskCorruptedGravestones_1311"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Rewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KilltaskCorruptedGravestones_1311@KillTaskCompleted"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KilltaskCorruptedGravestones_1311@KillTaskInProgress",
+              "max": 2147483647,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KilltaskCorruptedGravestonesWait_1311"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Destroy 6 of the Corrupted Gravestones."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KilltaskCorruptedGravestones_1311@KillTaskCompleted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This place gives me the creeps, especially at night! The deceased just...CRAWL their way up out of their graves and start shambling, giving no thought to how this might horrify a little ole caretaker like myself!"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Destroy 6 of these Corrupted Gravestones within the Graveyard before their resident makes it to the surface and I will give you a little something for your efforts."
+            },
+            {
+              "type": 70,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 0,
+              "msg": "KilltaskCorruptedGravestones_1311"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KilltaskCorruptedGravestones_1311@KillTaskInProgress"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 43189,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.06,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 44719,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.12,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 44720,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.18,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 31425,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.24,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27256,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.3,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27257,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.36,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 47055,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.42,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27258,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.48,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 30813,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.54,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38726,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 3,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.6,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32672,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.66,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 52033,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.72,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 5,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.78,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.84,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 20,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.9,
+          "quest": "Rewards"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:41.1494245Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,823 @@
+{
+  "wcid": 34010,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 95
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 190
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 120
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 80
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 2
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 8,
+      "value": 100667377
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Maqudh al Nishadina"
+    },
+    {
+      "key": 5,
+      "value": "Desecrator of Temples"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 34024,
+      "palette": 14,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6046,
+      "palette": 20,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6047,
+      "palette": 9,
+      "shade": 0.9818000197410583,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 107,
+      "palette": 20,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SilifiofCrimsonNightComplete@GiveSpine"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 22951
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SilifiofCrimsonNightComplete@GiveFrag"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6624
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Excellent. This is the final ingredient I require. I can now construct for you a new gem setting to add to your Silifi of the Crimson Stars. As I said, it will imbue your Silifi, with whatever combination of jewels you currently have, with the power of Critical Strike and Lightning Cleaving. However, this new gem setting can only be applied to a Silifi that already has three gems attached to it. You will not be able to use this on an incomplete Silifi. Take this, and go forth with your new Silifi of Crimson Night."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 20000000,
+              "percent": 0.07
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34004,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SilifiofCrimsonNightComplete"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If your are not an axe wielder and do not want this item, while I have to wonder why you bothered to speak with me, then I will take back the gem setting in exchange for some practical knowledge."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurnedInPlateSpine"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RubyCrimsonNightPickup"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpoketoMaqudh"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CryptCrimsonNightFlagged"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 70034
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A pity you have no use for this... Then again, we can't all be strong enough to wield such a mighty axe. Perhaps some practical knowledge will serve you better."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 2064801,
+              "percent": 0.03
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34004
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsLevel70",
+              "max": 999,
+              "min": 70,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've already given you an infusion to improve your Silifi of the Crimson Stars, I believe."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You must wait %tqt to complete this quest again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilifiofCrimsonNightComplete"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I can see the light of the ruby shining out of your pack. Please hand it over."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RubyCrimsonNightPickup"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've received the Shadow Fragment and the Plate Armoredillo Spine from you... But what of the ruby? I asked you to take Darayavaush's ruby. That old undead lords over a crypt located at 12.3 N, 8.2 E. Go there and take his ruby."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CryptCrimsonNightFlagged"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Yes, you've given me the Plate Armoredillo Spine... I asked you to assemble a Shadow Fragment for me, didn't I? Hunt those terrible blights upon creation until you have collected enough material to combine into a Shadow Fragment. Once you give me the Fragment, we can discuss final steps to improving your Silifi."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurnedInPlateSpine"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Have you found a Plate Armoredillo Spine yet? I cannot help you until you've brought me one of those."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpoketoMaqudh"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Yes, you've given me the Plate Armoredillo Spine... I asked you to assemble a Shadow Fragment for me, didn't I? Hunt those terrible blights upon creation until you have collected enough material to combine into a Shadow Fragment. Once you give me the Fragment, we can discuss final steps to improving your Silifi."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 22951,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurnedInPlateSpine@GiveSpine"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6624,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've received the Shadow Fragment and the Plate Armoredillo Spine from you... But what of the ruby? I asked you to take Darayavaush's ruby. That old undead lords over a crypt located at 12.3 N, 8.2 E. Go there and take his ruby."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CryptCrimsonNightFlagged@GiveFrag"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Excellent. This Shadow Fragment will help me repair the setting on the axe... But in the meantime, you need to seek out the final ingredient... There is a crypt not too far from here, ruled by a terrible undead lord named Darayavaush. In life he was a great king, but in undeath he is a terrible tyrant. Go and destroy Darayavaush, and bring me the ruby he carries. It is his ruby that will provide the enchantment for your improved Silifi. Darayavaush resides in a crypt among his minions located at 12.3 N, 8.2 E."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CryptCrimsonNightFlagged"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurnedInPlateSpine@GiveFrag"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've received the Shadow Fragment and the Plate Armoredillo Spine from you... But what of the ruby? I asked you to take Darayavaush's ruby. That old undead lords over a crypt located at 12.3 N, 8.2 E. Go there and take his ruby."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 22951,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CryptCrimsonNightFlagged@GiveSpine"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've already given you an infusion to improve your Silifi of the Crimson Stars, I believe."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 22951,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You must wait %tqt to complete this quest again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilifiofCrimsonNightComplete@GiveSpine"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've already given you an infusion to improve your Silifi of the Crimson Stars, I believe."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6624,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You must wait %tqt to complete this quest again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilifiofCrimsonNightComplete@GiveFrag"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RubyCrimsonNightPickup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilifiofCrimsonNightComplete"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CryptCrimsonNightFlagged"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RubyCrimsonNightPickup"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurnedInPlateSpine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CryptCrimsonNightFlagged"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpoketoMaqudh"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurnedInPlateSpine"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Do you wield the Silifi of Crimson Stars? Would you like to wield a Silifi like mine? If so, I can help you improve the weapon, to add the Critical Strike ability and Lightning Cleaving properties to it... Yes, I have a way of repairing one of the damaged jewel settings. But my method demands a very particular ruby... Never mind that for now. If you wish to start on the path to improving your Silifi, you must first bring me a Plate Armoredillo Spine. Do not trouble me with the specifics. Just bring me a spine."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpoketoMaqudh"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpoketoMaqudh"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Yes, this will do. I need this to reinforce the blade, which will break under the power of the enchantments I plan to - but that is not important right now. The next step is for you to bring me a Shadow Fragment. Yes, you must slay Shadows, those blots of corruption. Collect enough of their shards until you have combined them into a Shadow Fragment. We can go no further until you bring me that."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurnedInPlateSpine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurnedInPlateSpine@GiveSpine"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurnedInPlateSpine@GiveFrag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CryptCrimsonNightFlagged@GiveFrag"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Have you found a Plate Armoredillo Spine yet? I cannot help you until you've brought me one of those."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6624,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurnedInPlateSpine@GiveFrag"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurnedInPlateSpine@GiveSpine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CryptCrimsonNightFlagged@GiveSpine"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CryptCrimsonNightFlagged@GiveSpine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilifiofCrimsonNightComplete@GiveSpine"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CryptCrimsonNightFlagged@GiveFrag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilifiofCrimsonNightComplete@GiveFrag"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SilifiofCrimsonNightComplete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsLevel70"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I don't think you're strong enough to bother with.  Come back when you are tougher."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsLevel70"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:34.0254748Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

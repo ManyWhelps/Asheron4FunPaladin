@@ -1,0 +1,192 @@
+{
+  "wcid": 88308,
+  "weenieType": 24,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 81,
+      "value": 2
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 83,
+      "value": 2048
+    },
+    {
+      "key": 93,
+      "value": 12
+    },
+    {
+      "key": 106,
+      "value": 500
+    },
+    {
+      "key": 119,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555536
+    },
+    {
+      "key": 2,
+      "value": 150994977
+    },
+    {
+      "key": 8,
+      "value": 100668114
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [
+    {
+      "key": 16,
+      "value": 0
+    }
+  ],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.8
+    },
+    {
+      "key": 41,
+      "value": 0.0
+    },
+    {
+      "key": 43,
+      "value": 2.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Falatacot Patrol Trap"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 8,
+      "value": [
+        {
+          "category": 8,
+          "emotes": [
+            {
+              "type": 72,
+              "delay": 0.0,
+              "extent": 0.0,
+              "amount": 1
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 300.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 3.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 40254,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 300.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": -3.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 40254,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:13:21.396307Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

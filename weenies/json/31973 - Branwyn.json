@@ -1,0 +1,493 @@
+{
+  "wcid": 31973,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140,
+      "current": 200
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180,
+      "current": 300
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100,
+      "current": 350
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 127
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Branwyn"
+    },
+    {
+      "key": 5,
+      "value": "Worried Wife"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 14916,
+      "palette": 1,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 14905,
+      "palette": 61,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, my love, I am slain as well."
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "Branwyn slips her husband's wedding band upon her finger and places her own gently in your palm."
+            },
+            {
+              "type": 3,
+              "delay": 0.2,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 31977,
+                "palette": 1,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "Take it, I can wear it no longer."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31976
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This journal entails my husband's journey along the Lost Wish range, north towards the Haliana settlement. Where did you find this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "You take a deep breath and relate to Branwyn the tale of how you came across a part of her husband's journal. "
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "I... see. Are there any other pieces of this journal? Something to complete the account my husband began in this part of his journal? I must know what happened to him."
+            },
+            {
+              "type": 49,
+              "delay": 0.2,
+              "extent": 1.0,
+              "min64": 6000000,
+              "max64": 11870850,
+              "percent": 0.038
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31979
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As he walked the northern shore, a great leviathan rose up and swallowed him whole. Were it not for the debris within its gullet, the beast surely would have pulled him down into the icy depths from whence it came. Where did you find this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "You take a deep breath and relate to Branwyn the tale of how you came across a part of her husband's journal. "
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "I... see. Are there any other pieces of this journal? A beginning and end to the account my husband wrote in this part of his journal? I must know what happened to him."
+            },
+            {
+              "type": 49,
+              "delay": 0.2,
+              "extent": 1.0,
+              "min64": 6000000,
+              "max64": 11870850,
+              "percent": 0.038
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31980
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The undead that my husband found seemed horribly intent on attacking him. What would my husband have they would want? He is not what one would call skilled in the ways of magic and he certainly has no items of power. Where did you find this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "You take a deep breath and relate to Branwyn the tale of how you came across a part of her husband's journal. "
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "I... see. Are there any other pieces of this journal? A beginning and middle to the account my husband wrote in this part of his journal? I must know what happened to him."
+            },
+            {
+              "type": 49,
+              "delay": 0.2,
+              "extent": 1.0,
+              "min64": 13500000,
+              "max64": 24362355,
+              "percent": 0.075
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31981
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckLevel",
+              "max": 275,
+              "min": 130,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please, bold one! Would you help me find my husband Geowulf the Stonehearted? It has been weeks since he left and I am worried something awful may have happened to him!"
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "I am sorry. I should know to behave better in front of those who would help me."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "One morning, Geowulf and I had an argument, over some silly little thing now that I think upon it. He wanted to move closer to Glenden Wood to be near his ailing father. I love Geowulf's father dearly, but Arwic has been so profitable for my small floral business that I couldn't fathom leaving. I suppose I could commute, but at the time the thought didn't even enter my mind."
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "Branwyn sniffles slightly and sounds as if she is on the verge of breaking into tears once again."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "We... we fought, and he grew angry and left. On his way he took his hiking pack and canteen and I have not seen him since."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "He would at times hike along the western reaches of the Lost Wish range, and he always made certain to stop along the northern coast to take in the ocean view. I couldn't stand the hike, but I would often meet him at the Haliana settlement and we would walk the beach together."
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "Branwyn fights back another surge of tears and continues with her story."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "I ... just I... oh Geowulf!"
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "Please find my husband! Start your search along the northern coast near that settlement I told you of. Please find him, bring me good news of my beloved!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckLevel"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oh sweet young one. Thank you for offering your aid, but I fear that the task I would have you do be far beyond your grasp."
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "Branwyn manages smile weakly at you, but her grief overwhelms her once again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckLevel"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:11.9541875Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,169 @@
+{
+  "wcid": 36791,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 3,
+      "value": 14
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 62
+    },
+    {
+      "key": 93,
+      "value": 2098196
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437267
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 1.0
+    },
+    {
+      "key": 76,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Elysa Strathelar"
+    }
+  ],
+  "skills": [
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "Where is the key..."
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "Nonsense...I will not believe that this place is uninhabited."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767225
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "Whoever's in there - open up! I won't go away! You must listen to us, of the plight of our people! We were summoned here by strange portals, an unknown magic we have never seen be-"
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435617
+            },
+            {
+              "type": 77,
+              "delay": 0.5,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:03.1740958Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

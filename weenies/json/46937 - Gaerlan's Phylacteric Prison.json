@@ -1,0 +1,2081 @@
+{
+  "wcid": 46937,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200,
+      "current": 201
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 151,
+      "current": 152
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 201,
+      "current": 202
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 90,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 90,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 200,
+            "armor_vs_slash": 158,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 160,
+            "armor_vs_cold": 200,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 200,
+            "armor_vs_electric": 200,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 47
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 710
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 133,
+      "value": 0
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 5228
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557978
+    },
+    {
+      "key": 2,
+      "value": 150995223
+    },
+    {
+      "key": 3,
+      "value": 536871001
+    },
+    {
+      "key": 4,
+      "value": 805306407
+    },
+    {
+      "key": 8,
+      "value": 100673073
+    },
+    {
+      "key": 22,
+      "value": 872415348
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 1.1
+    },
+    {
+      "key": 4,
+      "value": 0.5
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 13,
+      "value": 0.79
+    },
+    {
+      "key": 14,
+      "value": 0.79
+    },
+    {
+      "key": 15,
+      "value": 0.8
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.0
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Gaerlan's Phylacteric Prison"
+    },
+    {
+      "key": 15,
+      "value": "A crystal prison containing Gaerlan's life essence."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 14,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1315.0292,
+        "init_level": 200,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 16,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1315.0292,
+        "init_level": 200,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 22,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1315.0292,
+        "init_level": 200,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1315.0292,
+        "init_level": 200,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1315.0292,
+        "init_level": 900,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1315.0292,
+        "init_level": 900,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1315.0292,
+        "init_level": 900,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanDefeated"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A woman's voice sounds in your mind, \"You have not yet earned the right to draw what you will from his soul. Return when you have waited a full day. Greed is a poor attribute to have, child."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanDefeated"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanDefeated"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46948,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46959,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanKiller"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanCrit"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanPreamble"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanQuest"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 370000000,
+              "percent": 0.3
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 15000
+            },
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "war_magic_trained",
+              "stat": 34
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanKiller"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanDefeated"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46949,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46959,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanCrit"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanPreamble"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanQuest"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 370000000,
+              "percent": 0.3
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 15000
+            },
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "war_magic_trained",
+              "stat": 34
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanCrit"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "life_magic_trained",
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanWar1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "shield_trained",
+              "stat": 48
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanLife"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "heavy_trained",
+              "stat": 44
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanShield"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "missile_weapons_trained",
+              "stat": 47
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanSword"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "missile_defense_trained",
+              "stat": 7
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanBow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "finesse_trained",
+              "stat": 46
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanBreastplate"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "light_trained",
+              "stat": 45
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanStaff"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mana_conversion_trained",
+              "stat": 16
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanDagger"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "arcane_lore_trained",
+              "stat": 14
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanRing"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "magic_defense_trained",
+              "stat": 15
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanBracelet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "leadership_trained",
+              "stat": 35
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanNecklace"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RepeatText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanCirclet"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanKiller"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanDefeated"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanCrit"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanKiller"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There is nothing for you here, child."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanCrit"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanWar1"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46941,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.25,
+          "quest": "GaerlanWar1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanWar1"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46942,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.5,
+          "quest": "GaerlanWar1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanWar1"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46943,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.75,
+          "quest": "GaerlanWar1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanWar1"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46944,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanWar1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanLife"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46945,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanLife"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanShield"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72891,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanShield"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanSword"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46960,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.5,
+          "quest": "GaerlanSword"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanSword"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46966,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanSword"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBow"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72892,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.33,
+          "quest": "GaerlanBow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBow"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46964,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.66,
+          "quest": "GaerlanBow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBow"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46967,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanBow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBreastplate"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72893,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanBreastplate"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanStaff"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72896,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.33,
+          "quest": "GaerlanStaff"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanStaff"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72895,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.66,
+          "quest": "GaerlanStaff"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanStaff"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanStaff"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanDagger"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46969,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.5,
+          "quest": "GaerlanDagger"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanDagger"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72899,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanDagger"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanRing"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46940,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanRing"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBracelet"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46938,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanBracelet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanNecklace"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72897,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanNecklace"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanCirclet"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72898,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GaerlanCirclet"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanWar1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "war_magic_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanLife"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "life_magic_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanShield"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "shield_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanSword"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "heavy_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "missile_weapons_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBreastplate"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "missile_defense_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanStaff"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "finesse_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanDagger"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "light_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanRing"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mana_conversion_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBracelet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "arcane_lore_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanNecklace"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "magic_defense_trained"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanCirclet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "leadership_trained"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "life_magic_trained",
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "war_magic_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "shield_trained",
+              "stat": 48
+            }
+          ],
+          "probability": 1.0,
+          "quest": "life_magic_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "heavy_trained",
+              "stat": 44
+            }
+          ],
+          "probability": 1.0,
+          "quest": "shield_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "missile_weapons_trained",
+              "stat": 47
+            }
+          ],
+          "probability": 1.0,
+          "quest": "heavy_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "missile_defense_trained",
+              "stat": 7
+            }
+          ],
+          "probability": 1.0,
+          "quest": "missile_weapons_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "finesse_trained",
+              "stat": 46
+            }
+          ],
+          "probability": 1.0,
+          "quest": "missile_defense_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "light_trained",
+              "stat": 45
+            }
+          ],
+          "probability": 1.0,
+          "quest": "finesse_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mana_conversion_trained",
+              "stat": 16
+            }
+          ],
+          "probability": 1.0,
+          "quest": "light_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "arcane_lore_trained",
+              "stat": 14
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mana_conversion_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "magic_defense_trained",
+              "stat": 15
+            }
+          ],
+          "probability": 1.0,
+          "quest": "arcane_lore_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "leadership_trained",
+              "stat": 35
+            }
+          ],
+          "probability": 1.0,
+          "quest": "magic_defense_trained"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RepeatText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "leadership_trained"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanWar1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanLife"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanShield"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanSword"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBow"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanStaff"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanDagger"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanRing"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanCirclet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanNecklace"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBracelet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GaerlanBreastplate"
+            },
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "war_magic_trained",
+              "stat": 34
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RepeatText"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:03.4411956Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,7262 @@
+{
+  "wcid": 40770,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 55
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 210
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 125
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 29,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 180
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 17,
+      "value": 67115902
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Component Exchanger"
+    },
+    {
+      "key": 5,
+      "value": "Gamesmaster"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 5850,
+      "palette": 5,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@MMD"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 20630
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37363"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37363
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37365"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37365
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37362"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37362
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37364"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37364
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37360"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37360
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37361"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37361
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37353"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37353
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37354"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37354
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37355"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37355
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37357"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37357
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37358"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37358
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37356"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37356
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37359"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37359
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37343"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37343
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37344"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37344
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37345"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37345
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37346"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37346
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37347"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37347
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37349"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37349
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37350"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37350
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37342"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37342
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37351"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37351
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-43379"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 43379
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37352"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37352
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-45370"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 45370
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-45371"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 45371
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37300"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37300
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37373"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37373
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37301"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37301
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37302"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37302
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37303"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37303
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37348"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37348
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37304"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37304
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37305"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37305
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37369"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37369
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37309"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37309
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37310"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37310
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37311"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37311
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37312"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37312
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37313"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37313
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37339"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37339
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37314"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37314
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37315"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37315
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37316"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37316
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37317"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37317
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-38760"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 38760
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37318"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37318
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37319"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37319
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37321"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37321
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37323"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37323
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37324"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37324
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37338"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37338
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37325"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37325
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-43387"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 43387
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37326"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37326
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37327"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37327
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37328"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37328
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-45372"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 45372
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37307"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37307
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37329"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37329
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37330"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37330
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37331"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37331
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-45373"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 45373
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37332"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37332
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-45374"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 45374
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37333"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37333
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37336"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37336
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37337"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37337
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-49455"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 49455
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-41747"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41747
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-43380"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 43380
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37340"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37340
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger@COMP-37341"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37341
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have built up a large stockpile of level eight spell components. If you would like a chance to trade a component you do not need for a new one it will cost you one MMD and the spell component you wish to exchange."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've already paid! Now all I need from you is a spell component for a chance to trade components."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@MMD"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37363,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37363"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37365,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37365"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37362,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37362"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37364,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37364"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37360,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37360"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37361,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37361"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37353,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37353"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37354,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37354"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37355,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37355"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37357,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37357"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37358,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37358"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37356,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37356"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37359,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37359"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37343,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37343"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37344,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37344"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37345,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37345"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37346,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37346"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37347,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37347"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37349,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37349"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37350,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37350"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37342,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37342"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37351,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37351"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 43379,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-43379"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37352,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37352"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45370,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45370"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45371,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45371"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37300,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37300"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37373,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37373"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37301,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37301"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37302,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37302"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37303,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37303"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37348,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37348"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37304,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37304"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37305,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37305"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37369,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37369"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37309,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37309"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37310,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37310"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37311,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37311"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37312,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37312"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37313,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37313"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37339,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37339"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37314,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37314"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37315,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37315"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37316,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37316"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37317,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37317"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38760,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-38760"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37318,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37318"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37319,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37319"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37321,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37321"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37323,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37323"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37324,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37324"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37338,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37338"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37325,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37325"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 43387,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-43387"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37326,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37326"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37327,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37327"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37328,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37328"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45372,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45372"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37307,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37307"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37329,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37329"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37330,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37330"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37331,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37331"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45373,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45373"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37332,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37332"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45374,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45374"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37333,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37333"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37336,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37336"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37337,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37337"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 49455,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-49455"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41747,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-41747"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 43380,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-43380"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37340,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37340"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37341,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_from_bag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37341"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Great! Now all I need from you is a component you would like to exchange."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PaidComponentExchanger"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@MMD"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37363"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37365"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37362"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37364"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37360"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37361"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37353"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37354"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37355"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37357"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37358"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37356"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37359"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37343"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37344"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37345"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37346"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37347"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37349"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37350"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37342"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37351"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-43379"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37352"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45370"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45371"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37300"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37373"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37301"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37302"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37303"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37348"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37304"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37305"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37369"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37309"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37310"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37311"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37312"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37313"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37339"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37314"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37315"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37316"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37317"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-38760"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37318"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37319"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37321"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37323"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37324"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37338"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37325"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-43387"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37326"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37327"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37328"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45372"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37307"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37329"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37330"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37331"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45373"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37332"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-45374"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37333"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37336"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37337"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-49455"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-41747"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-43380"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37340"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please give me an MMD first, then try handing me this component again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PaidComponentExchanger@COMP-37341"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I hope you got something you wanted, if not why not try again?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "final_text"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37363,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.013699,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37365,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.027397,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37362,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.041096,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37364,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.054795,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37360,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.068493,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37361,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.082192,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37353,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.09589,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37354,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.109589,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37355,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.123288,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37357,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.136986,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37358,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.150685,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37356,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.164384,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37359,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.178082,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37343,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.191781,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37344,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.205479,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37345,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.219178,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37346,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.232877,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37347,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.246575,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37349,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.260274,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37350,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.273973,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37342,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.287671,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37351,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.30137,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 43379,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.315068,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37352,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.328767,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45370,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.342466,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45371,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.356164,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37300,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.369863,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37373,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.383562,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37301,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.39726,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37302,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.410959,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37303,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.424658,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37348,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.438356,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37304,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.452055,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37305,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.465753,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37369,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.479452,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37309,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.493151,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37310,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.506849,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37311,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.520548,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37312,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.534247,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37313,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.547945,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37339,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.561644,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37314,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.575342,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37315,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.589041,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37316,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.60274,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37317,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.616438,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38760,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.630137,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37318,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.643836,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37319,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.657534,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37321,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.671233,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37323,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.684932,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37324,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.69863,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37338,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.712329,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37325,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.726027,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 43387,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.739726,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37326,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.753425,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37327,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.767123,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37328,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.780822,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45372,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.794521,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37307,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.808219,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37329,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.821918,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37330,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.835616,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37331,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.849315,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45373,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.863014,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37332,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.876712,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 45374,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.890411,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37333,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.90411,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37336,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.917808,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37337,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.931507,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 49455,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.945205,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41747,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.958904,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 43380,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.972603,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37340,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 0.986301,
+          "quest": "pick_from_bag"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37341,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "final_text"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "pick_from_bag"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:44.752772Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

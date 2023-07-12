@@ -1,0 +1,298 @@
+{
+  "wcid": 51655,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560927
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536871001
+    },
+    {
+      "key": 8,
+      "value": 100690568
+    },
+    {
+      "key": 22,
+      "value": 872415328
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 0.0
+    },
+    {
+      "key": 76,
+      "value": 0.6
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Aetherium Ore"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted1_0813"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 51658
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have already contaminated this Aetherium Ore cache."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Tainted1_0813"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted2_0813"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Tainted1_0813@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted3_0813"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Tainted2_0813"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted1_0813"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted2_0813"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted3_0813"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TaintedAll_0813"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Tainted3_0813"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 51658,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 72,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You pour the Tainted Oil onto the Aetherium Ore. A strange chemical reaction begins as the ore emits a blue glow. You have ruined the first Aetherium Ore cache!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted1_0813"
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tainted1_0813@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Tainted1_0813"
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 51659,
+      "whenCreate": 1,
+      "whereCreate": 1
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:32.7237572Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

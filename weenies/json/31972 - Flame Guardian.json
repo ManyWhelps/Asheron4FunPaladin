@@ -1,0 +1,359 @@
+{
+  "wcid": 31972,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500,
+      "current": 750
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500,
+      "current": 1000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1000,
+      "current": 1500
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 62
+    },
+    {
+      "key": 3,
+      "value": 14
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 500
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559683
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870998
+    },
+    {
+      "key": 6,
+      "value": 67116522
+    },
+    {
+      "key": 7,
+      "value": 268437042
+    },
+    {
+      "key": 8,
+      "value": 100670274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Flame Guardian"
+    },
+    {
+      "key": 5,
+      "value": "Warden of the Deep"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "StartedWaterGolems"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 14,
+              "delay": 1.2,
+              "extent": 1.0,
+              "spellid": 3842
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VissFlagComplete"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 30,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "TotalWaterGolemDead",
+              "max": 99999,
+              "min": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "StartedWaterGolems"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The waters of the deep cover your flesh. You have been cleansed. I sense the spirit of Grael about you. I deem you worthy, little one."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TotalWaterGolemDead"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartedWaterGolems"
+            },
+            {
+              "type": 14,
+              "delay": 1.2,
+              "extent": 1.0,
+              "spellid": 3838
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TotalWaterGolemDead"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "StartedWaterGolems"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VissFlagComplete"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Welcome to my lonely isle, little one. You seek the mysteries of Vissidal, do you not? Many have come before you. Many will follow in your footsteps. The power which once lay dormant beneath the waves has surfaced. I fear the new rulers of this world will regret their meddling before all is done."
+            },
+            {
+              "type": 10,
+              "delay": 1.1,
+              "extent": 1.0,
+              "msg": "You seek a boon from me, do you not? You seek my permission to further your quest?"
+            },
+            {
+              "type": 10,
+              "delay": 1.2,
+              "extent": 1.0,
+              "msg": "You must prove yourself, little one. You must bathe in the cleansing waters of the deep. You must destroy the spirits of Water that lay claim to this isle."
+            },
+            {
+              "type": 22,
+              "delay": 0.3,
+              "extent": 1.0,
+              "msg": "StartedWaterGolems"
+            },
+            {
+              "type": 70,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 0,
+              "msg": "TotalWaterGolemDead"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "StartedWaterGolems"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Go Kill More Golems"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TotalWaterGolemDead"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:11.928243Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

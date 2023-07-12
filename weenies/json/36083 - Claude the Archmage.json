@@ -1,0 +1,199 @@
+{
+  "wcid": 36083,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 40,
+      "current": 115
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 150
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250,
+      "current": 440
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 2098204
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554497
+    },
+    {
+      "key": 2,
+      "value": 150994984
+    },
+    {
+      "key": 3,
+      "value": 536870930
+    },
+    {
+      "key": 6,
+      "value": 67111346
+    },
+    {
+      "key": 8,
+      "value": 100667943
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Claude the Archmage"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "Claude says, in concert with the other Virindi, \"We go between all. We explore material. We improve doers. We maintain perfection. We maintain scaffold. We build the next.\""
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DuleIntro"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeIntro"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "Claude slashes the proferred cup from Asheron's hands. \"You do not understand true unity. You insult the concept with your individualism. To comprehend unity, yield to the Directive,\" the Virindi say in unison."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435555
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerfalleStop"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeAttack"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:55.861382Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

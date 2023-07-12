@@ -1,0 +1,264 @@
+{
+  "wcid": 45771,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 296
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 217
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437409
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890480
+    },
+    {
+      "key": 10,
+      "value": 83890547
+    },
+    {
+      "key": 11,
+      "value": 83890641
+    },
+    {
+      "key": 15,
+      "value": 67116979
+    },
+    {
+      "key": 16,
+      "value": 67110064
+    },
+    {
+      "key": 17,
+      "value": 67109559
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Apparition of Borelean Strathelar"
+    },
+    {
+      "key": 5,
+      "value": "Prince of New Aluvia"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "I did, Lady Daenerah."
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "It has become increasingly dangerous to store these copies of the Book here."
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "We have decided it is best if they are hidden far from the castle at this point."
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Borelean hands Lady Daenerah a rolled parchment."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "Have all the books moved to that location, and make sure all further tomes are sent there as well."
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "And, Lady Daenerah, speak of this to no one."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "The less opportunities the enemy has to hear of the Book's true location, the less likely they are to try to retrieve all of these copies."
+            },
+            {
+              "type": 88,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "LadyResponse"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Prince1"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:47.8526409Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,271 @@
+{
+  "wcid": 87189,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Apparition of Borelean Strathelar"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 87188,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2587,
+      "palette": 14,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 32839,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 45464,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 40.0,
+              "msg": "No!!!!"
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073719
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 40.0,
+              "msg": "Arggh!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BoreleanKneel"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 40.0,
+              "msg": "You... You're the one ... who warned me about my mother's assassination... Why?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BorleanSpeak"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 40.0,
+              "msg": "Leave... Her... Alone!"
+            },
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Borelean Strathelar struggles against the magical bonds that hold him."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073719
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BorleanSpeakTwo"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 40.0,
+              "msg": "NO!!!!"
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767225
+            },
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Apparition of Borelean Strathelar struggles against the magical bonds that hold him, almost escaping before the magic redoubles and pins him to the ground."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073719
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BorleanSpeakThree"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1073741841
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 16
+            },
+            {
+              "type": 77,
+              "delay": 2.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BorleanDies"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:56.362814Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,892 @@
+{
+  "wcid": 38331,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 255
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 90
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 90
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 125,
+      "current": 235
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 330
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 55,
+      "current": 145
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 4,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 8,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 250,
+            "armor_vs_fire": 250,
+            "armor_vs_acid": 250,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 200
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 1100000
+    },
+    {
+      "key": 188,
+      "value": 4
+    },
+    {
+      "key": 281,
+      "value": 4
+    },
+    {
+      "key": 289,
+      "value": 601
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 13,
+      "value": 1.0
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.0
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.0
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Gamri Nightshade"
+    },
+    {
+      "key": 5,
+      "value": "Inspector of Lords"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 130,
+      "palette": 14,
+      "shade": 0.10000000149011612,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 120,
+      "palette": 93,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 107,
+      "palette": 21,
+      "shade": 0.20000000298023224,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 80305,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done, Knight. I presume you believe the staff holds the key to entering the temple. Now gain access to the temple on the Southern Shores, south-east of Candeth Keep and bring me the Blood of T'thuun."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 38322
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankRadblo_595-595_2",
+              "max": 595,
+              "min": 595,
+              "stat": 289
+            }
+          ],
+          "probability": 1.0,
+          "classID": 38328
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankRadblo_599-1001",
+              "max": 1001,
+              "min": 599,
+              "stat": 289
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Greetings.  You have completed my tests, and I have no further tasks for you.  Good luck to you and your endeavors."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankRadblo_599-1001"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations again on completing the tests, but shouldn't you be talking to the Promotions Officer now?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankRadblo_598-598"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-38328",
+              "cprof": {
+                "wcid": 38328,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankRadblo_595-595"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Do you have the blood relic. Show it to me now."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-38328"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Gamri takes the bottle and places it in a silk lined box engraved with protective runes."
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Gamri clasps your hand and a deep warmth creeps up your arm and grips your heart. A euphoric calm suffuses your tired frame."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Very good, sister. Our Mistress will be most pleased. She will divine much from the blood in this bottle."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You have earned your Lordship, see the Promotions Officer and receive your well earned rewards."
+            },
+            {
+              "type": 54,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 3,
+              "stat": 289
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OnLordTest"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CanEnterSclavusTempleDoor"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FlaggedMoarsmanCity"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankRadblo_595-595_2"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankRadblo_598-598",
+              "max": 598,
+              "min": 598,
+              "stat": 289
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankRadblo_599-1001"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankRadblo_595-595",
+              "max": 595,
+              "min": 595,
+              "stat": 289
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankRadblo_598-598"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Commendations Officer told me you were coming. I am Gamri Nightshade, Inspector of Lords for the Radiant Blood and I have a mission for you."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "We are bound by blood now, complete this mission or pay the consequences."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You must gain access to the temple on the Southern Shores near Candeth Keep. Once inside you will recover a relic kept there, the Blood of T'thuun. Our operatives found the Temple where the blood is kept, but they have yet to find an entrance."
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "A flicker of steel catches your eye and you feel a sting on your hand. Looking down you see blood begin to trickle from a light cut. Gamri grabs your hand pressing the blood between your palms and stares into your eyes with a fierce intensity."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "I may have some information that you can use. A strange Moarsman wielding a staff has been spotted visiting the temple late at night. He was tracked back to the chilly depths below a Moarsmen Keep before they lost him."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Travel to the Moarsmen Keep near Eastwatch on the North East Halaetan Isles and take what you need from this Moarsman. He must hold some key to entering the temple."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me with the Blood of T'thuun and remember our bond, Knight."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OnLordTest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-38328"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are not yet prepared for the tests of Lord Rank, return to me when the Commendations Officer sends you."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankRadblo_595-595"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:21.6957335Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,201 @@
+{
+  "wcid": 88202,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 5,
+      "value": 6660
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 710
+    },
+    {
+      "key": 81,
+      "value": 2
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 133,
+      "value": 0
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561458
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100692657
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 0.0
+    },
+    {
+      "key": 43,
+      "value": 5.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Large Desert Flower"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As you go to pick the flower, Sath'tik tentacles erupt from the ground around you!"
+            },
+            {
+              "type": 72,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 77,
+              "delay": 2.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 88203,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 88203,
+      "whenCreate": 1,
+      "whereCreate": 2
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:13:18.8567851Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

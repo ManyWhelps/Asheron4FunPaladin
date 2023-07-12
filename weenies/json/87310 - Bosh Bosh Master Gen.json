@@ -1,0 +1,151 @@
+{
+  "wcid": 87310,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 3
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 600.0
+    },
+    {
+      "key": 43,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Bosh Bosh Master Gen"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 58.8131,
+          "y": -242.786,
+          "z": -23.945
+        },
+        "angles": {
+          "w": -0.970399,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.241505
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 7995936,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": 0,
+      "type": 87307,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 99.8462,
+          "y": -48.4974,
+          "z": -41.945
+        },
+        "angles": {
+          "w": 0.40319,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.915116
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 7995858,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": 0,
+      "type": 87308,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 220.582,
+          "y": -20.1039,
+          "z": 0.06
+        },
+        "angles": {
+          "w": -0.24412,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.969745
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 7996911,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": 0,
+      "type": 87309,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:59.1089934Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

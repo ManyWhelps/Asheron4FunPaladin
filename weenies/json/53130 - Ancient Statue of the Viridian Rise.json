@@ -1,0 +1,856 @@
+{
+  "wcid": 53130,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6294552
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558954
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536871052
+    },
+    {
+      "key": 8,
+      "value": 100688311
+    },
+    {
+      "key": 22,
+      "value": 872415274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Ancient Statue of the Viridian Rise"
+    },
+    {
+      "key": 16,
+      "value": "An ancient statue infused with the magic of the Viridian Rise."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find a small keyhole that fits the key. The eyes of the statue glow with blue flame just before you enter portal space."
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-52970",
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 53480
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find a small keyhole that fits the key. The eyes of the statue glow with blue flame just before you enter portal space."
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-52970_2",
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 53481
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find a small keyhole that fits the key. The eyes of the statue glow with blue flame just before you enter portal space."
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-52970_3",
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 53482
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find a small keyhole that fits the key. The eyes of the statue glow with blue flame just before you enter portal space."
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-52970_4",
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 53483
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find a small keyhole that fits the key. The eyes of the statue glow with blue flame just before you enter portal space."
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-52970_5",
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 53484
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianFlag"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRecharge"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "viridianFlag"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The statue seems to be recharging its energies."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "viridianRecharge"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual2"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual3"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual4"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual5"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual6"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual7"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitual8"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitualFail"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You feel as though you are cleansed of the magics of the Guardians and can begin the ritual from the beginning."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "viridianRitualFail@2"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRecharge"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The mark of the Viridian Guardians briefly burns with blue flame."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianentrance"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "viridianRecharge"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viridianRitualFail@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "viridianFlag"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The statue remains inert."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "viridianRitualFail@2"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 152.182,
+                    "y": 9.04844,
+                    "z": 110.687
+                  },
+                  "angles": {
+                    "w": -0.880964,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.473183
+                  }
+                },
+                "objcell_id": 3008036913
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 9.0121,
+                    "y": 7.85388,
+                    "z": 113.507
+                  },
+                  "angles": {
+                    "w": -0.999932,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.011686
+                  }
+                },
+                "objcell_id": 3041591297
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 9.97978,
+                    "y": 28.5159,
+                    "z": 112.381
+                  },
+                  "angles": {
+                    "w": -0.999591,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.028581
+                  }
+                },
+                "objcell_id": 3058368514
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 147.199,
+                    "y": 101.62,
+                    "z": 116.005
+                  },
+                  "angles": {
+                    "w": 0.999837,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.018044
+                  }
+                },
+                "objcell_id": 3058237493
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 52970,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 170.693,
+                    "y": 139.533,
+                    "z": 118.005
+                  },
+                  "angles": {
+                    "w": 0.084838,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.996395
+                  }
+                },
+                "objcell_id": 3041460286
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_5"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 152.182,
+                    "y": 9.04844,
+                    "z": 110.687
+                  },
+                  "angles": {
+                    "w": -0.880964,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.473183
+                  }
+                },
+                "objcell_id": 3008036913
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 9.0121,
+                    "y": 7.85388,
+                    "z": 113.507
+                  },
+                  "angles": {
+                    "w": -0.999932,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.011686
+                  }
+                },
+                "objcell_id": 3041591297
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 9.97978,
+                    "y": 28.5159,
+                    "z": 112.381
+                  },
+                  "angles": {
+                    "w": -0.999591,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.028581
+                  }
+                },
+                "objcell_id": 3058368514
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 147.199,
+                    "y": 101.62,
+                    "z": 116.005
+                  },
+                  "angles": {
+                    "w": 0.999837,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.018044
+                  }
+                },
+                "objcell_id": 3058237493
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 170.693,
+                    "y": 139.533,
+                    "z": 118.005
+                  },
+                  "angles": {
+                    "w": 0.084838,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.996395
+                  }
+                },
+                "objcell_id": 3041460286
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-52970_5"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:46.6232204Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,194 @@
+{
+  "wcid": 46307,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 650
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 4000,
+      "current": 4300
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 3400,
+      "current": 4000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 3300,
+      "current": 3900
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 80
+    },
+    {
+      "key": 3,
+      "value": 8
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 210
+    },
+    {
+      "key": 93,
+      "value": 4195336
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 2
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559122
+    },
+    {
+      "key": 2,
+      "value": 150995323
+    },
+    {
+      "key": 3,
+      "value": 536871098
+    },
+    {
+      "key": 6,
+      "value": 67116355
+    },
+    {
+      "key": 7,
+      "value": 268436945
+    },
+    {
+      "key": 8,
+      "value": 100677366
+    },
+    {
+      "key": 22,
+      "value": 872415258
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 39,
+      "value": 2.4
+    },
+    {
+      "key": 54,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Penguin Guard"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 6.0,
+              "extent": 1.0,
+              "msg": "The Penguin Guard sees the severed head of Tiny in your hand. His eyes widen with fear and he quickly flees through portalspace!"
+            },
+            {
+              "type": 77,
+              "delay": 2.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:55.5155671Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,112 @@
+{
+  "wcid": 37514,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 3088
+    },
+    {
+      "key": 111,
+      "value": 49
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558268
+    },
+    {
+      "key": 3,
+      "value": 536871008
+    },
+    {
+      "key": 8,
+      "value": 100674152
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 54,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Forges"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 4,
+      "value": [
+        {
+          "category": 4,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A blast of heat washes over you from below. Then you arrive on the Forge levels."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 90.0,
+            "y": -90.0,
+            "z": -53.4467
+          },
+          "angles": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "objcell_id": 15335909
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:12.8787256Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

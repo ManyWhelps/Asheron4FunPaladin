@@ -1,0 +1,927 @@
+{
+  "wcid": 38946,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 520
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 600
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 7700,
+      "current": 8000
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 7400,
+      "current": 8000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 180
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 55
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 100
+    },
+    {
+      "key": 93,
+      "value": 6292508
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558553
+    },
+    {
+      "key": 2,
+      "value": 150995133
+    },
+    {
+      "key": 3,
+      "value": 536871035
+    },
+    {
+      "key": 7,
+      "value": 268436732
+    },
+    {
+      "key": 8,
+      "value": 100671754
+    },
+    {
+      "key": 22,
+      "value": 872415377
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Carenzi Racer"
+    },
+    {
+      "key": 5,
+      "value": "(2)"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves"
+            }
+          ],
+          "probability": 1.0,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 86,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 0,
+              "msg": "CarenziRacerMoves"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 85,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "CarenziRacerMoves"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsVictoryMine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@0-0"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@1-1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RNG-Move10"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-49"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RNG-Move8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-61"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RNG-Move6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-63"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RNG-Move4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-65"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinner"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@2"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 82,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves@0-0",
+              "max": 0,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 82,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves@1-1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@0-0"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 82,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves@5-49",
+              "max": 49,
+              "min": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@1-1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 82,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves@5-61",
+              "max": 61,
+              "min": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-49"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 82,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves@5-63",
+              "max": 63,
+              "min": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-61"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 82,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves@5-65",
+              "max": 65,
+              "min": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-63"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RNG-Move2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRacerMoves@5-65"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinner"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Winner"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinner"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRacerMoves@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsVictoryMine"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Carenzi Racer 2 Wins!"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR2"
+            },
+            {
+              "type": 7,
+              "delay": 0.0,
+              "extent": 1.0,
+              "pscript": 138
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 15
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceAndTheyreOff"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Winner"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move10"
+            }
+          ],
+          "probability": 0.2,
+          "quest": "RNG-Move10"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move8"
+            }
+          ],
+          "probability": 0.4,
+          "quest": "RNG-Move10"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move6"
+            }
+          ],
+          "probability": 0.6,
+          "quest": "RNG-Move10"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move4"
+            }
+          ],
+          "probability": 0.8,
+          "quest": "RNG-Move10"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RNG-Move10"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move8"
+            }
+          ],
+          "probability": 0.25,
+          "quest": "RNG-Move8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move6"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "RNG-Move8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move4"
+            }
+          ],
+          "probability": 0.75,
+          "quest": "RNG-Move8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RNG-Move8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move6"
+            }
+          ],
+          "probability": 0.33,
+          "quest": "RNG-Move6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move4"
+            }
+          ],
+          "probability": 0.66,
+          "quest": "RNG-Move6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move2"
+            }
+          ],
+          "probability": 0.99,
+          "quest": "RNG-Move6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move4"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "RNG-Move4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RNG-Move4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Move2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RNG-Move2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 3.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 10.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 57,
+              "delay": 5.0,
+              "extent": 1.0
+            },
+            {
+              "type": 85,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 10,
+              "msg": "CarenziRacerMoves"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsVictoryMine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Move10"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 3.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 8.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 57,
+              "delay": 4.0,
+              "extent": 1.0
+            },
+            {
+              "type": 85,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "CarenziRacerMoves"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsVictoryMine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Move8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 3.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 6.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 57,
+              "delay": 3.0,
+              "extent": 1.0
+            },
+            {
+              "type": 85,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 6,
+              "msg": "CarenziRacerMoves"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsVictoryMine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Move6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 3.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 4.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 57,
+              "delay": 2.0,
+              "extent": 1.0
+            },
+            {
+              "type": 85,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "CarenziRacerMoves"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsVictoryMine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Move4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 3.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 57,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 85,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "CarenziRacerMoves"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsVictoryMine"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Move2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:31.6793389Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

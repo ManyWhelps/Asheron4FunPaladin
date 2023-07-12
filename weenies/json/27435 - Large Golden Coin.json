@@ -1,0 +1,179 @@
+{
+  "wcid": 27435,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 3,
+      "value": 21
+    },
+    {
+      "key": 5,
+      "value": 80
+    },
+    {
+      "key": 8,
+      "value": 500
+    },
+    {
+      "key": 9,
+      "value": 16777216
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1000
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 114,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554802
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435747
+    },
+    {
+      "key": 8,
+      "value": 100676408
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.6
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Large Golden Coin"
+    },
+    {
+      "key": 14,
+      "value": "This coin may be wielded."
+    },
+    {
+      "key": 16,
+      "value": "A large golden coin with a small green snake coiled protectively around it."
+    },
+    {
+      "key": 33,
+      "value": "CoinAttachmentPickup"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 10,
+      "value": [
+        {
+          "category": 10,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A small green snake which is coiled around the coin grips it covetously and flicks its tongue at you."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "\"My coin will not fulfill the ache of wretched greed. My curse on those who take my coin and mistake that ache with need.\""
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 25,
+      "value": [
+        {
+          "category": 25,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The snake wraps itself around your fingers, preventing you from dropping the coin."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "\"You cannot discard my curse so easily. You are charged with a mission to help those in need and I will see that you fulfill it.\""
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 26,
+      "value": [
+        {
+          "category": 26,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The snake releases its grip on your fingers as you slip the coin back into your backpack."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "\"Do not forget that you are bound to this coin as much as I am.\""
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:06:35.7919818Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

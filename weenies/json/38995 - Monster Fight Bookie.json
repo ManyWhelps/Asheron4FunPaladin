@@ -1,0 +1,1321 @@
+{
+  "wcid": 38995,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 160
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 65
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 230
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 125
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 154
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Monster Fight Bookie"
+    },
+    {
+      "key": 5,
+      "value": "Cashier"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2590,
+      "palette": 7,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2597,
+      "palette": 90,
+      "shade": 0.800000011920929,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 115,
+      "palette": 4,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 10696,
+      "palette": 7,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 10697,
+      "palette": 8,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 20630
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightsStarted"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 38967
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I take 5 MMDs to buy a ticket. Bring winning tickets to me before the next fight and I'll reward you with a Grand Casino Key."
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightsStarted@2"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFChiefGrogbashGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ChiefGrogbashBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFKorgluukofBurGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KorgluukofBurBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFKerthumptheEarTakerGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KerthumptheEarTakerBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFWarriorCorthosGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WarriorCorthosBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFGlormigothGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GlormigothBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFChampionBullgaraGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ChampionBullgaraBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFDarcuschtheBarbarianGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DarcuschtheBarbarianBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFHeaTnakareaGeneratorevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "HeaTnakareaBet"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 87153,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are truly a Monster Fight fan. You should be able to show your love of Monster Fights with this shirt."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightWins"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Cleanup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MonsterFightWins@10-10"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KorgluukofBurBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ChiefGrogbashBet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KerthumptheEarTakerBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KorgluukofBurBet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WarriorCorthosBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KerthumptheEarTakerBet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GlormigothBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WarriorCorthosBet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ChampionBullgaraBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GlormigothBet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DarcuschtheBarbarianBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ChampionBullgaraBet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "HeaTnakareaBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DarcuschtheBarbarianBet"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Cleanup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MonsterFightWins@10-10"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38966,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You'll want to hand this to one of the fighters in the betting cage. They'll mark the ticket for your bet."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Get your MMDs ready, this will be a heated match."
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFChiefGrogbashGeneratorevent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFKorgluukofBurGeneratorevent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFKerthumptheEarTakerGeneratorevent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFWarriorCorthosGeneratorevent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFGlormigothGeneratorevent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFChampionBullgaraGeneratorevent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFDarcuschtheBarbarianGeneratorevent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MFHeaTnakareaGeneratorevent"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightsStarted"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightsBettingevent"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightsAnnouncerevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sorry! You need 5 MMDs to buy a ticket."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please wait until the round is finished before turning this in."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38967,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MonsterFightsStarted"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerChiefGrogbash"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFChiefGrogbashGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerKorgluukofBur"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFKorgluukofBurGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerKerthumptheEarTaker"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFKerthumptheEarTakerGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerWarriorCorthos"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFWarriorCorthosGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerGlormigoth"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFGlormigothGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerChampionBullgara"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFChampionBullgaraGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerDarcuschtheBarbarian"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFDarcuschtheBarbarianGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerHeaTnakarea"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFHeaTnakareaGeneratorevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There is already a monster fight in progress."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MonsterFightsStarted@2"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ChiefGrogbashBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MonsterFightsStarted"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFChiefGrogbashGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFKorgluukofBurGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFKerthumptheEarTakerGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFWarriorCorthosGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFGlormigothGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFChampionBullgaraGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFDarcuschtheBarbarianGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MFHeaTnakareaGeneratorevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo",
+              "teststring": "Would you like to start a monster fight?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MonsterFightsStarted@2"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always bet on the Banderling."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerChiefGrogbash"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always bet on the Burun."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerKorgluukofBur"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always bet on the Drudge."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerKerthumptheEarTaker"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always bet on the Lugian."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerWarriorCorthos"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always bet on the Moarsman."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerGlormigoth"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I thought Bulraga might win this bought. He's been angry ever since someone stole his swamp stone."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerChampionBullgara"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always bet on the Ruschk."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerDarcuschtheBarbarian"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always bet on the Tumerok."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerHeaTnakarea"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38992,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightWins"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CasinoVIPPortalAccess"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MonsterFightWins@10-10",
+              "max": 10,
+              "min": 10
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GiveRewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sorry kid, this wasn't a winning ticket."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Cleanup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Loser"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ChiefGrogbashBet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KorgluukofBurBet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KerthumptheEarTakerBet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WarriorCorthosBet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GlormigothBet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ChampionBullgaraBet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DarcuschtheBarbarianBet"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "HeaTnakareaBet"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Cleanup"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:32.6200556Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,258 @@
+{
+  "wcid": 34041,
+  "weenieType": 20,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 34,
+      "value": 0
+    },
+    {
+      "key": 35,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 512
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 5,
+      "value": 10462
+    },
+    {
+      "key": 6,
+      "value": 120
+    },
+    {
+      "key": 7,
+      "value": 10
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 2500
+    },
+    {
+      "key": 34,
+      "value": 0
+    },
+    {
+      "key": 35,
+      "value": 1
+    },
+    {
+      "key": 38,
+      "value": 9999
+    },
+    {
+      "key": 81,
+      "value": 4
+    },
+    {
+      "key": 82,
+      "value": 4
+    },
+    {
+      "key": 93,
+      "value": 1048
+    },
+    {
+      "key": 100,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559144
+    },
+    {
+      "key": 2,
+      "value": 150995379
+    },
+    {
+      "key": 3,
+      "value": 536870945
+    },
+    {
+      "key": 8,
+      "value": 100688392
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 11,
+      "value": 60.0
+    },
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 41,
+      "value": 60.0
+    },
+    {
+      "key": 54,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Lunnum's Chest"
+    },
+    {
+      "key": 12,
+      "value": "ritualchestkey"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 1.0,
+      "slot": 0,
+      "stackSize": 1,
+      "type": 32,
+      "whenCreate": 2,
+      "whereCreate": 72
+    },
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": 1,
+      "type": 35829,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": 1,
+      "type": 34040,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 3,
+      "stackSize": 1,
+      "type": 34042,
+      "whenCreate": 2,
+      "whereCreate": 8
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:34.4356339Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

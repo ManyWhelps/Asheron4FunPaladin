@@ -1,0 +1,158 @@
+{
+  "wcid": 43789,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6294556
+    },
+    {
+      "key": 95,
+      "value": 4
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 267,
+      "value": 300
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554867
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67109370
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Deewain's Chamber"
+    },
+    {
+      "key": 16,
+      "value": "This portal cannot be recalled, linked nor summoned."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 409.318,
+                    "y": -62.073,
+                    "z": 6.005
+                  },
+                  "angles": {
+                    "w": 0.999687,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.024997
+                  }
+                },
+                "objcell_id": 2114127973
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DeewainBossRoomFlag"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:21.860313Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

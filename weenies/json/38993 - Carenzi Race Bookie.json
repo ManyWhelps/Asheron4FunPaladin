@@ -1,0 +1,1486 @@
+{
+  "wcid": 38993,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 160
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 65
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 230
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 125
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 84
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Carenzi Race Bookie"
+    },
+    {
+      "key": 5,
+      "value": "Cashier"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2590,
+      "palette": 7,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2597,
+      "palette": 5,
+      "shade": 0.800000011920929,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 115,
+      "palette": 4,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 10696,
+      "palette": 7,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 10697,
+      "palette": 8,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 20630
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Welcome to the Races! Let's see if you've won."
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR1"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 38965
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I take 5 MMDs to buy a ticket. Bring winning tickets to me before the next race and I'll reward you with a Grand Casino Key."
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRace"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR6"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR7"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR7"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWinnerR8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR8"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must wait %tqt before you can start another Carenzi Race."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRace@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Cleanup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceCup"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "For having backed so many winning Carenzi you get an award kid! I present to you the coveted Carenzi Cup!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 80016,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceCup"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Cleanup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWins@10-10"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR5"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR7"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR6"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR7"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceBetterR8"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo",
+              "teststring": "Would you like to start a Carenzi Race?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRace@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWins@10-10",
+              "max": 10,
+              "min": 10
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceCup"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Cleanup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWins@10-10"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38964,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You'll want to hand this to the carenzi your betting on in the betting cage. They'll mark the ticket for your bet."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Get your MMDs ready, this will be a heated race."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRace"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRace"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sorry! You need 5 MMDs to buy a ticket."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR1"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR2"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR3"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR4"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR5"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR6"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR7"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR7"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WinnerR8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR8"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR1"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR2"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR3"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR4"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR5"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR6"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR7"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Loser"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRaceWinnerR8"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRace@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziRace"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that One could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on One, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that Two could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on Two, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that Three could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on Three, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that Four could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on Four, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that Five could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR5"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on Five, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR5"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that Six could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on Six, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that Seven could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR7"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on Seven, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR7"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No one thought that Eight could do it. He came back from an injury a week ago and proved us all wrong today."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "WinnerR8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We have a winner!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I always bet on Eight, he's from good stock and his win average is impressive."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GiveRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WinnerR8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38992,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceWins"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CasinoVIPPortalAccess"
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceCup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GiveRewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sorry kid, this wasn't a winning ticket."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Cleanup"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Loser"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR2"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR3"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR4"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR5"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR6"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR7"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziRaceBetterR8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Cleanup"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:32.5903276Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,3925 @@
+{
+  "wcid": 53384,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 296
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 396
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 486
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 3,
+      "value": 17
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 200
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268435864
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890264
+    },
+    {
+      "key": 10,
+      "value": 83890287
+    },
+    {
+      "key": 11,
+      "value": 83890348
+    },
+    {
+      "key": 15,
+      "value": 67116999
+    },
+    {
+      "key": 16,
+      "value": 67110063
+    },
+    {
+      "key": 17,
+      "value": 67110052
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.236
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Professor of Life Magic"
+    },
+    {
+      "key": 5,
+      "value": "Spell Instructor"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.085,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.1,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435539
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435540
+            }
+          ],
+          "probability": 0.2,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "I have been asked to impart my knowledge of the adventurers of this world."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I can teach you all of the Life spells in a given level."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If you wish to learn these spells, simply tell me which level you'd like to learn."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl1skillcheck",
+              "max": 900,
+              "min": 1,
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl1currencycheck",
+              "cprof": {
+                "wcid": 2624,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 2624,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Health, wealth and happiness is all one can ask for..."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1currencycheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl2skillcheck",
+              "max": 900,
+              "min": 10,
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl2currencycheck",
+              "cprof": {
+                "wcid": 7374,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 7374,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Health, wealth and happiness is all one can ask for..."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2currencycheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl3skillcheck",
+              "max": 900,
+              "min": 50,
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl3currencycheck",
+              "cprof": {
+                "wcid": 7377,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 7377,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Health, wealth and happiness is all one can ask for..."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3currencycheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl4skillcheck",
+              "max": 900,
+              "min": 100,
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl4currencycheck",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Health, wealth and happiness is all one can ask for..."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4currencycheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl5skillcheck",
+              "max": 900,
+              "min": 150,
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl5currencycheck",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Health, wealth and happiness is all one can ask for..."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5currencycheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl6skillcheck",
+              "max": 900,
+              "min": 200,
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl6currencycheck",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 12,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 12,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Health, wealth and happiness is all one can ask for..."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6currencycheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl7skillcheck",
+              "max": 900,
+              "min": 250,
+              "stat": 33
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl7currencycheck",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 24,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 24,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Health, wealth and happiness is all one can ask for..."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl7"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7currencycheck"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Life Magic for me to teach you the level one spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you're lacking in funds."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll need an L note to teach you the level one life spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1currencycheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Life Magic for me to teach you the level two spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you're lacking in funds."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll need a CL note to teach you the level two life spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2currencycheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Life Magic for me to teach you the level three spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you're lacking in funds."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll need a DCCL note to teach you the level three life spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3currencycheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Life Magic for me to teach you the level four spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you're lacking in funds."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll need an MMD note to teach you the level four life spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4currencycheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Life Magic for me to teach you the level five spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you're lacking in funds."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll need 2 MMD notes to teach you the level five life spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5currencycheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Life Magic for me to teach you the level six spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you're lacking in funds."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll need 12 MMD notes to teach you the level six life spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6currencycheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Life Magic for me to teach you the level seven spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you're lacking in funds."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll need 24 MMD notes to teach you the level seven life spells."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7currencycheck"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 23
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 24
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1195
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 7
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 6
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 25
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1219
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1183
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1177
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 194
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 171
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 218
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 206
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 212
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 159
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 165
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 53
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 54
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1237
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1260
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1249
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1278
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1272
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1225
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 9
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1243
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1290
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1296
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1664
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1676
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 509
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 515
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 521
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1115
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1109
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1127
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1024
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1018
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1048
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1036
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1030
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1060
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 19
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 20
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 21
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1072
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1066
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1084
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1139
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1133
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1151
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2760
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2774
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2767
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1960
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1957
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "May this knowledge allow you to heal this world."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1313
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1308
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1196
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1172
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1162
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1157
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1323
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1220
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1184
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1178
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 195
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 172
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 219
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 207
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 213
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 160
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 166
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 184
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 189
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1238
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1261
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1250
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1279
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1273
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1226
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1255
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1244
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1291
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1297
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1665
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1677
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 510
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 516
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 522
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1116
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1110
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1128
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1025
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1019
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1049
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1037
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1031
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1061
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 810
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1090
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1104
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1073
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1067
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1085
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1140
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1134
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1152
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2761
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2775
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2768
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1966
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1963
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "May this knowledge allow you to heal this world."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1314
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1309
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1197
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1173
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1163
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1158
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1324
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1221
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1185
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1179
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 196
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 173
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 220
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 208
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 214
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 161
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 167
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 185
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 190
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1239
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1262
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1251
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1280
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1274
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1227
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1256
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1245
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1292
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1298
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1666
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1678
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 511
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 517
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 523
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1117
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1111
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1129
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1026
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1020
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1050
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1038
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1032
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1062
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 836
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1091
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1105
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1074
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1068
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1086
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1141
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1135
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1153
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2762
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2776
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2769
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1972
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1969
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "May this knowledge allow you to heal this world."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1315
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1310
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1198
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1174
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1164
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1159
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1325
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1222
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1186
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1180
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 197
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 174
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 221
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 209
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 215
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 162
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 168
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 186
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 191
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1240
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1263
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1252
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1702
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1275
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1228
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1257
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1246
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1293
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1299
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1667
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1679
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 512
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 518
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 524
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1118
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1112
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1130
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1027
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1021
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1051
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1039
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1033
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1063
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 849
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1092
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1106
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1075
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1069
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1087
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1142
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1136
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1154
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2763
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2777
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2770
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1978
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1975
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "May this knowledge allow you to heal this world."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1316
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1311
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1199
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1175
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1165
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1160
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1326
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1223
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1187
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1181
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 198
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 175
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 222
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 210
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 216
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 163
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 169
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 187
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 192
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1241
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1264
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1253
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1703
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1276
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1229
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1258
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1247
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1294
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1300
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1668
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1680
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 513
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 519
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 525
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1119
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1113
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1131
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1028
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1022
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1052
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1040
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1034
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1064
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1095
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1093
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1107
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1076
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1070
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1088
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1143
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1137
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1155
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2764
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2778
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2771
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1984
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1981
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "May this knowledge allow you to heal this world."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1317
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1312
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1200
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1176
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1166
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1161
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1327
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1224
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1188
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1182
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 199
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 176
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 223
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 211
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 217
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 164
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 170
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 188
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 193
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1242
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1265
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1254
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1704
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1277
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1230
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1259
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1248
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1295
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1301
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1669
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1681
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 514
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 520
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 526
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1120
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1114
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1132
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1029
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1023
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1053
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1041
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1035
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1065
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1096
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1094
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1108
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1077
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1071
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1089
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1144
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1138
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1156
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2765
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2779
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2772
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1990
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 1987
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "May this knowledge allow you to heal this world."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2052
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2053
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2062
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2070
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2072
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2073
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2074
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2078
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2082
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2083
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2176
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2178
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2180
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2182
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2183
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2184
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2185
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2186
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2187
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2328
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2329
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2330
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2332
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2334
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2335
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2336
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2337
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2339
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2341
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2343
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2345
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2148
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2149
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2162
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2150
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2151
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2164
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2152
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2153
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2166
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2154
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2155
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2168
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2156
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2157
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2170
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2158
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2159
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2172
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2160
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2161
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2174
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2766
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2780
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 2773
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 3194
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 3193
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "May this knowledge allow you to heal this world."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 30.4858,
+                  "y": 64.5441,
+                  "z": 42.005
+                },
+                "angles": {
+                  "w": 0.962618,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.270862
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RESET"
+        }
+      ]
+    },
+    {
+      "key": 38,
+      "value": [
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl1yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level one Life Spells for an L Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level 1"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl1yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level one Life Spells for an L Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level one"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl2yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level two Life Spells for a CL Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level 2"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl2yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level two Life Spells for a CL Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level two"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl3yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level three Life Spells for a DCCL Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level 3"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl3yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level three Life Spells for a DCCL Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level three"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl4yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level four Life Spells for an MMD Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level 4"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl4yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level four Life Spells for an MMD Note."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level four"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl5yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level five Life Spells for 2 MMD Notes."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level 5"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl5yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level five Life Spells for 2 MMD Notes."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level five"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl6yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level six Life Spells for 12 MMD Notes."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level 6"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl6yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level six Life Spells for 12 MMD Notes."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level six"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl7yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level seven Life Spells for 24 MMD Notes."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level 7"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl7yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level seven Life Spells for 24 MMD Notes."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level seven"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:50.4785787Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

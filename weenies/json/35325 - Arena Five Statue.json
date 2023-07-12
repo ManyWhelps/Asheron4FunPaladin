@@ -1,0 +1,486 @@
+{
+  "wcid": 35325,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 29,
+      "value": 1
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 103,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 145,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560287
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536871052
+    },
+    {
+      "key": 8,
+      "value": 100688311
+    },
+    {
+      "key": 22,
+      "value": 872415274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 1.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 39,
+      "value": 0.6
+    },
+    {
+      "key": 41,
+      "value": 5.0
+    },
+    {
+      "key": 54,
+      "value": 2.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Arena Five Statue"
+    },
+    {
+      "key": 16,
+      "value": "Arena Five is currently in use."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess@Countdown"
+            }
+          ],
+          "probability": 1.0,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess@Use"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess"
+            },
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveBoot"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInActive"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInUse"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveBoot@Countdown"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@Countdown"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaWait@Countdown"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaCooldownActive@Countdown"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There are %mxqt left in Arena Five."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@Use"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInActive"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveBoot@Countdown"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaCooldownActive@Countdown"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@Countdown"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInUse"
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveWait"
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaWait@Countdown"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaCooldownActive"
+            },
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaCooldownActive@Countdown"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Arena Five will be available for new warriors momentarily."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@Use"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsAdmin"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsAdmin_2"
+        }
+      ]
+    },
+    {
+      "key": 24,
+      "value": [
+        {
+          "category": 24,
+          "emotes": [
+            {
+              "type": 35,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsAdmin",
+              "stat": 44
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoResetAll"
+        },
+        {
+          "category": 24,
+          "emotes": [
+            {
+              "type": 35,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsAdmin_2",
+              "stat": 44
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoResetFive"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInActive"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInUse"
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Reset"
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 3.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 80007,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:48.0707747Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

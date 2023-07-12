@@ -1,0 +1,550 @@
+{
+  "wcid": 42957,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 260
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 370
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180,
+      "current": 440
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 107
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Hoshino Kiri"
+    },
+    {
+      "key": 5,
+      "value": "Hoshino Kei's Sister"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 42709,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30740,
+      "palette": 9,
+      "shade": 0.6600000262260437,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 14905,
+      "palette": 91,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ReceptionGames"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations again on winnning the race."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You may attempt this race again in %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunWait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunProgress@CheckSuccess",
+              "max": 5,
+              "min": 4
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunProgress@CheckTimer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You did it! Congratulations!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Here's your reward, and I hope you had fun."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 42709,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunProgress"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunProgress@CheckSuccess"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Aww, you didn't make it in time. I'm sorry. You can try again in fifteen minutes, if you'd like."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunProgress"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunFailWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunProgress@CheckFailure"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm sorry that you didn't make it in time, but you can try again soon."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You may attempt this race again in %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunFailWait"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunProgress@CheckTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunWait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "What're you talking to me for?!?! RUN!!! Time's a wasting!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunProgress@CheckSuccess"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunProgress@CheckFailure",
+              "max": 5,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunProgress@CheckTimer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunFailWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunProgress@CheckFailure"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "We bring you these games in honor of the wedding of Prince Borelean Strathelar to the Princess Hoshino Kei."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Through great tradegy, reborn through hope, Hoshino Kei has been returned to us from the clutches of undeath.  We have much to celebrate this year!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you wish to participate, I have a race you can run.  If you succeed, you can have a copy of the bouquet akin to the one my sister carried on her wedding day, and like the one I am holding."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The path should be fairly obvious, just look for the floating platforms and ramps that mark it."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There are 3 candles, ringing this area in a loop, that you must touch in turn and return to me, before the enchantments placed on you run out."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Be warned.  The time runs out quickly, and you must touch them in the proper order, which is a loop back to me, starting with the one to the east of here."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "And remember, you must make it to each candle in turn, and then back to me, before the time runs out."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Are you ready to start?"
+            },
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo",
+              "teststring": "Do you wish to start the race?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CandleRunFailWait"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Begin! Run! Off you go! Get to the first candle!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunProgress"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "When you're ready to start the race, speak to me again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CandleRunWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ReceptionGames"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It's not the season for playing this game."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ReceptionGames"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:09.1459117Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

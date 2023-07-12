@@ -1,0 +1,481 @@
+{
+  "wcid": 87954,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 95,
+      "value": 4
+    },
+    {
+      "key": 103,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 145,
+      "value": 2
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 75
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555953
+    },
+    {
+      "key": 2,
+      "value": 150995078
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100677070
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 2.0
+    },
+    {
+      "key": 43,
+      "value": 0.0
+    },
+    {
+      "key": 54,
+      "value": 0.3
+    },
+    {
+      "key": 121,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Gauntlet Stage 5"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5a_Flag"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 190.0,
+                    "y": 25.0,
+                    "z": 0.0
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5a_Flag"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 90.0,
+                    "y": 25.0,
+                    "z": 0.0
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5b_Flag"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5MyQuest"
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Room5Portal"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5b_Flag"
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 90.0,
+                    "y": 25.0,
+                    "z": 0.0
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5MyQuest@AssignRoom"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5MyQuest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5MyQuest@ReceiveLocalSignal"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5b_Flag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5a_Flag"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AssignRoom"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5b_Flag"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5MyQuest"
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Room5Portal"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5a_Flag"
+            },
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 190.0,
+                    "y": 25.0,
+                    "z": 0.0
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5MyQuest@AssignRoom"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5MyQuest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GauntletStage5MyQuest@ReceiveLocalSignal"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage4Complete"
+            },
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5MyQuest@AssignRoom"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AssignRoom"
+        }
+      ]
+    },
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GauntletStage5MyQuest@ReceiveLocalSignal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Room5Portal"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 77,
+              "delay": 1.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DeleteMe"
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1600.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": 0,
+      "type": 87970,
+      "whenCreate": 1,
+      "whereCreate": 1
+    },
+    {
+      "delay": 1600.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": 0,
+      "type": 87974,
+      "whenCreate": 1,
+      "whereCreate": 1
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:13:13.5949488Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

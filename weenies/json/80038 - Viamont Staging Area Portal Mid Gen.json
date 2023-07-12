@@ -1,0 +1,105 @@
+{
+  "wcid": 80038,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 142,
+      "value": 3
+    },
+    {
+      "key": 145,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 10.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Viamont Staging Area Portal Mid Gen"
+    },
+    {
+      "key": 34,
+      "value": "viaportalmid3"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 131.928,
+          "y": 131.944,
+          "z": 64.518
+        },
+        "angles": {
+          "w": -0.250689,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.968
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 4294967295,
+      "objcell_id": 2678456366,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 80043,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:43.825848Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

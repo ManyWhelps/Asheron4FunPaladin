@@ -1,0 +1,127 @@
+{
+  "wcid": 52230,
+  "weenieType": 19,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 1
+    },
+    {
+      "key": 34,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 28
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 100
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555073
+    },
+    {
+      "key": 2,
+      "value": 150994966
+    },
+    {
+      "key": 3,
+      "value": 536870946
+    },
+    {
+      "key": 8,
+      "value": 100668183
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 11,
+      "value": 10.0
+    },
+    {
+      "key": 54,
+      "value": 2.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Door"
+    },
+    {
+      "key": 14,
+      "value": "Use this item to close it."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 116,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OpenDoor"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 117,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CloseDoor"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:39.6526222Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

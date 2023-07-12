@@ -1,0 +1,1936 @@
+{
+  "wcid": 4000008,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 296
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 396
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 486
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 2.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 2.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 200
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 161
+    },
+    {
+      "key": 188,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560944
+    },
+    {
+      "key": 2,
+      "value": 150995455
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437422
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890277
+    },
+    {
+      "key": 10,
+      "value": 83890292
+    },
+    {
+      "key": 11,
+      "value": 83890354
+    },
+    {
+      "key": 15,
+      "value": 67117068
+    },
+    {
+      "key": 16,
+      "value": 67116854
+    },
+    {
+      "key": 17,
+      "value": 67116848
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.0
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Professor of Void Magic"
+    },
+    {
+      "key": 3,
+      "value": "Female"
+    },
+    {
+      "key": 5,
+      "value": "Spell Instructor"
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 2,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 2,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 2,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.085,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 4,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          ],
+          "probability": 0.1,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl1yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level one Void Spells, are you ready?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 4000010
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl2yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level two Void Spells, are you ready?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 4000011
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl3yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level three Void Spells, are you ready?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 4000012
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl4yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level four Void Spells, are you ready?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 4000013
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl5yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level five Void Spells, are you ready?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 4000014
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl6yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level six Void Spells, are you ready?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 4000015
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "lvl7yesno",
+              "stat": 1,
+              "teststring": "I can teach you the level seven Void Spells, are you ready?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 4000016
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "I am the greatest Void magic practitioner in this world! Yet I have been assigned the feeble task of training new adventurers."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I can teach you Void spells, simply hand me the spell voucher for the level you want to learn. Vouchers can be purchased from Edward Razoric, he is in the house here."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl1skillcheck",
+              "max": 900,
+              "min": 6,
+              "stat": 43
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Open your mind and except the knowledge that I am granting you."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl2skillcheck",
+              "max": 900,
+              "min": 16,
+              "stat": 43
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Open your mind to the wonders of the elements."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl3skillcheck",
+              "max": 900,
+              "min": 50,
+              "stat": 43
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Open your mind to the wonders of the elements."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl4skillcheck",
+              "max": 900,
+              "min": 100,
+              "stat": 43
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Open your mind to the wonders of the elements."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl5skillcheck",
+              "max": 900,
+              "min": 150,
+              "stat": 43
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Open your mind to the wonders of the elements."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl6skillcheck",
+              "max": 900,
+              "min": 200,
+              "stat": 43
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Open your mind to the wonders of the elements."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6skillcheck"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 43,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "lvl7skillcheck",
+              "max": 900,
+              "min": 275,
+              "stat": 43
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7yesno"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Open your mind to the wonders of the elements."
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "lvl7"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7skillcheck"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000010,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Void Magic for me to teach you the level one spells."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000010,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000011,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Void Magic for me to teach you the level two spells."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000011,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000012,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Void Magic for me to teach you the level three spells."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000012,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000013,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Void Magic for me to teach you the level four spells."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000013,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000014,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Void Magic for me to teach you the level five spells."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000014,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000015,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Void Magic for me to teach you the level six spells."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000015,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6skillcheck"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me know if I can assist you in the future."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000016,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7yesno"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm afraid you are not skilled enough in the art of Void Magic for me to teach you the level seven spells."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 4000016,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7skillcheck"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5387
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5395
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5349
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5339
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5357
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5371
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5379
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5369
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "From the Darkness there will be Light."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5388
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5396
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5350
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5358
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5340
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5372
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5380
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5362
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "From the Darkness there will be Light."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5389
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5397
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5546
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5351
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5359
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5341
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5373
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5381
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5363
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "From the Darkness there will be Light."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5390
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5398
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5547
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5352
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5360
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5342
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5374
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5382
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5364
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "From the Darkness there will be Light."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5391
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5399
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5548
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5353
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5345
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5343
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5375
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5383
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5365
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "From the Darkness there will be Light."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl5"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5392
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5400
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5549
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5354
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5346
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5344
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5376
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5384
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5366
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "From the Darkness there will be Light."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5393
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5401
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5550
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5355
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5347
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5337
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5377
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5385
+            },
+            {
+              "type": 27,
+              "delay": 0.135,
+              "extent": 1.0,
+              "spellid": 5367
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "From the Darkness there will be Light."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RESET"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "lvl7"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:13:26.4653648Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

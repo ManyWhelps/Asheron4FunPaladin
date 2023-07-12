@@ -1,0 +1,668 @@
+{
+  "wcid": 36116,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 40,
+      "current": 115
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 150
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250,
+      "current": 440
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 19
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 12
+    },
+    {
+      "key": 81,
+      "value": 2
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 2098204
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 145,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554497
+    },
+    {
+      "key": 2,
+      "value": 150994984
+    },
+    {
+      "key": 3,
+      "value": 536870930
+    },
+    {
+      "key": 6,
+      "value": 67111346
+    },
+    {
+      "key": 8,
+      "value": 100667943
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Claude the Archmage"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence1"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckEssence"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36068
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence2"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckEssence"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36069
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence3"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckEssence"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36070
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence4"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckEssence"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36071
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence5"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckEssence"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36072
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Claude does not react to the interaction. A low humming noise begins to emit from all around you."
+            },
+            {
+              "type": 18,
+              "delay": 10.0,
+              "extent": 1.0,
+              "msg": "A voice booms all around you, a hormony speaking as one."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The voice says, \"We will go between to this place. We will conduct reification in this place. We will perceive in a place called 'Ayan Baqur'. We maintain vigilance in secret. We will conceal our presence by disguising ourselves as the inhabitants and using labels similar to their own. We will classify the reified part of ourselves...Claude."
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 20.0,
+              "msg": "We shall maintain vigilance in Ayan Baqur. We shall resist the negative influence of individuality."
+            },
+            {
+              "type": 72,
+              "delay": 2.0,
+              "extent": 1.0
+            },
+            {
+              "type": 72,
+              "delay": 4.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Claude shivers for a moment, then stops and looks up."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 20.0,
+              "msg": "Our purpose is clear. Our direction is true."
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence1"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence2"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence3"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence4"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence5"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckArena"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4161
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4162
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4163
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4164
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest4"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence5"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeGotEssence1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4150
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest4"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeGotEssence1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckEssence"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Claude shivers as it receives the token."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Fail"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckArena"
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 2,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 72405,
+      "whenCreate": 1,
+      "whereCreate": 1
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:56.2554967Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

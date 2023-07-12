@@ -1,0 +1,531 @@
+{
+  "wcid": 36114,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556218
+    },
+    {
+      "key": 2,
+      "value": 150995261
+    },
+    {
+      "key": 3,
+      "value": 536870933
+    },
+    {
+      "key": 8,
+      "value": 100675788
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Keh Fire"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuestAccess"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36067
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckReady"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuestAccess"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckReady"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuestAccess"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckArena"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36067,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy1"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy2"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy3"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 65,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It appears that others have already placed atuakeh dust within the fire."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36067,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy4"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBoot1"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy1"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest1"
+            },
+            {
+              "type": 65,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship member has placed atuakeh dust within the fire and subsequently vanished in a cloud of hazy smoke!"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You place the dust into the fire. A large cloud of smoke puffs up toward your face, and your vision goes purple. You find yourself in a strange alien landscape."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4151
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy1"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBoot2"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy2"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest2"
+            },
+            {
+              "type": 65,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship member has placed atuakeh dust within the fire and subsequently vanished in a cloud of hazy smoke!"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You place the dust into the fire. A large cloud of smoke puffs up toward your face, and your vision goes purple. You find yourself in a strange alien landscape."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4152
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy2"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBoot3"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy3"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest3"
+            },
+            {
+              "type": 65,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship member has placed atuakeh dust within the fire and subsequently vanished in a cloud of hazy smoke!"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You place the dust into the fire. A large cloud of smoke puffs up toward your face, and your vision goes purple. You find yourself in a strange alien landscape."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4153
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy3"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBoot4"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy4"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest4"
+            },
+            {
+              "type": 65,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship member has placed atuakeh dust within the fire and subsequently vanished in a cloud of hazy smoke!"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You place the dust into the fire. A large cloud of smoke puffs up toward your face, and your vision goes purple. You find yourself in a strange alien landscape."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4154
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ClaudeBusy4"
+        }
+      ]
+    },
+    {
+      "key": 30,
+      "value": [
+        {
+          "category": 30,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36067,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must create a fellowship before attempting to place atuakeh dust within the fire."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuestAccess"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 65,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A member of your fellowship is attempting to place atuakeh dust within the fire!"
+            },
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo",
+              "teststring": "If you do this your fellowship will be locked. Do you wish to proceed?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckReady"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ClaudeBusy1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckArena"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:56.2040446Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

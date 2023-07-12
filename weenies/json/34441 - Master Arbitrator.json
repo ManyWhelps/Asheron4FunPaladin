@@ -1,0 +1,4237 @@
+{
+  "wcid": 34441,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 680
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 640
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 630
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 550
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 550
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 585
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 800,
+      "current": 1120
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 851,
+      "current": 1491
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500,
+      "current": 1085
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 13
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 200
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 10
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558367
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870933
+    },
+    {
+      "key": 7,
+      "value": 268437025
+    },
+    {
+      "key": 8,
+      "value": 100674350
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Master Arbitrator"
+    },
+    {
+      "key": 5,
+      "value": "Empyrean Servant"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not desire this trophy? I apologize, I have quite run out of space for it here. I cannot take it back from you."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 35807
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A quake runs through the golem and its eyes flash in disgust."
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "Blood Magic! Blood Magic! Guards! Blood Magic!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34277
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oh, I remember these! I haven't seen one of these in... quite a long time I suppose. You should keep this safe. Wouldn't want it falling into the wrong hands now would we?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34276
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arbitrator looks confused for a second and then nods his head in apparent understanding."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have recently played on the weaknesses of your domesticated livestock."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I think it only fair that they get a chance to test your weaknesses in the Arena. You now have access to the Cow Arena."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ArbitratorPackCowGivenComplete"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 33965
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not wish to keep this ring Champion?"
+            },
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo",
+              "teststring": "Exchange Empyrean Ring for up to 140 million experience and two Colosseum Coins?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34704
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not wish to keep this ring Champion?"
+            },
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_2",
+              "teststring": "Exchange Empyrean Ring for up to 140 million experience and two Colosseum Coins?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34705
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not wish to keep this ring Champion?"
+            },
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_3",
+              "teststring": "Exchange Empyrean Ring for up to 140 million experience and two Colosseum Coins?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34706
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not wish to keep this ring Champion?"
+            },
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_4",
+              "teststring": "Exchange Empyrean Ring for up to 140 million experience and two Colosseum Coins?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34707
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not wish to keep this ring Champion?"
+            },
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_5",
+              "teststring": "Exchange Empyrean Ring for up to 140 million experience and two Colosseum Coins?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34708
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneInUse@HeartBeat"
+            }
+          ],
+          "probability": 0.127,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arbitrator looks confused for a second and then nods his head in apparent understanding."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You now have access to the Chicken Arena."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ArbitratorEggGivenComplete"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 546
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved you skill against the Champion, Stone Fists. Well done. I hereby grant you the title, Champion of Stone."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 465
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 5113441,
+              "percent": 0.5
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35805,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34454
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved you skill against the Champion, Azaxis. Well done. I hereby grant you the title, Champion of Sickles."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 466
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 14845392,
+              "percent": 0.5
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34455
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved you skill against the Champion, Killagurg. Well done. I hereby grant you the title, Champion of the Wild."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 467
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 24089339,
+              "percent": 0.35
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35803,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34456
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved you skill against the Champion, the Demon Swarm Matron. Well done. I hereby grant you the title, Champion of the Hive."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 468
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 52598758,
+              "percent": 0.25
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35804,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34451
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved you skill against our mysterious Champion, The Master. Well done. I hereby grant you the title, Champion of Assassins."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 469
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 287308150,
+              "percent": 0.2
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35872,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 35871
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved you skill against the Champion, Gladiator Diemos. Well done indeed. I hereby grant you the title, Immortal Champion."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 470
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35807,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "In addition to your new title and this useful hook caster, I'll also give you a token that you can trade back to me for a great deal of practical knowledge, or you can trade it in to Fiun Rehlyun at the Fiun settlement in the Halaetan Isles for a blank Augmentation gem. A difficult decision, I know."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35808,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34452
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proven yourself against the Pumpkin King. Well done."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 544
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Since you have slain him, you must be will be known as the \"Pumpkin Throne Usurper.\""
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Oh, and we found this mixed up in the mess you left in his arena."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "And I believe you have earned this bit of practical knowledge."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arbitrator reaches out and lightly touches your forehead, sending a jolt of new understanding through you mind."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 248000000,
+              "percent": 0.05
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36524,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36528
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved you skill against the Thunder Chicken. Well done."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 380
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as the \"Thunder Chicken Slayer\"."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 10000000,
+              "percent": 0.05
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34457
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see that you have proved your skill against the Very Mad Cow. Well done."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 293
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as the \"Mad Cow Slayer\"."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 10000000,
+              "percent": 0.05
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34458
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_6",
+              "teststring": "Trading this token in to the Master Arbitrator will grant you a full level of experience. Are you sure you wish to trade it in?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 35808
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsPlayerInFellow?"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34449
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess@UseFellow"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot reward anyone in your fellowship while they still have time left in the Colosseum. (%fqt)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@UseFellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot reward anyone in your fellowship while they still have time left in the Colosseum. (%fqt)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@UseFellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot reward anyone in your fellowship while they still have time left in the Colosseum. (%fqt)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@UseFellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot reward anyone in your fellowship while they still have time left in the Colosseum. (%fqt)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@UseFellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot reward anyone in your fellowship while they still have time left in the Colosseum. (%fqt)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@UseFellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You fought in the Colosseum's Arenas too recently. I cannot reward you for %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@UsePlayer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You fought in the Colosseum's Arenas too recently. I cannot reward you for %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@UsePlayer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You fought in the Colosseum's Arenas too recently. I cannot reward you for %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@UsePlayer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You fought in the Colosseum's Arenas too recently. I cannot reward you for %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@UsePlayer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You fought in the Colosseum's Arenas too recently. I cannot reward you for %tqt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@UsePlayer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! I was greatly impressed with your performance in the arenas."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Colosseum Champion\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 447
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge and this Colosseum Vault Key as a reward for your accomplishments Champion."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34448,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 328647655,
+              "percent": 0.7
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Use the the key to open the Colosseum Vault and claim some of our treasury for yourself."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have won four Colosseum Coins!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let it be known that %tn is a Colosseum Champion!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CompletedColosseum"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CompletedColosseum@10-10",
+              "max": 10,
+              "min": 10
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR18Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AccessBoss10x"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CompletedColosseum@10-10"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You almost completed the Colosseum Arenas!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Titan\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 448
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 328647655,
+              "percent": 0.7
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have won four Colosseum Coins!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR17Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You were very near the end of the Colosseum Arenas!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Colossus\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 449
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 305172823,
+              "percent": 0.65
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have won three Colosseum Coins!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 3,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR16Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! It is evident that you have mastered many of the skills you will need to beat the Colosseum."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Master Gladiator\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 450
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 281697990,
+              "percent": 0.6
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have won two Colosseum Coins!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR15Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You completed the fourteenth Arena!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Fearless\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 451
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 234748325,
+              "percent": 0.5
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have won one Colosseum Coin!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR14Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You fight with noble bearing. I would not be surprised if you were to become a Champion!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Lord of the Arena\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 452
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 187798660,
+              "percent": 0.45
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have won one Colosseum Coin!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR13Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You completed the twelfth Arena!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Ring Master\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 453
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 140848995,
+              "percent": 0.3
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR12Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You fight like a natural!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Pit Fighter\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 454
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 93899330,
+              "percent": 0.2
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR11Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You completed the tenth Arena!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Myrmidon\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 455
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 46949665,
+              "percent": 0.1
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR10Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You completed the ninth Arena!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Hostile Combatant\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 456
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 37559732,
+              "percent": 0.08
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR9Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You completed the eighth Arena!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Survivalist\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 457
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 28169799,
+              "percent": 0.06
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR8Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You completed the seventh Arena!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Warrior of the Seventh Circle\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 458
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 18779866,
+              "percent": 0.04
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR7Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You competed well friend! I shall watch your progress with great interest."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Gladiator\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 459
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 500000,
+              "heroxp64": 0
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR6Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You competed well friend! I shall watch your progress with great interest."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Contender\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 460
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 200000,
+              "heroxp64": 0
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR5Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You competed well friend! I shall watch your progress with great interest."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Drudge Dread\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 461
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 150000,
+              "heroxp64": 0
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR4Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You competed well friend! I shall watch your progress with great interest."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Arena Custodian\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 462
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 100000,
+              "heroxp64": 0
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR3Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You competed well friend! I shall watch your progress with great interest."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Arena Rat\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 463
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 50000,
+              "heroxp64": 0
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR2Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You competed well friend! I shall watch your progress with great interest."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall be known to all as a \"Scrapper\"!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 464
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge as a reward for your accomplishments."
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 10000,
+              "heroxp64": 0
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR1Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot start a new battle while they still have time left in the Colosseum. (%fqt)"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34449,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@GiveTicket"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot start a new battle while they still have time left in the Colosseum. (%fqt)"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34449,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@GiveTicket"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot start a new battle while they still have time left in the Colosseum. (%fqt)"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34449,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@GiveTicket"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot start a new battle while they still have time left in the Colosseum. (%fqt)"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34449,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@GiveTicket"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fellowship's Arena battles still continue. I cannot start a new battle while they still have time left in the Colosseum. (%fqt)"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34449,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@GiveTicket"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaTwoAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneWait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaThreeAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoWait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaFourAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeWait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaFiveAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourWait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NoArenasAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveWait"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PlayerHasFellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsPlayerInFellow?"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess@UseFellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@UseFellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess@UseFellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@UseFellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess@UseFellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@UseFellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess@UseFellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@UseFellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PlayerAccessCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@UseFellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess@UsePlayer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@UsePlayer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess@UsePlayer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@UsePlayer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess@UsePlayer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@UsePlayer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess@UsePlayer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@UsePlayer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PlayerRoomCompletions"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@UsePlayer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ErasePlayerQuestFlags"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CompletedColosseum@10-10"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR17Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR18Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR16Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR17Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR15Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR16Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR14Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR15Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR13Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR14Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR12Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR13Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR11Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR12Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR10Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR11Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR9Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR10Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR8Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR9Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR7Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR8Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR6Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR7Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR5Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR6Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR4Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR5Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR3Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR4Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR2Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR3Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR1Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR2Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WelcomeText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoR1Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@GiveTicket"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@GiveTicket"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@GiveTicket"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@GiveTicket"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaOneAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@GiveTicket"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneWait"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35055,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 64,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Your fellowship will be battling in Arena One."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ActivateArenaOne"
+            },
+            {
+              "type": 64,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Use one of the two portals to enter your Arena. If every member of your group is powerful enough you may skip the lower battles by using the Advanced Colosseum Arena, but any one member of your fellow may be restricted from using that portal so be careful or you may be split up."
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good Luck!"
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Don't forget that you must wait one full hour after the time you enter the colosseum before I will reward you for your achievements in the Arenas."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Attention Patrons! Combat will soon begin in Arena One."
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneWait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoWait"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35055,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 64,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Your fellowship will be battling in Arena Two."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ActivateArenaTwo"
+            },
+            {
+              "type": 64,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Use one of the two portals to enter your Arena. If every member of your group is powerful enough you may skip the lower battles by using the Advanced Colosseum Arena, but any one member of your fellow may be restricted from using that portal so be careful or you may be split up."
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good Luck!"
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Don't forget that you must wait one full hour after the time you enter the colosseum before I will reward you for your achievements in the Arenas."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Attention Patrons! Combat will soon begin in Arena Two."
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoWait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeWait"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35055,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 64,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Your fellowship will be battling in Arena Three."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ActivateArenaThree"
+            },
+            {
+              "type": 64,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Use one of the two portals to enter your Arena. If every member of your group is powerful enough you may skip the lower battles by using the Advanced Colosseum Arena, but any one member of your fellow may be restricted from using that portal so be careful or you may be split up."
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good Luck!"
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Don't forget that you must wait one full hour after the time you enter the colosseum before I will reward you for your achievements in the Arenas."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Attention Patrons! Combat will soon begin in Arena Three."
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeWait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourWait"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35055,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 64,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Your fellowship will be battling in Arena Four."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ActivateArenaFour"
+            },
+            {
+              "type": 64,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Use one of the two portals to enter your Arena. If every member of your group is powerful enough you may skip the lower battles by using the Advanced Colosseum Arena, but any one member of your fellow may be restricted from using that portal so be careful or you may be split up."
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good Luck!"
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Don't forget that you must wait one full hour after the time you enter the colosseum before I will reward you for your achievements in the Arenas."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Attention Patrons! Combat will soon begin in Arena Four."
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourWait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveWait"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35055,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 64,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Your fellowship will be battling in Arena Five."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ActivateArenaFive"
+            },
+            {
+              "type": 64,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Use one of the two portals to enter your Arena. If every member of your group is powerful enough you may skip the lower battles by using the Advanced Colosseum Arena, but any one member of your fellow may be restricted from using that portal so be careful or you may be split up."
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good Luck!"
+            },
+            {
+              "type": 64,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Don't forget that you must wait one full hour after the time you enter the colosseum before I will reward you for your achievements in the Arenas."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Attention Patrons! Combat will soon begin in Arena Five."
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveWait"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-34704",
+              "cprof": {
+                "wcid": 34704,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34704,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, then take this knowledge instead."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 140000000,
+              "percent": 0.3
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34704"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-34705",
+              "cprof": {
+                "wcid": 34705,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34705,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, then take this knowledge instead."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 140000000,
+              "percent": 0.3
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34705"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-34706",
+              "cprof": {
+                "wcid": 34706,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34706,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, then take this knowledge instead."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 140000000,
+              "percent": 0.3
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34706"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-34707",
+              "cprof": {
+                "wcid": 34707,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34707,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, then take this knowledge instead."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 140000000,
+              "percent": 0.3
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34707"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-34708",
+              "cprof": {
+                "wcid": 34708,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34708,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, then take this knowledge instead."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 140000000,
+              "percent": 0.3
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36518,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34708"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You'd rather have the learning than the Augmentation Gem, eh? Can't say that I blame you."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arbitrator reaches out and lightly touches your forehead, sending a jolt of new understanding through you mind."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 3390451400,
+              "percent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_6"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Do not try to fool me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34704"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, champion."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Do not try to fool me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34705"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, champion."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Do not try to fool me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34706"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, champion."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Do not try to fool me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34707"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, champion."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Do not try to fool me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-34708"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, champion."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_5"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35808,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_6"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoInUse@HeartBeat"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneInUse@HeartBeat"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeInUse@HeartBeat"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoInUse@HeartBeat"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourInUse@HeartBeat"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeInUse@HeartBeat"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInUse@HeartBeat"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourInUse@HeartBeat"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaTwoAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneInUse@GiveTicket"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaThreeAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoInUse@GiveTicket"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaFourAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeInUse@GiveTicket"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsArenaFiveAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourInUse@GiveTicket"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NoArenasAvailable"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveInUse@GiveTicket"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Arena Five is now available for new warriors!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveInUse@HeartBeat"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Arena Four is now available for new warriors!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourInUse@HeartBeat"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Arena Three is now available for new warriors!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeInUse@HeartBeat"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Arena Two is now available for new warriors!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoInUse@HeartBeat"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Arena One is now available for new warriors!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneInUse@HeartBeat"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneInUse@GiveTicket"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoInUse@GiveTicket"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeInUse@GiveTicket"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourInUse@GiveTicket"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveInUse@GiveTicket"
+        }
+      ]
+    },
+    {
+      "key": 30,
+      "value": [
+        {
+          "category": 30,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You cannot enter the Colosseum unless you first create a Fellowship."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34449,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsPlayerInFellow?"
+        },
+        {
+          "category": 30,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PlayerAccessCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@UseFellow"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess@UsePlayer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PlayerAccessCheck"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR18Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PlayerRoomCompletions"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR1Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR2Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR3Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR4Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR5Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR6Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR7Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR8Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR9Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR10Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR11Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR12Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR13Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR14Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR15Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR16Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR17Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoR18Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ErasePlayerQuestFlags"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PlayerHasFellow"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneInUse@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsArenaOneAvailable"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoInUse@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsArenaTwoAvailable"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeInUse@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsArenaThreeAvailable"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourInUse@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsArenaFourAvailable"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveInUse@GiveTicket"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsArenaFiveAvailable"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "All Arenas are currently occupied. Please come back later and try again."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34449,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NoArenasAvailable"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Welcome to Colosseum! Colosseum begins. Enter the Colosseum. This is the time for challenge. Be strong, and you will be rewarded."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Here citizens from Habreous, Yalaini and Dericost match their skills against the greatest gladiators, warriors and mages in the Empire!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you wish to fight as a gladiator in the Arena I will require you to purchase a ticket from the Ticket Vendors over there. We do need to keep the place running don't we?"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Also, I warn you now. Prepare your fellowship ahead of time. Once you pay me you cannot change your registered group and only that group will be allowed into the Arena I assign you. After you enter the Arena you must wait one hour before recieving your reward. Our gladiators need time to rest between fights."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WelcomeText"
+        }
+      ]
+    },
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneWait"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoWait"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeWait"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourWait"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveWait"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:37.753563Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

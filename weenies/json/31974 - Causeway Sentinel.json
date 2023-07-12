@@ -1,0 +1,287 @@
+{
+  "wcid": 31974,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 2500,
+      "current": 2750
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 510
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 20
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 13
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 500
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559702
+    },
+    {
+      "key": 2,
+      "value": 150995344
+    },
+    {
+      "key": 3,
+      "value": 536870933
+    },
+    {
+      "key": 8,
+      "value": 100667940
+    },
+    {
+      "key": 22,
+      "value": 872415332
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Causeway Sentinel"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The ancient golem turns towards you and makes a menacing grinding noise. As you flinch back, the golem leans forward slightly. You can feel it working its way into your mind."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "... trespass not upon work of mistress..."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "... or face most horrible wrath..."
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "The golem rumbles loudly at you once again and a surge of planar energy wells around you."
+            },
+            {
+              "type": 19,
+              "delay": 0.2,
+              "extent": 1.0,
+              "spellid": 3847
+            }
+          ],
+          "probability": 1.0,
+          "classID": 2426
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The ancient golem turns towards you and makes a menacing grinding noise. As you flinch back, the golem leans forward slightly. You can feel it working its way into your mind."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "... am entity who protect way to mistress."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "... seek you offering for mistress. Entity will grant way for proper giving."
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "The golem wavers slightly, you can tell the magic used to forge it has weakened."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "... bring you the pitch of age-ed forest ... bring you the stone of night... bring you the gem of sacrifice..."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "... bring one or no grant flight."
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "With that, the barnacled golem slumps back down upon the ground and returns to its slumber."
+            },
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "... sleep..."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:11.9820417Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

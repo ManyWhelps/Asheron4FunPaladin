@@ -1,0 +1,169 @@
+{
+  "wcid": 41948,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6294556
+    },
+    {
+      "key": 95,
+      "value": 4
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 267,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560901
+    },
+    {
+      "key": 2,
+      "value": 150995314
+    },
+    {
+      "key": 3,
+      "value": 536871052
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    },
+    {
+      "key": 22,
+      "value": 872415274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Mhoire Castle Courtyard Portal"
+    },
+    {
+      "key": 16,
+      "value": "A portal for the defenders of Mhoire Castle."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MhoireCastleGotAccess@5"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Defender's Mark of House Mhoire burns with blue flame and you are transported to Mhoire Castle."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 5160
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MhoireCastleGotAccess@5"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must complete a quest to use this portal."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MhoireCastleGotAccess@5"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:58.5362048Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

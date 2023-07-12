@@ -1,0 +1,264 @@
+{
+  "wcid": 49518,
+  "weenieType": 12,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 20
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 60
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 20
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 75
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 90
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 65
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 30
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 60
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 65
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 39,
+      "value": 1
+    },
+    {
+      "key": 41,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 51
+    },
+    {
+      "key": 3,
+      "value": 82
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 7
+    },
+    {
+      "key": 74,
+      "value": 1613561775
+    },
+    {
+      "key": 75,
+      "value": 0
+    },
+    {
+      "key": 76,
+      "value": 1000000
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561104
+    },
+    {
+      "key": 2,
+      "value": 150995463
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437437
+    },
+    {
+      "key": 8,
+      "value": 100691502
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 37,
+      "value": 0.9
+    },
+    {
+      "key": 38,
+      "value": 20.0
+    },
+    {
+      "key": 39,
+      "value": 1.15
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Asenala"
+    },
+    {
+      "key": 5,
+      "value": "Geomancer"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 48886,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 48890,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 48878,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 48888,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 48882,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 48880,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 48884,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:24.5178432Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

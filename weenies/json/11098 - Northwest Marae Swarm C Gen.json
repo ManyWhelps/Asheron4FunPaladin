@@ -1,0 +1,213 @@
+{
+  "wcid": 11098,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 4
+    },
+    {
+      "key": 82,
+      "value": 3
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 142,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 60.0
+    },
+    {
+      "key": 43,
+      "value": 12.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Northwest Marae Swarm C Gen"
+    },
+    {
+      "key": 34,
+      "value": "NorthWestSwarmC"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 2,
+      "maxNum": 4,
+      "objcell_id": 0,
+      "probability": 0.4959999918937683,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 11042,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": -2.0,
+          "y": -4.0,
+          "z": 40.0
+        },
+        "angles": {
+          "w": 0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 4,
+      "objcell_id": 0,
+      "probability": 0.9760000109672546,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 11025,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 2.0,
+          "y": 4.0,
+          "z": 40.0
+        },
+        "angles": {
+          "w": -0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.9959999918937683,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 11021,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 600.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.9980000257492065,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 3,
+      "stackSize": -1,
+      "type": 10963,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 600.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 4,
+      "stackSize": -1,
+      "type": 10965,
+      "whenCreate": 1,
+      "whereCreate": 2
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:01:06.9101665Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

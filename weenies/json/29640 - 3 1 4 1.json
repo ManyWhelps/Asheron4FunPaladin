@@ -1,0 +1,113 @@
+{
+  "wcid": 29640,
+  "weenieType": 26,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 83,
+      "value": 2048
+    },
+    {
+      "key": 93,
+      "value": 20
+    },
+    {
+      "key": 119,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558886
+    },
+    {
+      "key": 2,
+      "value": 150995055
+    },
+    {
+      "key": 3,
+      "value": 536870980
+    },
+    {
+      "key": 8,
+      "value": 100667624
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 24,
+      "value": 268435537
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 2.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "3 1 4 1"
+    },
+    {
+      "key": 16,
+      "value": "A lever marked with the numbers 3, 1, 4, and 1."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 8,
+      "value": [
+        {
+          "category": 8,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Continue the sequence of numbers starting with 3, 1, 4, 1 ..."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3558
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:25.8183355Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

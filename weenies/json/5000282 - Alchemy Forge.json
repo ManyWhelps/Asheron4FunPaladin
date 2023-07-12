@@ -1,0 +1,945 @@
+{
+  "wcid": 5000282,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 380
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 340
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 330
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 285
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 170
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 340
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 285
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 8,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 16,
+            "armor_vs_pierce": 16,
+            "armor_vs_bludgeon": 16,
+            "armor_vs_cold": 20,
+            "armor_vs_fire": 20,
+            "armor_vs_acid": 20,
+            "armor_vs_electric": 20,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 16,
+            "armor_vs_pierce": 16,
+            "armor_vs_bludgeon": 16,
+            "armor_vs_cold": 20,
+            "armor_vs_fire": 20,
+            "armor_vs_acid": 20,
+            "armor_vs_electric": 20,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4000000059604645,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.4000000059604645,
+            "HRF": 0.4000000059604645,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.4000000059604645,
+            "HLB": 0.4000000059604645,
+            "MLB": 0.4000000059604645,
+            "LLB": 0.4000000059604645,
+            "HRB": 0.4000000059604645,
+            "MRB": 0.4000000059604645,
+            "LRB": 0.4000000059604645
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 16,
+            "armor_vs_pierce": 16,
+            "armor_vs_bludgeon": 16,
+            "armor_vs_cold": 20,
+            "armor_vs_fire": 20,
+            "armor_vs_acid": 20,
+            "armor_vs_electric": 20,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 21,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 8,
+            "armor_vs_pierce": 8,
+            "armor_vs_bludgeon": 8,
+            "armor_vs_cold": 10,
+            "armor_vs_fire": 10,
+            "armor_vs_acid": 10,
+            "armor_vs_electric": 10,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 6,
+      "value": 0
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 50,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 63
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 239
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 133,
+      "value": 0
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 20166
+    },
+    {
+      "key": 307,
+      "value": 0
+    },
+    {
+      "key": 308,
+      "value": 0
+    },
+    {
+      "key": 313,
+      "value": 0
+    },
+    {
+      "key": 314,
+      "value": 0
+    },
+    {
+      "key": 315,
+      "value": 0
+    },
+    {
+      "key": 316,
+      "value": 0
+    },
+    {
+      "key": 370,
+      "value": 0
+    },
+    {
+      "key": 371,
+      "value": 0
+    },
+    {
+      "key": 372,
+      "value": 0
+    },
+    {
+      "key": 373,
+      "value": 0
+    },
+    {
+      "key": 374,
+      "value": 0
+    },
+    {
+      "key": 375,
+      "value": 0
+    },
+    {
+      "key": 376,
+      "value": 0
+    },
+    {
+      "key": 377,
+      "value": 0
+    },
+    {
+      "key": 378,
+      "value": 0
+    },
+    {
+      "key": 379,
+      "value": 0
+    },
+    {
+      "key": 381,
+      "value": 0
+    },
+    {
+      "key": 382,
+      "value": 0
+    },
+    {
+      "key": 383,
+      "value": 0
+    },
+    {
+      "key": 384,
+      "value": 0
+    },
+    {
+      "key": 386,
+      "value": 0
+    },
+    {
+      "key": 387,
+      "value": 0
+    },
+    {
+      "key": 388,
+      "value": 0
+    },
+    {
+      "key": 389,
+      "value": 0
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559116
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 4,
+      "value": 805306398
+    },
+    {
+      "key": 8,
+      "value": 100677345
+    },
+    {
+      "key": 22,
+      "value": 872415274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 1.1
+    },
+    {
+      "key": 4,
+      "value": 0.5
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 13,
+      "value": 0.79
+    },
+    {
+      "key": 14,
+      "value": 0.79
+    },
+    {
+      "key": 15,
+      "value": 0.8
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.0
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.4
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Alchemy Forge"
+    }
+  ],
+  "skills": [
+    {
+      "key": 32,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ForgeEssenceGiven1204@West"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 30475
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ForgeEssenceGiven1204@South"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 30474
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ForgeEssenceGiven1204@North"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 30476
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ForgeEssenceGiven1204@Use"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are commended for fueling the Alchemy Forge!"
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test_Level",
+              "max": 125,
+              "min": 1,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@West"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3750
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@Use"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are commended for fueling the Alchemy Forge!"
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test_Level",
+              "max": 125,
+              "min": 1,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@North"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test_Level",
+              "max": 125,
+              "min": 1,
+              "stat": 25
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are commended for fueling the Alchemy Forge!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@South"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3750
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your Alchemy skill is temporarily increased. You feel more confident - more powerful. But at the same time, your heart flutters within your chest, your breath catches in your throat, and you feel a deep, dark cold in the pit of your stomach. You wonder briefly just what long-term effect this crafting forge may have on you."
+            }
+          ],
+          "probability": 0.01,
+          "quest": "ForgeEssenceGiven1204@Use"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test_Level",
+              "max": 125,
+              "min": 1,
+              "stat": 25
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are commended for fueling the Alchemy Forge! From now on you shall obtain a longer-lasting boon from all crafting forges!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ForgeEssenceGiven1204"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@North"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test_Level",
+              "max": 125,
+              "min": 1,
+              "stat": 25
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are commended for fueling the Alchemy Forge! From now on you shall obtain a longer-lasting boon from all crafting forges!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ForgeEssenceGiven1204"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@South"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3749
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@Use"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test_Level",
+              "max": 125,
+              "min": 1,
+              "stat": 25
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ForgeEssenceGiven1204"
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are commended for fueling the Alchemy Forge! From now on you shall obtain a longer-lasting boon from all crafting forges!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgeEssenceGiven1204@West"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your Alchemy skill is temporarily increased. You feel more confident - more powerful. But at the same time, your heart flutters within your chest, your breath catches in your throat, and you feel a deep, dark cold in the pit of your stomach. You wonder briefly just what long-term effect this crafting forge may have on you."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3749
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CraftingForgeUsed1204"
+            }
+          ],
+          "probability": 0.01,
+          "quest": "ForgeEssenceGiven1204@Use"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 3322562,
+              "percent": 0.02
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Test_Level"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 3322562,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Test_Level"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:13:30.9474624Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

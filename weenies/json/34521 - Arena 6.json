@@ -1,0 +1,124 @@
+{
+  "wcid": 34521,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 1040
+    },
+    {
+      "key": 111,
+      "value": 49
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560143
+    },
+    {
+      "key": 8,
+      "value": 100677070
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 0.3
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Arena 6"
+    },
+    {
+      "key": 33,
+      "value": "ColoR5Completed"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "A Door appears on the North wall."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "posStats": [
+    {
+      "key": 26,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 0.0,
+            "y": 63.0,
+            "z": 0.0
+          },
+          "angles": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "objcell_id": 0
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:38.9878344Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

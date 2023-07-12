@@ -1,0 +1,125 @@
+{
+  "wcid": 15755,
+  "weenieType": 26,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 83,
+      "value": 2048
+    },
+    {
+      "key": 93,
+      "value": 20
+    },
+    {
+      "key": 119,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557627
+    },
+    {
+      "key": 2,
+      "value": 150995055
+    },
+    {
+      "key": 3,
+      "value": 536870980
+    },
+    {
+      "key": 8,
+      "value": 100667624
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 24,
+      "value": 268435537
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 2.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Lever"
+    },
+    {
+      "key": 16,
+      "value": "A lever, mounted on the floor. Pulling this lever will abandon Nuhmudira to her fate."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 8,
+      "value": [
+        {
+          "category": 8,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AbandonedNuhmudira"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PortalOublietteBypass"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The feeling that you have abandoned a friend washes over you."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 2652
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:02:43.5401856Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

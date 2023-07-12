@@ -1,0 +1,1409 @@
+{
+  "wcid": 37042,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 245
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 215
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 235
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 230
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80,
+      "current": 190
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 330
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 40,
+      "current": 270
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 62
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 60
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556923
+    },
+    {
+      "key": 2,
+      "value": 150995087
+    },
+    {
+      "key": 3,
+      "value": 536870998
+    },
+    {
+      "key": 8,
+      "value": 100670274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Emissary of Asheron"
+    },
+    {
+      "key": 5,
+      "value": "Emissary"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Emissary carefully takes the Aerbax Mask Shard, surrounding it in a ball of white light. The Shard writhes with dark energy."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I cannot cleanse this mask shard, it is far too corrupted. Perhaps Leopold, the Virindi in Ayan Baqur, can do something with it."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37058
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadow_inuseevent@2"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37059
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadow_inuseevent@3"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37060
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadow_inuseevent@4"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 37061
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerbaxCompletedWait"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must wait %tqt to receive the rewards again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AerbaxCompletedWait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadowdefeatedrepeat"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadowdefeated"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! Aerbax's Shadow has lost his hold on the planar energies his device has been extracting. We must stay vigilant for he will continue to gain power as long as he holds the platforms. Return tomorrow to defeat Aerbax's Shadow again and I will reward you further."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 400000000,
+              "percent": 0.4
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 25000
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 8,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadowdefeated"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelfellowstart"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerbaxPlatformAccess"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerbaxCompletedWait"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Rewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadowdefeatedrepeat"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Hurry, your fellowship only has approximately %tqt left. Use the Harmonic Transference Field."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AerbaxPlatformAccess"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavewestgateharmoniccrystal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavenorthgateharmoniccrystal"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Complete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the North Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavewestgateharmoniccrystal@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gaveeastgateharmoniccrystal"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Complete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the East Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal@4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavenorthgateharmoniccrystal@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gaveeastgateharmoniccrystal@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Complete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavenorthgateharmoniccrystal@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the East Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavenorthgateharmoniccrystal@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Rewards2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxcitadelrewards1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Rewards3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxcitadelrewards2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Rewards4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxcitadelrewards3"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadowdefeated"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AerbaxCompletedWait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! Aerbax's Shadow has lost his hold on the planar energies his device has been extracting. We must stay vigilant for he will continue to gain power as long as he holds the platforms. Return tomorrow to defeat Aerbax's Shadow again and I will reward you further."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 400000000,
+              "percent": 1.0
+            },
+            {
+              "type": 113,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 25000
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 574
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have been awarded the title of \"Aerbax's Bane\""
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 8,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadowdefeatedrepeat"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadowdefeated"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelfellowstart"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerbaxPlatformAccess"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerbaxCompletedWait"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Rewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadowdefeatedrepeat"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerbaxPlatformAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadowdefeated"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadow_inuseevent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AerbaxPlatformAccess"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the West Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavewestgateharmoniccrystal@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavenorthgateharmoniccrystal"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the North Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You haven't brought me the West Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the West Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavewestgateharmoniccrystal@4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gaveeastgateharmoniccrystal"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the East Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You haven't brought me the West Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavewestgateharmoniccrystal@4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the North Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavenorthgateharmoniccrystal@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavenorthgateharmoniccrystal@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gaveeastgateharmoniccrystal@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You haven't brought me the East Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You haven't brought me the North Gate Harmonic Crystal yet."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Return to me when you have them and I will prepare you and a Fellowship of your choosing for travel to Aerbax's Platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gavenorthgateharmoniccrystal@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 64,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Good, I am attuning your fellowship to the resonant magic field surrounding the device. Be warned, this spell will only allow you access to Aerbax's platforms for one hour before it fails and Aerbax expels you."
+            },
+            {
+              "type": 64,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Please return to me if you succeed in defeating Aerbax and I will reward you."
+            },
+            {
+              "type": 61,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelfellowstart"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxshadowcontrollerevent"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gaveeastgateharmoniccrystal"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavenorthgateharmoniccrystal"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavewestgateharmoniccrystal"
+            },
+            {
+              "type": 66,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsPlayerInFellow?"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38919,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 36948,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxcitadelrewards1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38919,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37111,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxcitadelrewards2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38919,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37112,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxcitadelrewards3"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good, you made it."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "There seems to be a fellowship already helping with stopping Aerbax. Please return later."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There seems to be a fellowship already helping with stopping Aerbax. Please return later."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37059,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent@2"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There seems to be a fellowship already helping with stopping Aerbax. Please return later."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37060,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent@3"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There seems to be a fellowship already helping with stopping Aerbax. Please return later."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37061,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent@4"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good, you made it."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have been sent here by Lord Asheron to help you stop Aerbax."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have been unable to destroy this device. Aerbax realized what you were doing and protected his last device somehow."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "However, I have studied the device and believe there is a way to use it's resonant magic field."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Scouts report that Aerbax's forces are even now attempting to repair the other devices you destroyed. Return to the other Gates and bring me back the crystals they are using to repair the devices. Once I have all three crystals I believe I can send a fellowship of you through to the platforms above."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gaveeastgateharmoniccrystal"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckOthersEast"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent@2"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavenorthgateharmoniccrystal"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckOthersNorth"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent@3"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavewestgateharmoniccrystal"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckOthersWest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "aerbaxshadow_inuseevent@4"
+        }
+      ]
+    },
+    {
+      "key": 30,
+      "value": [
+        {
+          "category": 30,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You cannot proceed unless you first create a Fellowship."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37061,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsPlayerInFellow?"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gavenorthgateharmoniccrystal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckOthersEast"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gaveeastgateharmoniccrystal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckOthersNorth"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gaveeastgateharmoniccrystal@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckOthersWest"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Excellent! You have brought me all three Harmonic Crystals."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Have you prepared a fellowship friend?"
+            },
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsPlayerInFellow?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Complete"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Rewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Rewards2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Rewards3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38919,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 37113,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards2"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "aerbaxcitadelrewards3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Rewards4"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:06.2332369Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

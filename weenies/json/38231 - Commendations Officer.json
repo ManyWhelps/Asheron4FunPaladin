@@ -1,0 +1,2979 @@
+{
+  "wcid": 38231,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 296
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 486
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 200
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    },
+    {
+      "key": 281,
+      "value": 1
+    },
+    {
+      "key": 287,
+      "value": 1001
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667377
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Commendations Officer"
+    },
+    {
+      "key": 5,
+      "value": "Society Officer"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2587,
+      "palette": 91,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2597,
+      "palette": 13,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 25661,
+      "palette": 4,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 80303,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayTimer"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41809
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayTimer@2"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41810
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayTimer@3"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41811
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_998-1000",
+              "max": 1000,
+              "min": 998,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "classID": 38228
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_998-1000_2",
+              "max": 1000,
+              "min": 998,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayTimer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've redeemed as many damaged ribons as you can for now."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayCounter"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayTimer@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've redeemed as many damaged ribons as you can for now."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayCounter@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayTimer@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've redeemed as many damaged ribons as you can for now."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayCounter@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@200",
+              "max": 2147483647,
+              "min": 200
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LordRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@200"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LordRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@150",
+              "max": 2147483647,
+              "min": 150
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@150"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0_2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@100",
+              "max": 2147483647,
+              "min": 100
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AdeptRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AdeptRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0_3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@50",
+              "max": 2147483647,
+              "min": 50
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InitiateRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@50"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InitiateRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0_4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_601-994_2",
+              "max": 994,
+              "min": 601,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A Lord of our Society is allowed to turn in a total of 200 Commendation Ribbons per day."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@200_2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A Knight of our Society is allowed to turn in a total of 150 Commendation Ribbons per day."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@150_2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "An Adept of our Society is allowed to turn in a total of 100 Commendation Ribbons per day."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@100_2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have turned in the maximum number of Commendation Ribbons allowed for your rank this day."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "An Initiate of our Society is allowed to turn in a total of 50 Commendation Ribbons per day."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@50_2"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A damaged society ribbon. It's good that you recovered this."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'll exchange this for a proper ribbon from our society."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41809,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayTimer"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A damaged society ribbon. It's good that you recovered this."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'll exchange this for a proper ribbon from our society."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41809,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayTimer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A damaged society ribbon. It's good that you recovered this."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'll exchange this for a proper ribbon from our society."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41810,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayCounter@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayTimer"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A damaged society ribbon. It's good that you recovered this."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'll exchange this for a proper ribbon from our society."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41810,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayTimer@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A damaged society ribbon. It's good that you recovered this."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'll exchange this for a proper ribbon from our society."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41811,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayCounter@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayTimer"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A damaged society ribbon. It's good that you recovered this."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'll exchange this for a proper ribbon from our society."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41811,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyDamagedRibbonsPerDayCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyDamagedRibbonsPerDayTimer@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@0-0",
+              "max": 0,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@200"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not yet hit the maximum number of Commendation Ribbons you are allowed to turn in this day."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Commendations Officer looks in his records, and notes that you have presently turned in %tqc ribbons in the last day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LordRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LordRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@0-0_2",
+              "max": 0,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@150"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not yet hit the maximum number of Commendation Ribbons you are allowed to turn in this day."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Commendations Officer looks in his records, and notes that you have presently turned in %tqc ribbons in the last day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0_2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@0-0_3",
+              "max": 0,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not yet hit the maximum number of Commendation Ribbons you are allowed to turn in this day."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Commendations Officer looks in his records, and notes that you have presently turned in %tqc ribbons in the last day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AdeptRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0_3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AdeptRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@0-0_4",
+              "max": 0,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@50"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not yet hit the maximum number of Commendation Ribbons you are allowed to turn in this day."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Commendations Officer looks in his records, and notes that you have presently turned in %tqc ribbons in the last day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InitiateRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@0-0_4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not recently turned in any Commendation Ribbons."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InitiateRankCheckLimitText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeFourRibbons"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@200_2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeFourRibbons"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@150_2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeFourRibbons"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@100_2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeFourRibbons"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayCounter@50_2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayTimer"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeFourRibbons"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRibbonsPerDayTimer@5"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Master within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_998-1000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Master within our Society. You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MasterTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_995-997"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Lord within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_598-600"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Lord within our Society. You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LordTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_595-597"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Knight within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_298-300"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Knight within our Society. You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_295-297"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Adept within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_98-100"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Adept within our Society.  You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AdeptTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_95-97"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Master within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_998-1000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Master within our Society. You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MasterTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_995-997_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Lord within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_598-600_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Lord within our Society. You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LordTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_595-597_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Knight within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_298-300_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Knight within our Society. You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_295-297_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to hold the rank of Adept within our Society. You may not turn in commendations again until you have completed the promotion."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with the Promotions Officer, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_98-100_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are presently qualified to take the tests for the rank of Adept within our Society. You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AdeptTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_95-97_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have achieved the highest rank within this Society possible.  If you'd like, I can exchange Commendation Ribbons for Society Trade Tokens.  It takes 50 Commendation Ribbons to trade for 1 Trade Token.  If you wish to make this trade, simply have at least 50 ribbons in your inventory and hand me one."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1001"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_601-994"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayTimer@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_301-594"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayTimer@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_101-294"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayTimer@4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1-94"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeFourtyNineRibbons"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1001_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@200_2",
+              "max": 2147483647,
+              "min": 200
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_601-994_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@150_2",
+              "max": 2147483647,
+              "min": 150
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_301-594_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@100_2",
+              "max": 2147483647,
+              "min": 100
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_101-294_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayCounter@50_2",
+              "max": 2147483647,
+              "min": 50
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1-94_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, I will take four more of these, totaling five turned in."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'll update the books to note your service to our Society."
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 5,
+              "msg": "SocietyRibbonsPerDayCounter"
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_601-601",
+              "max": 601,
+              "min": 601,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-38228"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 54,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_601-601"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 54,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_301-301"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 54,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_101-101"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 54,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1-1"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You now qualify to take the tests for the rank of Master within our Society.  You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MasterTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_995-995"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You now qualify to take the tests for the rank of Lord within our Society.  You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LordTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_595-595"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You now qualify to take the tests for the rank of Knight within our Society.  You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_295-295"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You now qualify to take the tests for the rank of Adept within our Society.  You may not turn in commendations again until you have completed the tests."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AdeptTesterText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_95-95"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You handed me one, so I'll take 49 more of these and give you your Trade Token.  Here you go."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 49,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38234,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-38228_2"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_995-997",
+              "max": 997,
+              "min": 995,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_998-1000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_598-600",
+              "max": 600,
+              "min": 598,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_995-997"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_595-597",
+              "max": 597,
+              "min": 595,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_598-600"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_298-300",
+              "max": 300,
+              "min": 298,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_595-597"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_295-297",
+              "max": 297,
+              "min": 295,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_298-300"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_98-100",
+              "max": 100,
+              "min": 98,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_295-297"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_95-97",
+              "max": 97,
+              "min": 95,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_98-100"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RibbonTurnInLimitCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_95-97"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_995-997_2",
+              "max": 997,
+              "min": 995,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_998-1000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_598-600_2",
+              "max": 600,
+              "min": 598,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_995-997_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_595-597_2",
+              "max": 597,
+              "min": 595,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_598-600_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_298-300_2",
+              "max": 300,
+              "min": 298,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_595-597_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_295-297_2",
+              "max": 297,
+              "min": 295,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_298-300_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_98-100_2",
+              "max": 100,
+              "min": 98,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_295-297_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_95-97_2",
+              "max": 97,
+              "min": 95,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_98-100_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_95-97_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_601-994",
+              "max": 994,
+              "min": 601,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1001"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_301-594",
+              "max": 594,
+              "min": 301,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_601-994"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_101-294",
+              "max": 294,
+              "min": 101,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_301-594"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_1-94",
+              "max": 94,
+              "min": 1,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_101-294"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "How did we get here?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1-94"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRibbonsPerDayTimer@5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1001_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_301-594_2",
+              "max": 594,
+              "min": 301,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_601-994_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_101-294_2",
+              "max": 294,
+              "min": 101,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_301-594_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_1-94_2",
+              "max": 94,
+              "min": 1,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_101-294_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "How did we get here?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1-94_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_301-301",
+              "max": 301,
+              "min": 301,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_601-601"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_101-101",
+              "max": 101,
+              "min": 101,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_301-301"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_1-1",
+              "max": 1,
+              "min": 1,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_101-101"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 54,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 5,
+              "stat": 287
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_995-995",
+              "max": 995,
+              "min": 995,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_1-1"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_595-595",
+              "max": 595,
+              "min": 595,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_995-995"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_295-295",
+              "max": 295,
+              "min": 295,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_595-595"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_95-95",
+              "max": 95,
+              "min": 95,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCelhan_295-295"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sorry! I only deal in transactions in lots of 5, and you have less than that, so you'll need to get more before you come back here."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-38228"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sorry! I only deal in transactions in lots of 50, and you have less than that, so you'll need to get more before you come back here."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-38228_2"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_1001",
+              "max": 2147483647,
+              "min": 1001,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCheck"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "An Initiate of our Society is allowed to turn in a total of 50 Commendation Ribbons per day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCheckFinalText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InitiateRankCheckLimitText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "An Adept of our Society is allowed to turn in a total of 100 Commendation Ribbons per day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCheckFinalText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AdeptRankCheckLimitText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A Knight of our Society is allowed to turn in a total of 150 Commendation Ribbons per day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCheckFinalText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KnightRankCheckLimitText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A Lord of our Society is allowed to turn in a total of 200 Commendation Ribbons per day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCheckFinalText"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "LordRankCheckLimitText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "To turn in Commendation Ribbons, simply have at least 5 Ribbons in your inventory, and hand me one. I only deal in transactions in lots of 5, so if you have less than that, you'll need to get more before you come back here."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SocietyRankCheckFinalText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SocietyRankCelhan_1001_2",
+              "max": 2147483647,
+              "min": 1001,
+              "stat": 287
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RibbonTurnInLimitCheck"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-38228",
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TakeFourRibbons"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with Aldrion, the Inspector of Adepts, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AdeptTesterText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with Francesca du Orza, the Inspector of Knights, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KnightTesterText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with Philonius Porbandar, the Inspector of Lords, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "LordTesterText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please speak with Alicia Bladesworn, the Inspector of Masters, here in this Stronghold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MasterTesterText"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-38228_2",
+              "cprof": {
+                "wcid": 38228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 49,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TakeFourtyNineRibbons"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:19.6662798Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

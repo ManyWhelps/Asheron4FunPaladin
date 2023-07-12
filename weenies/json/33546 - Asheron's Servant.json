@@ -1,0 +1,2027 @@
+{
+  "wcid": 33546,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 245
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 215
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 235
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 230
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80,
+      "current": 190
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 330
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 40,
+      "current": 270
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 62
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 130
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556923
+    },
+    {
+      "key": 2,
+      "value": 150995087
+    },
+    {
+      "key": 3,
+      "value": 536870998
+    },
+    {
+      "key": 8,
+      "value": 100670274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Asheron's Servant"
+    },
+    {
+      "key": 5,
+      "value": "Guardian of the White Tower"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@2"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6353
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@3"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6355
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@4"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6354
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@5"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6329
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@6"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6330
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@7"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6331
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@8"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34884
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@9"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34889
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@10"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 34879
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@11"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6055
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@12"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6057
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@13"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6056
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@14"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 6623
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@15"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23849
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@16"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23853
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@17"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23854
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@18"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23852
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@19"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23856
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@20"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23850
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@21"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31881
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed@22"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23851
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianKill"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! The Tower Guardian learned alot from its last fight with you."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 499
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have been of great service to my master and shall henceforth be known as a \"Guardian of the Tower\""
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianKill"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianKill"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have spoken with my master. There is no more I can tell you. Please investigate the Quiddity Seeds and return as quickly as possible."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You may test yourself against the Tower Guardian if you wish. It will learn a great deal by battling your best warriors and mages."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "quiddityseedquestflag"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help. You have provided enough materials."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If you wish to continue aiding me you can test your skills against the Tower Guardian."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you still wish you may bring me Crystal and Pyreal that I can store for later use in repairing any damage the Guardian takes in Defense of the Castle."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@0-0"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6353,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6355,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6354,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6329,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6330,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@6"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6331,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@7"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34884,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@8"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34889,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@9"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 34879,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@10"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6055,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@11"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6057,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@12"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6056,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@13"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 6623,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@14"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 23849,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@15"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 23853,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@16"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 23854,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@17"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 23852,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@18"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 23856,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 23850,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@20"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 31881,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@21"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help, but you have provided me enough materials."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 23851,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@22"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "These materials will serve me well. Please find me more and I will reward you when you've turned in 50 points of resources."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@1-49"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardian50Reward"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@50-99"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Good work. I still need more motes and crystals so if you find any please bring them to me. I'll reward you again when you've turned in 100 points of resources."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardian50Reward"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardian100Reward"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@100-199"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Good work. I still need more motes and crystals so if you find any please bring them to me. I'll reward you again when you've turned in 200 points of resources."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardian100Reward"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have earned this. Take care of this shield, it was crafted long ago, before your people came to this world."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "My master has given me a little more knowledge that I will impart to you."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "These are the last rewards I have for you. If you wish to continue aiding me you can test your skills against the Tower Guardian."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35295,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 297235855,
+              "percent": 0.3
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardian50Reward"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardian100Reward"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@200"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "quiddityseedquestflag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianKill"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "quiddityseedquestflag"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Counter@0-0",
+              "max": 0,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you wish to help repair any damage the Guardian takes in defense of the castle there is a note on the table just there that lists the types of crystal and pyreal that are of use."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You may test yourself against the Tower Guardian if you wish. It will learn a great deal by battling your best warriors and mages."
+            },
+            {
+              "type": 70,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 0,
+              "msg": "TowerGuardianRepairs_Counter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@0-0"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@5"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@6"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 20,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@7"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@8"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@9"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 6,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@10"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 5,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@11"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 10,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@12"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 20,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@13"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 40,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@14"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@15"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@16"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@17"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@18"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@20"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@21"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "TowerGuardianRepairs_Counter"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardCheck"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Completed@22"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Counter@50-99",
+              "max": 99,
+              "min": 50
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@1-49"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take this small bit of knowledge in reward."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 497
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 99078618,
+              "percent": 0.1
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You've handed in at least fifty motes and crystals now."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Asheron's Servant awards you the title \"Tower Guardian Architect\"."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardian50Reward"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardian50Reward"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Counter@100-199",
+              "max": 199,
+              "min": 100
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@50-99"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you for your help."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You've handed in quite a few crystal and motes now. At least a hundred by my count."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Take this knowledge and one of the models I made when designing the Tower Guardian."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 35296,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 99078618,
+              "percent": 0.1
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardian100Reward"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardian100Reward"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Counter@200",
+              "max": 2147483647,
+              "min": 200
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TowerGuardianRepairs_Counter@100-199"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TowerGuardianRepairs_Counter@1-49",
+              "max": 49,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RewardCheck"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:29.0046897Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,274 @@
+{
+  "wcid": 36774,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 3,
+      "value": 14
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 89
+    },
+    {
+      "key": 93,
+      "value": 2098196
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437267
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 1.0
+    },
+    {
+      "key": 76,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Elysa Strathelar"
+    },
+    {
+      "key": 5,
+      "value": "Rebel Leader"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 8891,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BlackDeathFinalSceneEvent"
+            },
+            {
+              "type": 87,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 97.5623,
+                  "y": -192.179,
+                  "z": -5.995
+                },
+                "angles": {
+                  "w": -0.099833,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.995004
+                }
+              }
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 25.0,
+              "msg": "Thorsten?  Where are you?  I cannot see what has happened in here..."
+            },
+            {
+              "type": 8,
+              "delay": 15.0,
+              "extent": 25.0,
+              "msg": "Thorsten! No...no..."
+            },
+            {
+              "type": 5,
+              "delay": 3.0,
+              "extent": 1.0,
+              "motion": 2147483711
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 43
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 25.0,
+              "msg": "You! Die, now!"
+            },
+            {
+              "type": 9,
+              "delay": 2.0,
+              "extent": 1.0,
+              "sound": 44
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 17,
+              "delay": 4.0,
+              "extent": 1.0,
+              "msg": "A female whisper on the wind says, \"...and that was the end of my story, hunter...while the swarm still exists, it never again held this land in thrall. And so, one queen gave way to another. Remember me...as an enemy, but as a worthy enemy...\""
+            },
+            {
+              "type": 87,
+              "delay": 3.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 97.5623,
+                  "y": -192.179,
+                  "z": -5.995
+                },
+                "angles": {
+                  "w": 0.995004,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.099833
+                }
+              }
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BlackDeathFinalSceneEvent"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36784
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 25.0,
+              "msg": "Thorsten? Where are you? I cannot see what has happened in here..."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:02.7982685Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

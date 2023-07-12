@@ -1,0 +1,134 @@
+{
+  "wcid": 29611,
+  "weenieType": 64,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 3500
+    },
+    {
+      "key": 8,
+      "value": 5
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 10000
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 150,
+      "value": 103
+    },
+    {
+      "key": 151,
+      "value": 9
+    },
+    {
+      "key": 197,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559076
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100677187
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Outland Portal Device"
+    },
+    {
+      "key": 16,
+      "value": "This device was fashioned by Shoyanen Kenchu under the direction of High Queen Elysa Strathelar. The magic of the device can only be activated if placed on a mansion hook. The magic has yet to be perfected so the device may deliver the user to one of three locations: Neydisa Castle, Base of the Marescent Plateau, Kara Wetlands."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3627
+            }
+          ],
+          "probability": 0.333
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3626
+            }
+          ],
+          "probability": 0.666
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3625
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:25.218127Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

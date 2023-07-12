@@ -1,0 +1,477 @@
+{
+  "wcid": 34252,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 267,
+      "value": 240
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560135
+    },
+    {
+      "key": 2,
+      "value": 150994980
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100689680
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 5.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Diseased Feral Carenzi Liver"
+    },
+    {
+      "key": 15,
+      "value": "This is the liver from a now-deceased carenzi.  You can use it to more closely examine it, but you can't bring yourself to put it into your pack - you have no idea how healthy it is.  Aun Teriona, near the town of Bluespire, is said to concern himself with the carenzi population."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AunTeriona_Flag"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DiseasedFeralLiver_Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AunTeriona_Flag"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You look for any sign of illness, but this liver looks healthy."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "DiseasedFeralLiver_Counter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DiseasedFeralLiver_Counter@30",
+              "max": 2147483647,
+              "min": 30
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziPlagueStarted"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've slain all the sick Feral Carenzi that you needed to in order to prevent the sickness from spreading!"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 4602097,
+              "percent": 0.45
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DiseasedFeralLiver_Completed"
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@30"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've slain over three-quarters of the total number of diseased carenzi that you must to halt the spread of the plague."
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@23-29"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've slain over half the total number of diseased carenzi that you must to halt the spread of the plague."
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@15-22"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've slain over a quarter of the total number of diseased carenzi that you must to halt the spread of the plague."
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@1-14"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You look closely at this liver, and realize that it is too late! The plague has spread too far, and you have condemned a portion of the carenzi population to horrible, slow, painful deaths."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@1-29"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziPlagueStarted"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DiseasedFeralLiver_Counter@23-29",
+              "max": 29,
+              "min": 23
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@30"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DiseasedFeralLiver_Counter@15-22",
+              "max": 22,
+              "min": 15
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@23-29"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DiseasedFeralLiver_Counter@1-14",
+              "max": 14,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@15-22"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DiseasedFeralLiver_Counter@1-29",
+              "max": 29,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CarenziPlagueStarted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As you examine this liver more closely, you are convinced that the local population of Carenzi has fallen ill. They are going to die no matter what, but the damage can be mitigated to the rest of the carenzi population if you were to kill the ill ones in the area within two hours. Culling 29 additional Carenzi with diseased livers should solve the problem."
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "DiseasedFeralLiver_Counter"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CarenziPlagueStarted"
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DiseasedFeralLiver_Counter@1-29"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You examine the liver, but, since you're not really sure what you're looking for, find nothing."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AunTeriona_Flag"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:35.9108311Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

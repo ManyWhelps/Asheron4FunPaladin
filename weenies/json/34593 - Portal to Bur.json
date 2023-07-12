@@ -1,0 +1,327 @@
+{
+  "wcid": 34593,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 395
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 360
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 340
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 320
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 680
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 910
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 80
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6294556
+    },
+    {
+      "key": 95,
+      "value": 4
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560190
+    },
+    {
+      "key": 2,
+      "value": 150995389
+    },
+    {
+      "key": 3,
+      "value": 536871052
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    },
+    {
+      "key": 22,
+      "value": 872415274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Portal to Bur"
+    },
+    {
+      "key": 16,
+      "value": "This portal, created by Prince Borelean Strathelar, will transport you to the world of Bur. However, it is warded in such a fashion that only those that have undertaken certain preparations may proceed through."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BurFlagged(Permanent)"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 160.0,
+                    "y": -70.0,
+                    "z": -17.995
+                  },
+                  "angles": {
+                    "w": 0.707107,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.707107
+                  }
+                },
+                "objcell_id": 10224199
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Permanent)"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BurFlagged(Gem)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Metal)"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BurFlagged(Motes)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Gem)"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 160.0,
+                    "y": -70.0,
+                    "z": -17.995
+                  },
+                  "angles": {
+                    "w": 0.707107,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.707107
+                  }
+                },
+                "objcell_id": 10224199
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Motes)"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BurFlagged(Metal)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Permanent)"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must complete a quest to use this portal."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Gem)"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must complete a quest to use this portal."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Motes)"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must complete a quest to use this portal."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BurFlagged(Metal)"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:39.9122773Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

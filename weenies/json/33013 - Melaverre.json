@@ -1,0 +1,600 @@
+{
+  "wcid": 33013,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 90
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 180
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 240
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 100
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Melaverre"
+    },
+    {
+      "key": 5,
+      "value": "Experimental Thaumaturgist"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 28614,
+      "palette": 85,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is part of what I need, but I want you to gather and assemble all three fragments. I need the complete Elder Spirit Tablet."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 87523
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is part of what I need, but I want you to gather and assemble all three fragments. I need the complete Elder Spirit Tablet."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 87524
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is part of what I need, but I want you to gather and assemble all three fragments. I need the complete Elder Spirit Tablet."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 87525
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A fascinating record of the mysterious Grael. Count Dardante and our King are both very interested. I thank you for your service."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 9647000,
+              "percent": 0.07
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RossuMortaChapterhouseAccess_Start"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RossuMortaChapterhouseAccess_Wait"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AccessRossuMortaChapterhouse"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ElderSpiritsSealStamp"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BlackSpearTempleUpperLevel_Flag"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 33012,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 87528,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 87527
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_100-999",
+              "max": 999,
+              "min": 100,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You can't fool me. You work for the rebels. Go away, you're tracking filth into my home."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AccessWhisperingBladeChapterhouse"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RossuMortaChapterhouseAccess_Wait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WhisperingBladeInfiltrationComplete"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've done some work for me already, haven't you? Sorry, I don't have any more deep pits of eldritch magic to push you into at the moment."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RossuMortaChapterhouseAccess_Wait"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Have you found the Elder Spirit Seal in the Black Spear Temple yet? Remember, the temple is located in the Obsidian Plains, at 68.4 S, 66.1 W."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RossuMortaChapterhouseAccess_Start"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WhisperingBladeInfiltrationComplete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AccessWhisperingBladeChapterhouse"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-87525",
+              "cprof": {
+                "wcid": 87525,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RossuMortaChapterhouseAccess_Wait"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, I'm glad you came to me. I can see that you have done some dangerous and unorthodox things in the service of our King. I would ask you to do more. In the Obsidian Plains, at 68.4 S, 66.1 W, there is an ancient temple that the Order of the Raven Hand has been using as some site of worship. It is called the Black Spear Temple."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Within the depths of the temple complex, there is a pedestal which bears the seal of the Elder Spirits that serve the \"Living Darkness\" the Raven Hand is so infatuated with. The seal is broken, but I have the missing fragment. I would like you to take it and explore the levels that the cultists have not yet been able to penetrate."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I seek a tablet of ancient knowledge, which has been split into three pieces. The three pieces are guarded by ancient Shadows known as Shonossoar, Kaihoatai, and Parfarrail. Take the fragments from these creatures of Shadow, assemble the tablet, and bring it to me."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 87522,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "There is one thing for you to remember. I know that there are ways of concealing one's service to the King. Just know that this is a sensitive enough task that there will be no way that your involvement can be forgotten by any simple raid on the Royal Archives. However, if you do this for me, I will grant you full membership in the Ordina Rossu Morta."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RossuMortaChapterhouseAccess_Start"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BlackSpearTempleUpperLevel_Flag"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RossuMortaChapterhouseAccess_Start"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have not yet chosen to serve our King... But neither are you a pawn of the Bloodless Queen. If you would serve Sanamar, speak first with the Grand Knight."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "WhisperingBladeInfiltrationComplete"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AccessWhisperingBladeChapterhouse"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_100-999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "So you've picked up the Parfarrail Fragment, have you? Combine it with the other two fragments and give me the complete tablet, if you would be so kind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-87525"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RossuMortaChapterhouseAccess_Start"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-87525"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please return to me when you have gained more experience."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_100-999"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:24.9931339Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,658 @@
+{
+  "wcid": 39054,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 230
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 245
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 270
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 197,
+      "current": 319
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 441
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 406
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 57
+    },
+    {
+      "key": 3,
+      "value": 8
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 150
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557175
+    },
+    {
+      "key": 2,
+      "value": 150995136
+    },
+    {
+      "key": 3,
+      "value": 536871030
+    },
+    {
+      "key": 6,
+      "value": 67113280
+    },
+    {
+      "key": 7,
+      "value": 268436193
+    },
+    {
+      "key": 8,
+      "value": 100671756
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Aun Kimintari"
+    },
+    {
+      "key": 5,
+      "value": "Guardian of the Deru"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 11971,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ugh. Only something that smells this bad could attract Wharu. It will work, and I guess that is what matters most."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Aun Kimintari stashes the jar into a heavy bag, which cuts off some of the smell."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Now, for the next part we need. Our scouts have found a place in the Roots where the minions of 'T'thuun' have collected the power of this world into a shard, and then corrupted it. I can use this power to anger Wharu against these creatures."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I can protect you from the shard's corruption using a trick taught to me by these 'Societies' your Xuta has created."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CanPickupLargeCorruptedManaShard"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartShard"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OlthoiJellyRoyalDeruPickedUp"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Aun Kimintari chants softly while tapping on her drum with one hand. you feel a wash of power settle over you."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You'll find the shard under the roots of the Deru, guarded by this T'thuun's minions. Bring it to me, and we can set the trap in motion."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 87823
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The level of corruption and raw power in this thing is horrifying. Just taking this away from those things may help protect the Deru."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "But, we will do one better. We will turn their corrrupted hopes into the very thing that destroys them."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Aun Kimintari combines the Royal Olthoi Jelly and the Corrupted Mana Shard with a carved fetish that she pulls from a pouch. As she combines the items, she chants softly in a strange tongue and the Akiekie Fire flares up beside her."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "There, this should do it. Take this fetish to the altar in the deepest part of the area hollowed out under the roots of the Deru. If you keep going down, you should find it eventually."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Place the fetish, a fetish to Wharu himself, upon the Altar. This should call Wharu to the place, who will then war with this T'thuun, weakening them both. This will help protect the Deru and weaken Wharu both, which will help the Tonk and those of your Xuta as well."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Be careful, the conflict between Wharu and this T'thuun will be vicious, if what has been seen by our scouts is true."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartFetish"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 87826,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 87824
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_150-999",
+              "max": 999,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Return to me in a day, and we should be able to trick them once again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_Completed"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You honor the Tonk, the Aun and your Xuta by your actions and sacrifice. I thank you. I have been given a number of these keys by our Tah, who has gotten them from Elysatah of the Ispar Xuta. I am told your people prize them highly, and will take them as a proper reward for the risks you have taken."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_FetishHandedIn"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartFetish"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartShard"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartJelly"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_Flag"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_Completed"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Our trap will not end the threat, but will keep them from progressing for a time, and keep the Deru safe until a better answer can be found. Return to me in a month, and we should be able to trick them once again."
+            },
+            {
+              "type": 2,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 328911808,
+              "heroxp64": 0
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 8,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 38917,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_FetishHandedIn"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Travel to the site of the Deru Trees, east of here, and pass down below their roots and place the fetish upon the Altar."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_StartFetish"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Travel to the site of the Deru Trees, east of here, and pass down below their roots.  From there, seek the tunnels guarded by the minions of T'thuun and collect the shard of corruption they keep there.  With it, I can complete the trap for this 'T'thuun' creature."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_StartShard"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Travel to the site of the Deru Trees, east of here, and pass down below their roots.  From there, seek the Jelly left by their Tah."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OlthoiJellyRoyalDeruPickedUp"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_StartJelly"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_FetishHandedIn"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_Completed"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartFetish"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_FetishHandedIn"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartShard"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_StartFetish"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartJelly"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_StartShard"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I am called Aun Kimintari, and I am honored to meet you."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "It is my chosen duty to guard the Keh of Tanae in Palenqual, what your Xuta call the Deru Trees of Marae Lassel, who are named Skuld, Urd and Verdandi in their own tongue."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "These Deru, young by their count of years, have been weakened by Wharu, and are now attacked by a thing called T'thuun. This thing must be stopped."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have a plan to weaken this 'T'thuun' and aid the Deru Trees, but I will need the assistance of your Xuta."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I believe that we can use Wharu against this new threat, but I will need some items our scouts have found under the roots of the Deru."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Find the passages of Wharu under the roots of the Deru Trees, east of Timaru. In those passages, find the Jelly left by their Tah. This can be used to attract Wharu, and will be important in our trap for this T'thuun."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_Flag"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OlthoiJellyRoyalDeruPickedUp"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_StartJelly"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GuardianoftheDeruTrees_StartJelly"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GuardianoftheDeruTrees_Completed"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-999"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please return to me when you are more experienced."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-999"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:33.0759077Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

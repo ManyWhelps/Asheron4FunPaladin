@@ -1,0 +1,193 @@
+{
+  "wcid": 49563,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 63,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 3,
+      "value": 83
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 8,
+      "value": 10
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 106,
+      "value": 210
+    },
+    {
+      "key": 107,
+      "value": 70
+    },
+    {
+      "key": 108,
+      "value": 70
+    },
+    {
+      "key": 109,
+      "value": 10
+    },
+    {
+      "key": 114,
+      "value": 0
+    },
+    {
+      "key": 280,
+      "value": 221
+    },
+    {
+      "key": 369,
+      "value": 10
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556769
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 8,
+      "value": 100676422
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 27,
+      "value": 268435543
+    },
+    {
+      "key": 28,
+      "value": 5175
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 76,
+      "value": 0.5
+    },
+    {
+      "key": 167,
+      "value": 30.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Facility Hub Portal Gem"
+    },
+    {
+      "key": 14,
+      "value": "Double Click on this portal gem to transport yourself to the Facility Hub."
+    },
+    {
+      "key": 15,
+      "value": "A gem teeming with portal energy. "
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FaciltyHubFound_1111"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FaciltyHubFound_1111"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FaciltyHubFound_1111"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:25.2227239Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

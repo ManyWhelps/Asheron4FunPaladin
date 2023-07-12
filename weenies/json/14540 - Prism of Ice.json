@@ -1,0 +1,228 @@
+{
+  "wcid": 14540,
+  "weenieType": 20,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 0
+    },
+    {
+      "key": 34,
+      "value": 0
+    },
+    {
+      "key": 35,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 512
+    },
+    {
+      "key": 5,
+      "value": 6000
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 3000
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 200
+    },
+    {
+      "key": 38,
+      "value": 9999
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 4096
+    },
+    {
+      "key": 93,
+      "value": 1048
+    },
+    {
+      "key": 96,
+      "value": 500
+    },
+    {
+      "key": 100,
+      "value": 1
+    },
+    {
+      "key": 119,
+      "value": 65535
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557489
+    },
+    {
+      "key": 2,
+      "value": 150995154
+    },
+    {
+      "key": 3,
+      "value": 536871049
+    },
+    {
+      "key": 6,
+      "value": 67112808
+    },
+    {
+      "key": 7,
+      "value": 268436323
+    },
+    {
+      "key": 8,
+      "value": 100672489
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 11,
+      "value": 60.0
+    },
+    {
+      "key": 41,
+      "value": 30.0
+    },
+    {
+      "key": 43,
+      "value": 1.0
+    },
+    {
+      "key": 54,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Prism of Ice"
+    },
+    {
+      "key": 12,
+      "value": "keyempyreanice"
+    },
+    {
+      "key": 14,
+      "value": "Use this item to open it and see its contents."
+    },
+    {
+      "key": 15,
+      "value": "A shattered prism."
+    },
+    {
+      "key": 16,
+      "value": "A shattered prism containing deep blue highlights. A palpable feeling of cold emanates from with the prism."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 8,
+      "value": [
+        {
+          "category": 8,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "\"The Prism Shakes and you hear a rushing sound from outside of the room.\""
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 15.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 14525,
+      "whenCreate": 2,
+      "whereCreate": 8
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:02:20.2091901Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

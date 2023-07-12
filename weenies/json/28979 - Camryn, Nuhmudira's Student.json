@@ -1,0 +1,1678 @@
+{
+  "wcid": 28979,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 270
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 270
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200,
+      "current": 325
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 400
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 155,
+      "current": 425
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 126
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 5911
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Camryn, Nuhmudira's Student"
+    },
+    {
+      "key": 3,
+      "value": "Male"
+    },
+    {
+      "key": 4,
+      "value": "Aluvian"
+    },
+    {
+      "key": 5,
+      "value": "Nuhmudira's Student"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 5916,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira3"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 28983
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1@01"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 28986
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1@02"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 28985
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1@03"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The book. I need the book."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira1@03"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The urn is next. Bring me the urn."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira2@03"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I told you, the book, the urn and then the corpse. You've brought me the book and the urn. I require the corpse."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3@03"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I have nothing more to offer you now. Your discussion, while engaging, does little to aid me in my study. If there were more for you here I would make you aware. Please, be gone."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsComplete"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "USEDNUHMUDIRALIFESTONE"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AbandonedNuhmudira"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Nuhmudira has decided that even those who would see her harmed are worthy of redemption as you have proven by your actions in the past. She requires that you obtain two objects for her before I can grant you the stone that you desire."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The first is a book found in the library and the second is an urn from the crypt. Collect these are return them to me in the order I have listed and you shall be rewarded."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "USEDNUHMUDIRALIFESTONE"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Lady Nuhmudira has given me leave to reward those who have shown her the greatest amount of compassion should they complete one small task for her."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "There is a book that can be found in the library of this structure. Return this to me and you will receive your just reward."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SacrificedNuhmudira"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Lady Nuhmudira has given me leave to reward those who have shown her the greatest amount of compassion should they complete one small task for her."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "There is a book that can be found in the library of this structure. Return this to me and you will receive your just reward."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "USEDNUHMUDIRALIFESTONE@01"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It is good to see that you following instructions well. Now... collect the urn and then return it to me."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have done well thus far. Now bring the urn and I shall see this off to Nuhmudira and give you your reward."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Yes, I will need this object. But I asked for the book first. I must ensure that all items are properly logged for Nuhmudira. Please take this back and give me the book first."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28986,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira1@01"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There is only one service that lay before you now. Collect the corpse of the woman that served in these halls and all will be complete."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3@01"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "While it is impressive that you have the foresight necessary to plan ahead. I still must follow a rigid set of instructions. I need the book, followed by the urn and then the corpse."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28985,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Please, hand them to me in that order. I would not want to displease Lady Nuhmudira."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira1@02"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is impressive. Truly it is. But it is also not what I need at this time. I require the urn before you hand me this corpse. Take this back."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28985,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Hand me the urn so I can properly catalogue your progression."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira2@01"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your efforts will not go unrecognized. I shall see that Lady Nuhmudira receives a full report on your progress. For now, take your precious reward."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28927,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira3"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsComplete"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You must now find a sample of Burun blood. Soak the stone in the blood and it will take on properties that are the antithesis of the Burun. Apply that stone to the -Noble- weapons and it will become a Burun slaying weapon."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "That is all."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As you turn to leave, you remember that you'd been advised you to ask a question of Nuhmudira's Student. You turn on your heels and call back. \"Has Nuhmudira ever spoken about the night that Oswald attempted to assassinate Elysa?\""
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Nuhmudira and Oswald have had a good --"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Camryn looks a bit flustered, \"I think you should leave now, %s.\""
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsUndercoverAntius"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3@02"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2@03"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira1@03"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira3@03"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira2@03"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsComplete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3@03"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AbandonedNuhmudira"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsComplete"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "On an errand from the High Queen? Nuhmudira has decided that she will assist those who will continue to show her aid. The lady has been pulled away by business elsewhere. I am her student, Camryn. I will fulfill the role that she once filled in this place."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira3"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Within the halls beyond are three objects that I require. I am not wont to leave my study of this place and have no students here at present to undertake this endeavor. You shall do."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Within the halls beyond are three objects.  Nuhmudira requires them in order. I will catalogue their arrival and ensure that you are properly credited with finding the objects for her."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "The first is a book found in the library, the second is an urn from the crypt and the last is the corpse of the woman who held court in this chapel. Collect these and return them to me in the order I have listed and you shall be rewarded."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "USEDNUHMUDIRALIFESTONE"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SacrificedNuhmudira"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AbandonedNuhmudira"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "USEDNUHMUDIRALIFESTONE@01"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SacrificedNuhmudira"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Though Nuhmudira is unaware of your exploits she is not without mercy. If you desire the stone that much she will grant you the device, if you undertake a set of small tasks for her."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The first is a book found in the library, the second is an urn from the crypt. Collect these are return them to me in the order I have listed and you shall be rewarded."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "USEDNUHMUDIRALIFESTONE@01"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have succeeded both quickly and efficiently. For this you shall receive your reward."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28927,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira1"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsComplete"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You must now find a sample of Burun blood. Soak the stone in the blood and it will take on properties that are the antithesis of the Burun. Apply that stone to the -Noble- weapons and it will become a Burun slaying weapon."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "In addition, your previous service to Nuhmudira makes you deserving of a reward. I will now teach you the spells that Nuhmudira has devised to assist you in your salvaging efforts."
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3513
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3514
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3515
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3516
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3517
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3518
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3519
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3520
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3521
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3522
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3523
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3524
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3525
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3526
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32255,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "As a final reward, Nuhmudira had decided to make this gem available to those who have aided her. It will enhance the -Noble- armor with an ancient power that allows your mind to focus more ably. It is decidedly more effective than those gems which the High Queen's lack-...that is...servants...give as rewards."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira3@01"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira1@01"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "All is complete. I will write a report to Nuhmudira and see that she is made aware of all that you have done for her. Here is your reward."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28927,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsComplete"
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You must now find a sample of Burun blood. Soak the stone in the blood and it will take on properties that are the antithesis of the Burun. Apply that stone to the -Noble- weapons and it will become a Burun slaying weapon."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "In addition, your previous service to Nuhmudira makes you deserving of a reward. I will now teach you the spells that Nuhmudira has devised to assist you in your salvaging efforts."
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3513
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3514
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3515
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3516
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3517
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3518
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3519
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3520
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3521
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3522
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3523
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3524
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3525
+            },
+            {
+              "type": 27,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3526
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32255,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "As a final reward, Nuhmudira had decided to make this gem available to those who have aided her. It will enhance the -Noble- armor with an ancient power that allows your mind to focus more ably. It is decidedly more effective than those gems which the High Queen's lack-...that is...servants...give as rewards."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3@01"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira2@01"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira1@02"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RoadsNuhmudira3@02"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira2@01"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Interesting, how did you come by this? It is a very nice gift. Thank you."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RoadsNuhmudira3@02"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:11.3200929Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

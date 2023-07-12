@@ -1,0 +1,1449 @@
+{
+  "wcid": 14571,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 280
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 270
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 275
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 230
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50,
+      "current": 185
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100,
+      "current": 370
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 230
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 5,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 5,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 60,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 57
+    },
+    {
+      "key": 3,
+      "value": 76
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 50
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 4294
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557117
+    },
+    {
+      "key": 2,
+      "value": 150995136
+    },
+    {
+      "key": 3,
+      "value": 536870931
+    },
+    {
+      "key": 4,
+      "value": 805306380
+    },
+    {
+      "key": 6,
+      "value": 67113280
+    },
+    {
+      "key": 7,
+      "value": 268436193
+    },
+    {
+      "key": 8,
+      "value": 100671756
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.5
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 13,
+      "value": 1.0
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.0
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.0
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Aun Aulakhe"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 75,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 60,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 14,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 190,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 90,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 50,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 20,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 10,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 10,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 10,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 44,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 50,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 50,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 46,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 50,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "An Ebon Mattekar Hide. You must have hunted long to recover this fearsome trophy. Take it Tikakhe--he will provide you with a fragrant oil with which to tan this hide into leather."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14589
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I see you've created a buadren of your own! Tikakhe is a fine teacher. You must show it to him--he might even be able to enhance it for you as a reward."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14861
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "A solid trunk such as this would be perfect to make a drum--if you hollowed it out first."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14588
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have heard tell that these fiery beasts existed here on the mainland. In my homeland, the hides of Carenzi are the most suitable for the hardy straps that bind our drums but these hides will make do."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14587
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If you have already tanned an Ebon Mattekar Hide into leather, try covering this Hollow Trunk with it."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14553
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You nearly have a finished buadren! Use Leather Straps to bind the hide and trunk together."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14554
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Tika must think much of you to provide you with this oil. He carried only a special amount of it from Timaru."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14551
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I must congratulate you on your craftmanship in tanning this hide. Tikakhe himself could have done no better. This hide would make a perfect head for a drum."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14550
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You could use these straps to bind a drum."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14552
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have asked you to take this ember into the Lightning-Sea, in hopes that you will be able to find Aun Tanua and give it to him."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14566
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Invoker is yours to wield, for you have earned it."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14569
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Invoker is yours to wield, for you have earned it."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 26497
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_70-9999",
+              "max": 9999,
+              "min": 70,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14568
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Aun Aulakhe carefully lifts the glowing ember from your hands and gazes into it with awe."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Aun Tanua was unable to return with you again, but look! He has infused this ember with his own keh. I wonder..."
+            },
+            {
+              "type": 18,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Aulakhe kneels down and carefully adds the glowing ember to the encampment's fire."
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InvokeAunTanua"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InvokeAunTanuaTimaru"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is a triumph, for even though he remains in captivity, Aun Tanua's spirit can now dance with our ancestors in the akiekie fire. For this I must reward you, for you have done the Tonk of Timaru a great service this day."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightReceivedNew"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Give me the magic Buadren you received from Tikakhe, and I will add to its medicine."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 14567
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightReceived"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightGiven"
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_70-9999_2",
+              "max": 9999,
+              "min": 70,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Aun Aulakhe takes your Buadren and carefully leans into the heat and smoke of the fire. He slowly starts to beat the drum, infusing it with the heat and magic now emanating from the fire's warmth. As he drums, the fire's glow coalesces around the drum with a shimmering intensity. When it seems as if the Buadren itself will catch fire, Aulakhe removes it from the flames."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You have done the Aun of Timaru a great service today, and for this I shall reward you. I have bound this Buadren to Aun Tanua's own keh, so you may carry it against your enemies. In your time of greatest need, invoke him, and he will come to your aid."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "My own mission here is not finished, for I shall not walk through the gates of Timaru until the day when Aun Tanua himself may walk beside me. If you would like to brave Aun Tanua's prison once more, come to me after the Shining Twins have finished their journey, when I will have regained the strength to stabilize the Lightning-Sea."
+            },
+            {
+              "type": 49,
+              "delay": 1.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 30000000,
+              "percent": 1.0
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 26497,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InvokingAunTanuaComplete"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightReceivedNew"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightGivenNew"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PortalSpacePermissionGiven"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightReceivedNew@01"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed a beautiful buadren that you have made. But I must ask you again, were you able to deliver the akiekie ember to Aun Tanua? Even though he did not return with you, do you bring word from him?"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 14568,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightGivenNew@01"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Greetings, friend. Although my mission remains, bringing calm to the Lightning-Sea has sorely taxed my strength, and I must meditate to regain it. Come back in four weeks-at that time I may need to call upon your help once more."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InvokingAunTanuaComplete"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I would be happy to enhance the buadren that you made previously with Aun Tikakhe, if you would give it to me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightReceivedNew"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Aun Aulakhe looks at you expectantly, but when he realizes you returned alone, he is downcast."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "It is as I suspected: while I can stabilize the path to find Aun Tanua, the bonds the Atua ngamaru have placed upon him are too strong. But were you able to deliver the ember I entrusted to your care?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightGivenNew"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Several moons ago, my father Shimauri summoned us to his accustomed story hour, to tell of a story never heard by my generation."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Long ago, in the combined pasts of the Hea and Aun, Aun Tanua was a nigh-legendary warrior who was beloved by our xuta. He left our gates to challenge the Puh in his mudflats of Ahurenga, never to return. We thought perhaps he had been captured or slain by the Hea, but now we have discovered the truth: when they were unable to conquer him, the Hea called upon the Atua ngamaru. Answering them, the floating demons bore down and plunged him down into the depths of the Lightning-Sea, never to be heard of again."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "My task is to find warriors brave enough to enter the Lightning-Sea, who can search for him and bring him back to us. My buhdi Tikakhe tells me that you might be the person we are looking for."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "When you find Tanua, warm him with the ember of the akiekie fire that you see on the ground, for there is no telling how Aun Tanua's mind might have fared in his captivity."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "My training, both in my homeland and with the Aualuan of your xuta, has taught me to create the Burning Pools that shimmer upon the Lightning-Sea. I have opened such a portal on the surface  of the akiekie pond,  and if you dare swim its depths, enter it and find Aun Tanua!"
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "A word of advice: All must depend upon the coordination of their fellows to navigate the Shimmering Sea. Farewell, and Tanae speed you in your hunt."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PortalSpacePermissionGiven"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BuadrenInvokingGiven@01"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I must wait to engage your help in the great mission I have undertaken for my xuta  until you have gained in strength and accomplishment. Until then, may Tanae speed your hunt."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BuadrenInvokingGiven"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightGivenNew@01"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightReceivedNew@01"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed a beautiful buadren that you have made. If you are willing to undertake a special mission for me, I might be able to enhance this buadren for you once you return."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 14568,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightGivenNew@01"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightReceivedNew"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InvokingAunTanuaComplete"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightGivenNew"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightReceivedNew"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BuadrenInvokingGiven@01"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmberBrightGivenNew"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "My father, Aun Shimauri, sent me to the mainland to accomplish a great mission for our xuta. At the moment, I must still ponder on how I will fullfill it. For now, perhaps you should speak to Aun Tikakhe--he has a proposition that might interest you greatly."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BuadrenInvokingGiven@01"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "My father, Aun Shimauri, sent me to the mainland to accomplish a great mission for our xuta. At the moment, I must still ponder on how I will fullfill it. For now, perhaps you should speak to Aun Tikakhe--he has a proposition that might interest you greatly."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "BuadrenInvokingGiven"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmberBrightReceivedNew@01"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_70-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InvokingAunTanuaComplete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_70-9999_2"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed a beautiful Buadren you have made. When you are strong enough, I will ask you to undertake a special mission for me. When you complete it, I will be able to enhance this Buadren for you once you return."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 14568,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_70-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "BuadrenInvokingGiven"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_70-9999_2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:02:20.9216072Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

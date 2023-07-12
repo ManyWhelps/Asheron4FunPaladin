@@ -1,0 +1,386 @@
+{
+  "wcid": 49082,
+  "weenieType": 71,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 170
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 130
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 130
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 670,
+      "current": 770
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 800,
+      "current": 1000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500,
+      "current": 630
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 32,
+          "dval": 238,
+          "dvar": 0.3,
+          "acache": {
+            "base_armor": 400,
+            "armor_vs_slash": 400,
+            "armor_vs_pierce": 400,
+            "armor_vs_bludgeon": 400,
+            "armor_vs_cold": 400,
+            "armor_vs_fire": 400,
+            "armor_vs_acid": 400,
+            "armor_vs_electric": 400,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 32,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 400,
+            "armor_vs_slash": 400,
+            "armor_vs_pierce": 400,
+            "armor_vs_bludgeon": 400,
+            "armor_vs_cold": 400,
+            "armor_vs_fire": 400,
+            "armor_vs_acid": 400,
+            "armor_vs_electric": 400,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 32,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 400,
+            "armor_vs_slash": 400,
+            "armor_vs_pierce": 400,
+            "armor_vs_bludgeon": 400,
+            "armor_vs_cold": 400,
+            "armor_vs_fire": 400,
+            "armor_vs_acid": 400,
+            "armor_vs_electric": 400,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 32,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 400,
+            "armor_vs_slash": 400,
+            "armor_vs_pierce": 400,
+            "armor_vs_bludgeon": 400,
+            "armor_vs_cold": 400,
+            "armor_vs_fire": 400,
+            "armor_vs_acid": 400,
+            "armor_vs_electric": 400,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4000000059604645,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.4000000059604645,
+            "HRF": 0.4000000059604645,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.4000000059604645,
+            "HLB": 0.4000000059604645,
+            "MLB": 0.4000000059604645,
+            "LLB": 0.4000000059604645,
+            "HRB": 0.4000000059604645,
+            "MRB": 0.4000000059604645,
+            "LRB": 0.4000000059604645
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 21
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 100
+    },
+    {
+      "key": 68,
+      "value": 64
+    },
+    {
+      "key": 93,
+      "value": 1036
+    },
+    {
+      "key": 133,
+      "value": 1
+    },
+    {
+      "key": 267,
+      "value": 43
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561529
+    },
+    {
+      "key": 2,
+      "value": 150994994
+    },
+    {
+      "key": 3,
+      "value": 536870984
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 8,
+      "value": 100668443
+    },
+    {
+      "key": 22,
+      "value": 872415261
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 31,
+      "value": 25.0
+    },
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 76,
+      "value": 0.4
+    },
+    {
+      "key": 77,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "K'nath"
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 313.36963,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 313.36963,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 313.36963,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 313.36963,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 313.36963,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 51,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 313.36963,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:15.1267588Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

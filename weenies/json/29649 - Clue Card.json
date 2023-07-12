@@ -1,0 +1,318 @@
+{
+  "wcid": 29649,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 114,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554773
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100668176
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 2.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Clue Card"
+    },
+    {
+      "key": 16,
+      "value": "A card with a clue!  The fine print reads: \"Clue given at time of pickup.  Only one clue card may be obtained at one time.  Give this card to the arbiter if you need to get a new clue card.\""
+    },
+    {
+      "key": 33,
+      "value": "ClueCardPickedUp"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 10,
+      "value": [
+        {
+          "category": 10,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleRedRiddle"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleOrangeRiddle"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleYellowRiddle"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleGreenRiddle"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleBlueRiddle"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleIndigoRiddle"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleVioletRiddle"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pick_riddle"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The answer is at the short end of the rainbow."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleVioletRiddle"
+            }
+          ],
+          "probability": 0.14,
+          "quest": "pick_riddle"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It's that thing you read me yesterday, between me and you."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleRedRiddle"
+            }
+          ],
+          "probability": 0.28,
+          "quest": "pick_riddle"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The answer starts after you ..."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleVioletRiddle"
+            }
+          ],
+          "probability": 0.42,
+          "quest": "pick_riddle"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "What is: I doing."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleIndigoRiddle"
+            }
+          ],
+          "probability": 0.56,
+          "quest": "pick_riddle"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The answer comes to me when I yell \"OW!\""
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleYellowRiddle"
+            }
+          ],
+          "probability": 0.7,
+          "quest": "pick_riddle"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The answer is sad."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleBlueRiddle"
+            }
+          ],
+          "probability": 0.84,
+          "quest": "pick_riddle"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It's also a fruit."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleOrangeRiddle"
+            }
+          ],
+          "probability": 0.98,
+          "quest": "pick_riddle"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The answer is green."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColorPuzzleGreenRiddle"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "pick_riddle"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:26.0194293Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

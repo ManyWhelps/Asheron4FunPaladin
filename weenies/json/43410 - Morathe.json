@@ -1,0 +1,1859 @@
+{
+  "wcid": 43410,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 60
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 70
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 130
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 10
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 20
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 20
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 22
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 266
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 10
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560942
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890505
+    },
+    {
+      "key": 10,
+      "value": 83890559
+    },
+    {
+      "key": 11,
+      "value": 83890589
+    },
+    {
+      "key": 15,
+      "value": 67117010
+    },
+    {
+      "key": 16,
+      "value": 67116845
+    },
+    {
+      "key": 17,
+      "value": 67116847
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Morathe"
+    },
+    {
+      "key": 5,
+      "value": "Augmentation Trainer"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 6003,
+      "palette": 91,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6004,
+      "palette": 21,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6005,
+      "palette": 91,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 107,
+      "palette": 21,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 57,
+      "palette": 21,
+      "shade": 0.20000000298023224,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41479
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29295
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29292
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29288
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29269
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29267
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29268
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29270
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29280
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29273
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29274
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29275
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29276
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29277
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29278
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29279
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29271
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29282
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29283
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29284
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29285
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29286
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29287
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29289
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29290
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29291
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29293
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29294
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29295
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41472
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41473
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41474
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41475
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41476
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41477
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41478
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29272
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41480
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41481
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41482
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41490
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 43167
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Contained within this gem is the sum of my knowledge of the Void. With this you will be able to cast spells without relying on a foci."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Be sure to read the gem's inscription before you use it."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 0.0,
+              "cprof": {
+                "wcid": 41479,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29266
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "They call me Morathe. It was not always my name, but after I changed forms I felt my former life was now dead and no longer wished to go by that name. Bring me an augmentation gem and I shall teach you the ways of casting Void Magic without relying on one of those foci."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Visit Fiun Rehlyun on the Halaetan Islands if you have not already acquired one of these gems."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:16.4418764Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,1934 @@
+{
+  "wcid": 72904,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 380
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 340
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 330
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 285
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200,
+      "current": 370
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 151,
+      "current": 491
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 201,
+      "current": 486
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 8,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 16,
+            "armor_vs_pierce": 16,
+            "armor_vs_bludgeon": 16,
+            "armor_vs_cold": 20,
+            "armor_vs_fire": 20,
+            "armor_vs_acid": 20,
+            "armor_vs_electric": 20,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 16,
+            "armor_vs_pierce": 16,
+            "armor_vs_bludgeon": 16,
+            "armor_vs_cold": 20,
+            "armor_vs_fire": 20,
+            "armor_vs_acid": 20,
+            "armor_vs_electric": 20,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4000000059604645,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.4000000059604645,
+            "HRF": 0.4000000059604645,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.4000000059604645,
+            "HLB": 0.4000000059604645,
+            "MLB": 0.4000000059604645,
+            "LLB": 0.4000000059604645,
+            "HRB": 0.4000000059604645,
+            "MRB": 0.4000000059604645,
+            "LRB": 0.4000000059604645
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 16,
+            "armor_vs_pierce": 16,
+            "armor_vs_bludgeon": 16,
+            "armor_vs_cold": 20,
+            "armor_vs_fire": 20,
+            "armor_vs_acid": 20,
+            "armor_vs_electric": 20,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 21,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 8,
+            "armor_vs_pierce": 8,
+            "armor_vs_bludgeon": 8,
+            "armor_vs_cold": 10,
+            "armor_vs_fire": 10,
+            "armor_vs_acid": 10,
+            "armor_vs_electric": 10,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 6,
+      "value": 0
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 50,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 63
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 239
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 133,
+      "value": 0
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 20166
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559116
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 4,
+      "value": 805306398
+    },
+    {
+      "key": 8,
+      "value": 100677345
+    },
+    {
+      "key": 22,
+      "value": 872415274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 1.1
+    },
+    {
+      "key": 4,
+      "value": 0.5
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 13,
+      "value": 0.79
+    },
+    {
+      "key": 14,
+      "value": 0.79
+    },
+    {
+      "key": 15,
+      "value": 0.8
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.0
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.0
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Cooking Vat"
+    }
+  ],
+  "skills": [
+    {
+      "key": 32,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2262.5479,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2@16"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72938
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1@17"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72939
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1@18"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72940
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1@19"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72941
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1@20"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72942
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1@21"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72943
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "melt"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@16"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "red"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@16"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "botched"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@16"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "steam"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@16"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "smite"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@16"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This liquid has already been poured into the vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@16"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "melt"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@17"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "red"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@17"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "poison"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@17"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gelatin"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@17"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "black"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@17"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This liquid has already been poured into the vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@17"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "red"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@18"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "red"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@18"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "botched"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@18"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "vanish"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@18"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "flash"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@18"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This liquid has already been poured into the vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@18"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "botched"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "poison"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "botched"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "white"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "poison"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This liquid has already been poured into the vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "steam"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@20"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "gelatin"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@20"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "vanish"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@20"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "white"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@20"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "yellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@20"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This liquid has already been poured into the vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@20"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "smite"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@21"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "black"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@21"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "flash"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@21"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "poison"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@21"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "yellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@21"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This liquid has already been poured into the vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@21"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3@16"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@16"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4@16"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@16"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5@16"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@16"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6@16"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@16"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1@16"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@16"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You pour the liquid into the empty vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@16"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3@17"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@17"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4@17"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@17"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5@17"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@17"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6@17"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@17"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2@17"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@17"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You pour the liquid into the empty vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@17"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2@18"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@18"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4@18"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@18"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5@18"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@18"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6@18"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@18"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3@18"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@18"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You pour the liquid into the empty vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@18"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2@19"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3@19"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5@19"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6@19"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4@19"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You pour the liquid into the empty vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2@20"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@20"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3@20"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@20"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4@20"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@20"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6@20"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@20"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5@20"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@20"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You pour the liquid into the empty vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@20"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2@21"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat1@21"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3@21"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat2@21"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4@21"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat3@21"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5@21"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat4@21"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6@21"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat5@21"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You pour the liquid into the empty vat."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CookingVat6@21"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "After stirring carefully you try to remove a vial of solution only to see the vial begin to melt. This mixture most likely isn't suitable for Isparian consumption."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "melt"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72944,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "red"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OpenPortal"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "botched"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Just as you go to fill your vial, the steam causes you to sneeze making you drop and smash the fragile vial."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "steam"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Suddenly you begin to feel dizzy and ill."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 2017
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "smite"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 3126
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "poison"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The liquid seems to turn gelatenous before overflowing onto the floor."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "gelatin"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Suddenly you begin to feel dizzy and ill."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72945,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "black"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Suddenly all of the liquid vanishes leaving the vat empty once more."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "vanish"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Bright lights flash before your eyes."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "flash"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Suddenly you begin to feel dizzy and ill."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72946,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "white"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You mix some of the liquid in the vial to that already in the vat."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Suddenly you begin to feel dizzy and ill."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72947,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "reset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "yellow"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat1"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat2"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat3"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat4"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat5"
+            },
+            {
+              "type": 83,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CookingVat6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "reset"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:38.7001249Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

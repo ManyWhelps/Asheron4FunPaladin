@@ -1,0 +1,5221 @@
+{
+  "wcid": 16892,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 170
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80,
+      "current": 180
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 310
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 40,
+      "current": 190
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 44
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 2444
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Arcanum Researcher"
+    },
+    {
+      "key": 3,
+      "value": "Female"
+    },
+    {
+      "key": 4,
+      "value": "Sho"
+    },
+    {
+      "key": 5,
+      "value": "Arcanum Researcher"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 130,
+      "palette": 9,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 127,
+      "palette": 9,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2606,
+      "palette": 4,
+      "shade": 0.800000011920929,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25315
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25316
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25317
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25318
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25319
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25320
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25321
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25322
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25323
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25324
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25325
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25326
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25327
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25328
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25329
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25330
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25331
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25332
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25333
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, look at that. Where did you say you found this?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Arcanum Researcher studies the mechanism carefully. She rubs it, tries to dent it with a fingernail, even sniffs at the metal."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No, I've never seen anything like this. Although ..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "She tilts her head to the side as she thinks."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, I think I do remember something about a metal like this. Something the undead were working on. Hmmm ..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why don't you ask the Undead Mechanic, by the waterfall on Marae Lassel? Maybe he can tell you something about this ... umm ... mechanism."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25334
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've made contact with the lost town of Mar'uun?"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is very shocking indeed."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've read through the research note."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm going to send you to talk to one of our researchers, Ned the Clever."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "He's been looking into a substance that may tie into this research."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ned the Clever has been residing in Zaikhal."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41023
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need to see Ned the Clever about this. He's the one familiar with this research."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41021
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_21-9999",
+              "max": 9999,
+              "min": 21,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15889
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_21-9999_2",
+              "max": 9999,
+              "min": 21,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15895
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_21-9999_3",
+              "max": 9999,
+              "min": 21,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15868
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15890
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999_2",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15886
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999_3",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15892
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999_4",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15891
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999_5",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15882
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999_6",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15896
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999_7",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15866
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_20-9999_8",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15884
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_30-9999",
+              "max": 9999,
+              "min": 30,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15867
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_30-9999_2",
+              "max": 9999,
+              "min": 30,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15887
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_30-9999_3",
+              "max": 9999,
+              "min": 30,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15883
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_30-9999_4",
+              "max": 9999,
+              "min": 30,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15888
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_40-9999",
+              "max": 9999,
+              "min": 40,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15869
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_40-9999_2",
+              "max": 9999,
+              "min": 40,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15893
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_40-9999_3",
+              "max": 9999,
+              "min": 40,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15894
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_40-9999_4",
+              "max": 9999,
+              "min": 40,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 15885
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearDrudgeGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19215
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearMosswartGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19217
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearMosswartGiven@2"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19218
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearGromnieGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19216
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilBanderlingGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19209
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilBenTenGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19210
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilSclavusGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19211
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilSkeletonGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19212
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilThorstenGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19213
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilZharalimGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19214
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringGolemGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19252
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringSclavusGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19253
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringSkeletonGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19254
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringTumerokGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19255
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NutBoltGrievverGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19249
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NutBoltShadowGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19250
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NutBoltVirindiGiven"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19251
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this gear to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19734,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19734
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this gear to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19736,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19736
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this gear to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19737,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19737
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this gear to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19735,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19735
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this gear to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19728,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19728
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this coil to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19729,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19729
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this coil to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19730,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19730
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this coil to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19731,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19731
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this coil to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19732,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19732
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this coil to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19733,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19733
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this spring to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19758,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19758
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this spring to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19761,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19761
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this spring to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19759,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19759
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take this spring to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19760,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19760
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take these nuts and bolts to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19755,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19755
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take these nuts and bolts to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19756,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19756
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Why, it's you, %s! I have heard of your valiant deeds from afar. The Arcanum extends its deepest gratitude to you for destroying the Statues menacing our towns. Take these nuts and bolts to the Arcanum Tinker in the Consortium near Xarabydun--he will fashion an award made especially for you."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19757,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 19757
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventKiller"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19215,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearDrudgeGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19216,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearGromnieGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19209,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilBanderlingGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19210,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilBenTenGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19211,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilSclavusGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19212,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilSkeletonGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19213,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilThorstenGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19214,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilZharalimGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19252,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringGolemGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19253,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringSclavusGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19254,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringSkeletonGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19255,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringTumerokGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19249,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NutBoltGrievverGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19250,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NutBoltShadowGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19251,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NutBoltVirindiGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Hail, %s, word of your valiant deeds proceed you! What can I do for you on this fine day? If you carry a trophy from one of the statues infesting the foundries beneath the cities of Dereth, I will reward you with experience for them."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventKiller"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19217,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearMosswartGiven"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'm sorry--I have to spend the day packing up all these statue parts so I can send them off to the Arcanum. Come back tomorrow--I'll make sure I have enough empty boxes!"
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 19218,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearReedsharkGiven"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 2000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearDrudgeGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 2000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearDrudgeGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 2000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearGromnieGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 2000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearGromnieGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 18,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilBanderlingGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 18000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilBanderlingGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 18,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilBenTenGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 18000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilBenTenGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 18,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilSclavusGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 18000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilSclavusGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 18,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilSkeletonGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 18000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilSkeletonGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 18,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilThorstenGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 18000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilThorstenGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 18,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CoilZharalimGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 18000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CoilZharalimGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 30,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringGolemGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 30000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringGolemGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 30,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringSclavusGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 30000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringSclavusGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 30,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringSkeletonGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 30000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringSkeletonGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 30,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SpringTumerokGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 30000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SpringTumerokGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 60,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NutBoltGrievverGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 60000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NutBoltGrievverGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 60,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NutBoltShadowGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 60000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NutBoltShadowGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 60,000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NutBoltVirindiGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 60000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NutBoltVirindiGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I have the latest reports from the Arcanum with me. Asheron stopped by the Arcanum workshops and gifted the Tinkers with knowledge of Yalaini transmutation magic. Using their new insights, the Tinkers have found the way to penetrate the Foundries from which these statues have come. If you seek out the Arcanum Tinker in the Consortium near Xarabydun, he will be able to tell you more!"
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Meanwhile, I will still deliver the same rewards for any trophies that you might find on the statues menacing our towns. I will give additional rewards for any interesting items found within the Foundries, for I am sure the Arcanum would be interested in studying them further."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventKiller"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 2000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearMosswartGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 2000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearMosswartGiven"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Arcanum will surely be interested in this artifact! For this I shall reward you with 2000 experience. Thank you!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GearReedsharkGiven"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 2000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GearReedsharkGiven"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are too powerful to benefit from the experience that the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15889,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_21-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are too powerful to benefit from the experience that the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15895,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_21-9999_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are too powerful to benefit from the experience that the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15868,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_21-9999_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_6"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_7"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 25000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_8"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 250000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 250000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 250000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 250000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 500000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 500000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 500000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 500000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999_4"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 5000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_21-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 5000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_21-9999_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Although I have seen many items like this in the past weeks, the Arcanum has directed me to bestow the same rewards as before. Thank you for your diligence--the statues may yet be defeated!"
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 5000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_21-9999_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15890,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15886,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15892,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15891,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15882,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_5"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15896,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_6"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15866,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_7"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15884,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_20-9999_8"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15867,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15887,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15883,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15888,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_30-9999_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15869,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15893,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is indeed an intriguing item, but I am afraid you are not powerful enough  to receive the experience that  the redemption of this item would merit."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 15885,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_40-9999_4"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:03:07.061175Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

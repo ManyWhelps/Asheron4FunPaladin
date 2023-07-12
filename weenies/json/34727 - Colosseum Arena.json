@@ -1,0 +1,441 @@
+{
+  "wcid": 34727,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6294552
+    },
+    {
+      "key": 95,
+      "value": 4
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560145
+    },
+    {
+      "key": 2,
+      "value": 150995311
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100677070
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Colosseum Arena"
+    },
+    {
+      "key": 16,
+      "value": "This portal cannot be recalled, linked nor summoned."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsPlayerInFellow?"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4030
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess@Player"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@Fellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4032
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess@Player"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@Fellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4034
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess@Player"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@Fellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4036
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess@Player"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@Fellow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4038
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess@Player"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@Fellow"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess@Fellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsPlayerInFellow?"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaOneAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@Player"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess@Fellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaOneAccess@Fellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaTwoAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@Player"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess@Fellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaTwoAccess@Fellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaThreeAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@Player"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess@Fellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaThreeAccess@Fellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFourAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@Player"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess@Fellow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFourAccess@Fellow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoArenaFiveAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@Player"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NoAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ColoArenaFiveAccess@Fellow"
+        }
+      ]
+    },
+    {
+      "key": 30,
+      "value": [
+        {
+          "category": 30,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NoAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsPlayerInFellow?"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You do not have access to the Colosseum's Arenas at this time."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NoAccess"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:40.9214041Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

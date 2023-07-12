@@ -1,0 +1,137 @@
+{
+  "wcid": 22215,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 24,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 5,
+      "value": 12000
+    },
+    {
+      "key": 8,
+      "value": 6000
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1040
+    },
+    {
+      "key": 133,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554638
+    },
+    {
+      "key": 6,
+      "value": 67111092
+    },
+    {
+      "key": 7,
+      "value": 268436484
+    },
+    {
+      "key": 8,
+      "value": 100668103
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 3.0
+    },
+    {
+      "key": 41,
+      "value": 180.0
+    },
+    {
+      "key": 43,
+      "value": 0.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Dark Sarcophagus"
+    },
+    {
+      "key": 15,
+      "value": "A mysterious sarcophagus."
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 22116,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:04:46.8214971Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

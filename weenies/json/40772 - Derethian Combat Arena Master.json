@@ -1,0 +1,798 @@
+{
+  "wcid": 40772,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 55
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 210
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 125
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 150
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Derethian Combat Arena Master"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 21374,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 39,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAAccess"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 20630
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeMarkLoop"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 80101
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_150-9999_2",
+              "max": 9999,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventIsPKWorld"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have already been attuned with the portal's energy and may enter."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAAccess"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 680
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have been awarded the title of \"Darkness in the Light\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAMarksTurnedIn@400-400"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 679
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have been awarded the title of \"I Am Darktide\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAMarksTurnedIn@300-300"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 678
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have been awarded the title of \"Bathed in Blood\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAMarksTurnedIn@200-200"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 677
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have been awarded the title of \"Player Slayer\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAMarksTurnedIn@100-100"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_150-9999",
+              "max": 9999,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAAccess"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAMarksTurnedIn@300-300",
+              "max": 300,
+              "min": 300
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAMarksTurnedIn@400-400"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAMarksTurnedIn@200-200",
+              "max": 200,
+              "min": 200
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAMarksTurnedIn@300-300"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAMarksTurnedIn@100-100",
+              "max": 100,
+              "min": 100
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAMarksTurnedIn@200-200"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAActive"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Behind me is the entrance to the Derethian Combat Arena. This is a dungeon filled with devices to aid in combat."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Upon entering the dungeon you will receive a Mark. Collect 10 of these Marks to turn in at the statue located in the bottom of the arena to receive a Durable Legendary Key, Luminance, and a few MMD Trade Notes."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "However if you die in the dungeon all of your marks will drop allowing another player to reap the reward for all your hard work."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you have already been in the arena you may turn in any remaining Marks for 2 MMDs each."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you wish to enter this arena give me 4 MMDs and I will attune you to the portal's energy."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-9999_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 80101,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 2,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAMarksTurnedIn"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TitleRewards"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-80101"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you wish to enter this arena give me 4 MMDs and I will attune you to the portal's energy."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are not yet ready for the Derethian Combat Arena."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are not yet ready for the Derethian Combat Arena."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-9999_2"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeMMDsGrantAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAActive"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TakeMMDsGrantAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCPActive"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAActive@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventIsPKWorld"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCPActive"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAActive"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Derethian Combat Arena is not open at this time."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCPActive"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCPActive@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAActive@2"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RollForArena"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCPActive@2"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-80101",
+              "cprof": {
+                "wcid": 80101,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TakeMarkLoop"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAMarksTurnedIn@400-400",
+              "max": 400,
+              "min": 400
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TitleRewards"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 4,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAAccess"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have now been attuned with the portal's energy and may enter."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TakeMMDsGrantAccess"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAActive"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCALum1Active"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "RollForArena"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCPActive"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCALum1Active"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RollForArena"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:44.8819281Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

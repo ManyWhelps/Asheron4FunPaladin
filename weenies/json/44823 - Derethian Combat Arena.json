@@ -1,0 +1,3401 @@
+{
+  "wcid": 44823,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 275
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 235,
+      "current": 485
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300,
+      "current": 600
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    },
+    {
+      "key": 90,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6294556
+    },
+    {
+      "key": 95,
+      "value": 4
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560768
+    },
+    {
+      "key": 2,
+      "value": 150995314
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Derethian Combat Arena"
+    },
+    {
+      "key": 14,
+      "value": "Restricted to characters of Level 150 or greater."
+    },
+    {
+      "key": 16,
+      "value": "This portal cannot be recalled, linked nor summoned."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1642.851,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 32,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1642.851,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1642.851,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1642.851,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_150-9999",
+              "max": 9999,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckForT1Rares"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAAccess"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The portal hums with energy."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAAccess"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAAccess"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30183"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30184"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30186"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30187"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30188"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30189"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30194"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30195"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30196"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30197"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30199"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30200"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30202"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30205"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30206"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30209"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30214"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30215"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30216"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30217"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30218"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30221"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30222"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30224"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30225"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30226"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30228"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30229"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30232"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30233"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30234"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30240"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30242"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30245"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30246"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-41257"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-43407"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45360"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45366"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45367"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45368"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45369"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30181"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30182"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30185"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30190"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30191"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30192"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30193"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30201"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30202_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30203"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30204"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30207"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30208"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30210"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30211"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30212"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30213"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30219"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30220"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30227"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30230"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30231"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30235"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30237"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30239"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RareFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30241"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PreTeleport"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PlayerKillerStatus_4-4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAActive@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "IsAdmin"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must be at least level 150 to enter this dungeon."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_150-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30184",
+              "cprof": {
+                "wcid": 30184,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30183"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30186",
+              "cprof": {
+                "wcid": 30186,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30184"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30187",
+              "cprof": {
+                "wcid": 30187,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30186"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30188",
+              "cprof": {
+                "wcid": 30188,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30187"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30189",
+              "cprof": {
+                "wcid": 30189,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30188"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30194",
+              "cprof": {
+                "wcid": 30194,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30189"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30195",
+              "cprof": {
+                "wcid": 30195,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30194"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30196",
+              "cprof": {
+                "wcid": 30196,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30195"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30197",
+              "cprof": {
+                "wcid": 30197,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30196"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30199",
+              "cprof": {
+                "wcid": 30199,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30197"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30200",
+              "cprof": {
+                "wcid": 30200,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30199"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30202",
+              "cprof": {
+                "wcid": 30202,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30200"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30205",
+              "cprof": {
+                "wcid": 30205,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30202"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30206",
+              "cprof": {
+                "wcid": 30206,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30205"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30209",
+              "cprof": {
+                "wcid": 30209,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30206"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30214",
+              "cprof": {
+                "wcid": 30214,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30209"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30215",
+              "cprof": {
+                "wcid": 30215,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30214"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30216",
+              "cprof": {
+                "wcid": 30216,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30215"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30217",
+              "cprof": {
+                "wcid": 30217,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30216"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30218",
+              "cprof": {
+                "wcid": 30218,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30217"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30221",
+              "cprof": {
+                "wcid": 30221,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30218"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30222",
+              "cprof": {
+                "wcid": 30222,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30221"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30224",
+              "cprof": {
+                "wcid": 30224,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30222"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30225",
+              "cprof": {
+                "wcid": 30225,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30224"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30226",
+              "cprof": {
+                "wcid": 30226,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30225"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30228",
+              "cprof": {
+                "wcid": 30228,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30226"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30229",
+              "cprof": {
+                "wcid": 30229,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30228"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30232",
+              "cprof": {
+                "wcid": 30232,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30229"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30233",
+              "cprof": {
+                "wcid": 30233,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30232"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30234",
+              "cprof": {
+                "wcid": 30234,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30233"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30240",
+              "cprof": {
+                "wcid": 30240,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30234"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30242",
+              "cprof": {
+                "wcid": 30242,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30240"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30245",
+              "cprof": {
+                "wcid": 30245,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30242"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30246",
+              "cprof": {
+                "wcid": 30246,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30245"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-41257",
+              "cprof": {
+                "wcid": 41257,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30246"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-43407",
+              "cprof": {
+                "wcid": 43407,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-41257"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-45360",
+              "cprof": {
+                "wcid": 45360,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-43407"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-45366",
+              "cprof": {
+                "wcid": 45366,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45360"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-45367",
+              "cprof": {
+                "wcid": 45367,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45366"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-45368",
+              "cprof": {
+                "wcid": 45368,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45367"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-45369",
+              "cprof": {
+                "wcid": 45369,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45368"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckForT2Rares"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-45369"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30182",
+              "cprof": {
+                "wcid": 30182,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30181"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30185",
+              "cprof": {
+                "wcid": 30185,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30182"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30190",
+              "cprof": {
+                "wcid": 30190,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30185"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30191",
+              "cprof": {
+                "wcid": 30191,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30190"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30192",
+              "cprof": {
+                "wcid": 30192,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30191"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30193",
+              "cprof": {
+                "wcid": 30193,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30192"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30201",
+              "cprof": {
+                "wcid": 30201,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30193"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30202_2",
+              "cprof": {
+                "wcid": 30202,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30201"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30203",
+              "cprof": {
+                "wcid": 30203,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30202_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30204",
+              "cprof": {
+                "wcid": 30204,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30203"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30207",
+              "cprof": {
+                "wcid": 30207,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30204"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30208",
+              "cprof": {
+                "wcid": 30208,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30207"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30210",
+              "cprof": {
+                "wcid": 30210,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30208"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30211",
+              "cprof": {
+                "wcid": 30211,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30210"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30212",
+              "cprof": {
+                "wcid": 30212,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30211"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30213",
+              "cprof": {
+                "wcid": 30213,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30212"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30219",
+              "cprof": {
+                "wcid": 30219,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30213"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30220",
+              "cprof": {
+                "wcid": 30220,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30219"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30227",
+              "cprof": {
+                "wcid": 30227,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30220"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30230",
+              "cprof": {
+                "wcid": 30230,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30227"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30231",
+              "cprof": {
+                "wcid": 30231,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30230"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30235",
+              "cprof": {
+                "wcid": 30235,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30231"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30237",
+              "cprof": {
+                "wcid": 30237,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30235"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30239",
+              "cprof": {
+                "wcid": 30239,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30237"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30241",
+              "cprof": {
+                "wcid": 30241,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30239"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckPKStatus"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-30241"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The portal hums with energy."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must be a player killer to enter the %n."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PlayerKillerStatus_4-4"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAAccess"
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 5582
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 80101,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DoTeleportDCA"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAActive"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAAccess"
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 5582
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 80101,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DoTeleportDCP"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCPActive"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DoTeleportDCA"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAActive@2"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DoTeleportDCP"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCPActive@2"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCPActive"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAActive"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The portal hums with energy."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The %n is not open at this time."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCPActive"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCPActive@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCAActive@2"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The portal hums with energy."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The %n is not open at this time."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DCPActive@2"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30183",
+              "cprof": {
+                "wcid": 30183,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckForT1Rares"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-30181",
+              "cprof": {
+                "wcid": 30181,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckForT2Rares"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The portal hums with energy."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You cannot enter the %n with Tier 1 and 2 rare gems."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RareFound"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PlayerKillerStatus_4-4",
+              "max": 4,
+              "min": 4,
+              "stat": 134
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckPKStatus"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 80101,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCADeathStatueTimeout"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCADeathStatueCooldown"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCALumStatueTimeout"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCALumStatueCooldown"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCALumStatueBitfield"
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DCAActive"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PreTeleport"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 30.0,
+                    "y": -20.0,
+                    "z": -23.995
+                  },
+                  "angles": {
+                    "w": 0.397033,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.917804
+                  }
+                },
+                "objcell_id": 11206936
+              }
+            }
+          ],
+          "probability": 0.2,
+          "quest": "DoTeleportDCA"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 0.0,
+                    "y": -70.0,
+                    "z": -11.995
+                  },
+                  "angles": {
+                    "w": 0.921061,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.389418
+                  }
+                },
+                "objcell_id": 11207011
+              }
+            }
+          ],
+          "probability": 0.4,
+          "quest": "DoTeleportDCA"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 100.0,
+                    "y": 0.0,
+                    "z": -11.995
+                  },
+                  "angles": {
+                    "w": 0.385543,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.92269
+                  }
+                },
+                "objcell_id": 11207160
+              }
+            }
+          ],
+          "probability": 0.6,
+          "quest": "DoTeleportDCA"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 50.0,
+                    "y": -50.0,
+                    "z": -5.995
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11207236
+              }
+            }
+          ],
+          "probability": 0.8,
+          "quest": "DoTeleportDCA"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 60.0,
+                    "y": -50.0,
+                    "z": 0.005
+                  },
+                  "angles": {
+                    "w": 0.900447,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.434966
+                  }
+                },
+                "objcell_id": 11207310
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DoTeleportDCA"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 0.0,
+                    "y": -20.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272574
+              }
+            }
+          ],
+          "probability": 0.1,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 0.0,
+                    "y": -50.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272575
+              }
+            }
+          ],
+          "probability": 0.2,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 20.0,
+                    "y": 0.56048,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272578
+              }
+            }
+          ],
+          "probability": 0.3,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 20.0,
+                    "y": -70.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272581
+              }
+            }
+          ],
+          "probability": 0.4,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 40.0,
+                    "y": 0.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272582
+              }
+            }
+          ],
+          "probability": 0.5,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 40.0,
+                    "y": -70.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272585
+              }
+            }
+          ],
+          "probability": 0.6,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 60.0,
+                    "y": 0.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272586
+              }
+            }
+          ],
+          "probability": 0.7,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 60.0,
+                    "y": -70.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272589
+              }
+            }
+          ],
+          "probability": 0.8,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 80.0,
+                    "y": -20.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272592
+              }
+            }
+          ],
+          "probability": 0.9,
+          "quest": "DoTeleportDCP"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 99,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 80.0,
+                    "y": -50.0,
+                    "z": 18.005
+                  },
+                  "angles": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "objcell_id": 11272593
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DoTeleportDCP"
+        }
+      ]
+    },
+    {
+      "key": 38,
+      "value": [
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 35,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "IsAdmin",
+              "stat": 44
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:35.543549Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

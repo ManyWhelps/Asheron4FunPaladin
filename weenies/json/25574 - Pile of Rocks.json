@@ -1,0 +1,250 @@
+{
+  "wcid": 25574,
+  "weenieType": 24,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 0
+    },
+    {
+      "key": 18,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 81,
+      "value": 5
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 83,
+      "value": 65552
+    },
+    {
+      "key": 93,
+      "value": 8
+    },
+    {
+      "key": 119,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558434
+    },
+    {
+      "key": 2,
+      "value": 150995252
+    },
+    {
+      "key": 8,
+      "value": 100674798
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [
+    {
+      "key": 16,
+      "value": 0
+    }
+  ],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 0.0
+    },
+    {
+      "key": 43,
+      "value": 5.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Pile of Rocks"
+    },
+    {
+      "key": 17,
+      "value": "Disturbing the rocks has alerted the guardians to your presence."
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 600.0,
+      "frame": {
+        "origin": {
+          "x": -0.1,
+          "y": -0.1,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.636078,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.771625
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 25563,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 600.0,
+      "frame": {
+        "origin": {
+          "x": -0.1,
+          "y": -0.1,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.636078,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.771625
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 25563,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 600.0,
+      "frame": {
+        "origin": {
+          "x": -0.1,
+          "y": -0.1,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.636078,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.771625
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 22899,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 600.0,
+      "frame": {
+        "origin": {
+          "x": -0.1,
+          "y": -0.1,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.636078,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.771625
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 3,
+      "stackSize": -1,
+      "type": 22899,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 600.0,
+      "frame": {
+        "origin": {
+          "x": -0.1,
+          "y": -0.1,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.636078,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.771625
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 4,
+      "stackSize": -1,
+      "type": 22899,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:05:52.8321512Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

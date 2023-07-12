@@ -1,0 +1,124 @@
+{
+  "wcid": 72872,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 180.0
+    },
+    {
+      "key": 43,
+      "value": 20.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Shadow Cave 1 Engineer Gen"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 52.6267,
+          "y": -17.4024,
+          "z": -9.195
+        },
+        "angles": {
+          "w": 0.98545,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.169967
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 4166779222,
+      "probability": 0.5,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 44829,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 10.1056,
+          "y": 19.9642,
+          "z": -27.195
+        },
+        "angles": {
+          "w": 0.04197,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.999119
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 4166779149,
+      "probability": 1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 44829,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:37.9394272Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

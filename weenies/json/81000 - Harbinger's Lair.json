@@ -1,0 +1,132 @@
+{
+  "wcid": 81000,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 0
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    },
+    {
+      "key": 15,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 2052
+    },
+    {
+      "key": 111,
+      "value": 49
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556212
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Harbinger's Lair"
+    },
+    {
+      "key": 16,
+      "value": "This portal cannot be recalled, linked nor summoned."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 4,
+      "value": [
+        {
+          "category": 4,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "HarbingerEssenceless"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 10.0,
+            "y": -10.0,
+            "z": -5.503
+          },
+          "angles": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "objcell_id": 6095133
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:51.162733Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

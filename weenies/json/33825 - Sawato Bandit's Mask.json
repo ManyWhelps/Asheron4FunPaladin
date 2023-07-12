@@ -1,0 +1,218 @@
+{
+  "wcid": 33825,
+  "weenieType": 2,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    },
+    {
+      "key": 99,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 4
+    },
+    {
+      "key": 3,
+      "value": 14
+    },
+    {
+      "key": 4,
+      "value": 16384
+    },
+    {
+      "key": 5,
+      "value": 50
+    },
+    {
+      "key": 9,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 28,
+      "value": 10
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 106,
+      "value": 300
+    },
+    {
+      "key": 107,
+      "value": 5000
+    },
+    {
+      "key": 108,
+      "value": 5000
+    },
+    {
+      "key": 114,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554643
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268436719
+    },
+    {
+      "key": 8,
+      "value": 100675490
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.033
+    },
+    {
+      "key": 12,
+      "value": 0.0
+    },
+    {
+      "key": 13,
+      "value": 0.01
+    },
+    {
+      "key": 14,
+      "value": 0.01
+    },
+    {
+      "key": 15,
+      "value": 0.01
+    },
+    {
+      "key": 16,
+      "value": 0.01
+    },
+    {
+      "key": 17,
+      "value": 0.01
+    },
+    {
+      "key": 18,
+      "value": 0.01
+    },
+    {
+      "key": 19,
+      "value": 0.01
+    },
+    {
+      "key": 165,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Sawato Bandit's Mask"
+    },
+    {
+      "key": 15,
+      "value": "A mask that may assist you in infiltrating the Sawato Bandit's hideout."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 25,
+      "value": [
+        {
+          "category": 25,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WearingMask0806"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 26,
+      "value": [
+        {
+          "category": 26,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WearingMask0806"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 2226,
+      "value": {
+        "casting_likelihood": 2.0
+      }
+    },
+    {
+      "key": 2545,
+      "value": {
+        "casting_likelihood": 2.0
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:31.3752362Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

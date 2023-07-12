@@ -1,0 +1,3020 @@
+{
+  "wcid": 25715,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 160
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100,
+      "current": 180
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100,
+      "current": 260
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 150
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 75
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 5275
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Dame Brinna O'Shea"
+    },
+    {
+      "key": 3,
+      "value": "Female"
+    },
+    {
+      "key": 4,
+      "value": "Aluvian"
+    },
+    {
+      "key": 5,
+      "value": "Senior Guard"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 10870,
+      "palette": 17,
+      "shade": 0.699999988079071,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 118,
+      "palette": 14,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 32,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767252
+            }
+          ],
+          "probability": 0.01,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767385
+            }
+          ],
+          "probability": 0.02,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 13,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You think, \"She looked me over like a jeweler appraising a fine gem, sunstone maybe, or white sapphire. Whatever the look meant, it made me feel appreciated. I was pleased that I had figured out what the Dame wanted. I could see by the expression on her face I'd done well.\""
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FinishedNoir1"
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "New_Scrollcase",
+              "max": 20,
+              "min": 1,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25752
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This is interesting. This man will certainly have information that we can use. Pretty swell work..."
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \" I felt proud, like an adventurer who killed his first drudge. I showed my pride by standing like a conquering hero.\""
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073714
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"She handed me two gifts...\""
+            },
+            {
+              "type": 11,
+              "delay": 0.5,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 14932,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 25707,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"...a hat and a token. She said she'd take the token and give me a new title. Something like, gumshoe. I didn't ken what the Dame was saying, but the words felt pretty good. Praise is best served warm and meaningful.\""
+            },
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FinishedNoir1"
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "New_Note",
+              "max": 20,
+              "min": 1,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25728
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "It's broken..."
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"No getting that past this Dame. She spotted the missing line and reel before I handed the broken pole over. I made some quick comment to her about finding it in the bandit hideout. Maybe it'd turn up a clue here or there. It was a lie. It felt like a lie, thinking quick I scratched my head...\""
+            },
+            {
+              "type": 52,
+              "delay": 3.0,
+              "extent": 1.0,
+              "motion": 318767243
+            },
+            {
+              "type": 13,
+              "delay": 2.5,
+              "extent": 1.0,
+              "msg": "You think, \"That threw her off, I don't believe it...it threw her off. Wait, why am I thinking this? Ooo, did she just say something funny...\""
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767232
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 318767232
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"...drat, a second too late and now I look foolish, Hmmm...what to do?\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073717
+            },
+            {
+              "type": 13,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You think, \"The Dame paused and then turned away a moment...I stopped acting like a jerk...\""
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 4,
+              "treasure_class": 6,
+              "treasure_type": 1
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"Apparently she knew my ruse...still this was better than a useless fishing rod. She bowed...\""
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073754
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"I bowed in response then headed out to join the festival celebrations. I wish that there was something I could do with this mask, this note and this scroll case. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25706
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She started motioning...\""
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767248
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767225
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"Next thing I knew she was calling me a Gumshoe.\""
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 64
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25707
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Interesting, looks like they like to dress up... You too?"
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"I didn't know if it was a question. It sounded more like a statement. I stood there, bewildered, like a mage waiting for his spell to kill a drudge, only to see the mana disappear into nowhere. She turned away from me as I shrugged.\""
+            },
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FinishedNoir1"
+            },
+            {
+              "type": 12,
+              "delay": 0.5,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "is_male",
+              "max": 1,
+              "min": 1,
+              "stat": 113
+            }
+          ],
+          "probability": 1.0,
+          "classID": 25702
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FinishedNoir1"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think,  \"As I approached, I noticed a hint of recognition on the Dame's face. I was here not that long ago, I'd have to wait a little longer. For now, I couldn't go on.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FinishedNoir1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We need to know if there are any clues. Please..."
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"There it was again. That slow grating tone. We need your help. Can't you help us? Of course I could. The question was - would I?\""
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The last spot we had heard about him was in a copse of trees, north of Nanto."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DameNoir1"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DameNoir1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FinishedNoir1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must have seen the sign. Please sit down."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767442
+            },
+            {
+              "type": 52,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 1124073789
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "I'm so glad you came..."
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"They were always glad. It meant that they no longer had to shoulder the weight of what they knew alone. Camaraderie came from such knowledge. She kept talking and I was having trouble listening.\""
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073792
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073795
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073793
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767240
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767235
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767226
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767254
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"My mind kept drifting away to other thoughts. She talked fast, like the buzzing of bees around the first flower in spring. I was doing my best to keep up with the conversation but...there was too much. After a moment or two, I didn't care anymore. I got comfortable...\""
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073790
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767434
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073724
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767440
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073793
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767435
+            },
+            {
+              "type": 11,
+              "delay": 0.5,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 12,
+              "delay": 0.5,
+              "extent": 1.0
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"The Dame kept going, talking about some man. Maybe in green armor, with a green dagger or something like that; I didn't care anymore. Her voice was grating on my nerves, like cheese drawn over a cheese grater. I shifted and got really comfortable.\""
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073791
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767413
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073716
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073792
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767249
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767235
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"The Dame was worried. I felt like I should stand up, clear my throat, tell her everything would be fine. But that would mean she'd sob.\""
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767231
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767231
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767231
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"Too late. The buzzing sound of her voice gave way to delirious talk about assassination. I pretended to listen and leaned forward...\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767438
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767437
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073799
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767434
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073724
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767440
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767226
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You think, \"Then it ceased. It was like opening a Singularity Chest to find three perfectly matched dual major armor pieces, each enhancing a skill I possessed. But like every dream, it ended. Reality smacked me in the jaw, like a Peerless Drudge catching me with my faceplate up. The droning pitch of her voice returned. I got comfortable and listened to the rest of the Dame's tale.\""
+            },
+            {
+              "type": 52,
+              "delay": 3.0,
+              "extent": 1.0,
+              "motion": 1124073791
+            },
+            {
+              "type": 5,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 1124073801
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "...and that's why I need you to help me."
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"I stood quickly. Better she thought I had heard everything that she had to say, rather than tell her the truth. I crossed my arms and gave her a stern look.\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 1124073710
+            },
+            {
+              "type": 11,
+              "delay": 1.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767231
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"Before I could think, I said 'I'll do it.'\""
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You say, \"I'll do it.\""
+            },
+            {
+              "type": 12,
+              "delay": 0.5,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767235
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She gave me a clean towel...\""
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 3,
+              "delay": 0.5,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 25708,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"...a trade note for my trouble...\""
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 2621,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"...and a location...\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1124073792
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The last spot we knew he could be found was off the road in a copse of trees, north of Nanto."
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073801
+            },
+            {
+              "type": 13,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You think, \"I didn't have to ask what to expect there. Like I said before, Dames were always trouble. I was knee deep with this one.\""
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Thank you, again."
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767228
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767227
+            },
+            {
+              "type": 13,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You think, \"The kiss was a nice touch. Though it left me with a sinking feeling. Like getting caught off your guard when the Hopeslayer asks you a question. Never peeve the 24 foot tall Lord of Darkness, you might find yourself falling from the top of the world and believe me, you can't see your house from there.\""
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073716
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DameNoir1"
+            },
+            {
+              "type": 52,
+              "delay": 1.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"I weighed my choices and decided what I needed to do. The entrance to the place would be hidden amongst the trees, but I'd find a way in.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DameNoir1"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "This looks like it could be something. I'll have it looked over. You've done well. You deserve a reward-"
+            },
+            {
+              "type": 13,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "You think, \"She was talking again, but her voice wasn't as annoying as before. There was a pleasurable quality to it now. I'd done good. The Dame was pleased and I knew that I'd be handsomely rewarded. Well earned in my book. She said something funny and we both laughed.\""
+            },
+            {
+              "type": 5,
+              "delay": 3.0,
+              "extent": 1.0,
+              "motion": 318767232
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767241
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"Then she handed me a gift...\""
+            },
+            {
+              "type": 11,
+              "delay": 0.5,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1124073724
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 4,
+              "treasure_class": 5,
+              "treasure_type": 2
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"Not bad. I bowed...\""
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"...and headed off to join the festival celebrations. I wish that there was something I could do with this broken fishing pole, the mask and this note. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "New_Scrollcase"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "This looks like it could be something. I'll have it looked over. You've done well. You deserve a reward-"
+            },
+            {
+              "type": 13,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "You think, \"She was talking again, but her voice wasn't as annoying as before. There was a pleasurable quality to it now. I'd done good. The Dame was pleased and I knew that I'd be handsomely rewarded. Well earned in my book. She said something funny and we both laughed.\""
+            },
+            {
+              "type": 5,
+              "delay": 3.0,
+              "extent": 1.0,
+              "motion": 318767232
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767241
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"Then she handed me a gift...\""
+            },
+            {
+              "type": 11,
+              "delay": 0.5,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 5,
+              "treasure_class": 5,
+              "treasure_type": 2
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"Not bad. I bowed...\""
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"...and headed off to join the festival celebrations. I wish that there was something I could do with this broken fishing pole, this mask and this note. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Low_Scrollcase"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "This looks like it could be something. I'll have it looked over. You've done well. You deserve a reward-"
+            },
+            {
+              "type": 13,
+              "delay": 3.0,
+              "extent": 1.0,
+              "msg": "You think, \"She was talking again, but her voice wasn't as annoying as before. There was a pleasurable quality to it now. I'd done good. The Dame was pleased and I knew that I'd be handsomely rewarded. Well earned in my book. She said something funny and we both laughed.\""
+            },
+            {
+              "type": 5,
+              "delay": 3.0,
+              "extent": 1.0,
+              "motion": 318767232
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767241
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"Then she handed me a gift...\""
+            },
+            {
+              "type": 11,
+              "delay": 0.5,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 6,
+              "treasure_class": 5,
+              "treasure_type": 2
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"Not bad. I bowed...\""
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"...and headed off to join the festival celebrations. I wish that there was something I could do with this broken fishing pole, this mask and this note. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Other_Scrollcase"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She turned back, holding a trinket. I tried to tell her no.\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073794
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She'd hear nothing of it...\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 4,
+              "treasure_class": 3,
+              "treasure_type": 2
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"She dropped the trinkent into my hands. A reward for a job well done.\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767228
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"Again, she blew me a kiss. This Dame was strange, it was just a note. Sure it might be a lead to solving a question about who tried to kill the High Queen, but then again it might lead to an interesting new recipe for chicken. I smiled either way, bowed...\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073708
+            },
+            {
+              "type": 52,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You Think, \"...and headed out to join the festival celebrations. I wish that there was something I could do with this broken fishing pole and this scroll case. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "New_Note"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She turned back, holding a trinket. I tried to tell her no.\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She'd hear nothing of it...\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 5,
+              "treasure_class": 3,
+              "treasure_type": 2
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"She dropped the trinkent into my hands. A reward for a job well done.\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767228
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"Again, she blew me a kiss. This Dame was strange, it was just a note. Sure it might be a lead to solving a question about who tried to kill the High Queen, but then again it might lead to an interesting new recipe for chicken. I smiled either way, bowed...\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073708
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1124073754
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You Think, \"...and headed out to join the festival celebrations. I wish that there was something I could do with this broken fishing pole and this scroll case. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Low_Note"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She turned back, holding a trinket. I tried to tell her no.\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She'd hear nothing of it...\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 6,
+              "treasure_class": 3,
+              "treasure_type": 2
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"She dropped the trinkent into my hands. A reward for a job well done.\""
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767228
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"Again, she blew me a kiss. This Dame was strange, it was just a note. Sure it might be a lead to solving a question about who tried to kill the High Queen, but then again it might lead to an interesting new recipe for chicken. I smiled either way, bowed...\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073708
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "You Think, \"...and headed out to join the festival celebrations. I wish that there was something I could do with this broken fishing pole and this scroll case. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Other_Note"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"When she turned back she gave me the best gift of all.\""
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 25703,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073754
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She curtseyed as I stared at her in quiet disbelief. Of all the gifts the High Queen bestowed on me for this little task, this was the best.\""
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oh, and yes...you can dye it."
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"I bowed...\""
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You think, \"...and headed out to join the festival celebrations. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            },
+            {
+              "type": 52,
+              "delay": 1.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 1.0,
+          "quest": "is_male"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"When she turned back she gave me the best gift of all.\""
+            },
+            {
+              "type": 12,
+              "delay": 1.0,
+              "extent": 1.0
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073712
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767257
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 52,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 25701,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.5,
+              "extent": 1.0,
+              "motion": 1124073754
+            },
+            {
+              "type": 13,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You think, \"She curtseyed as I stared at her in quiet disbelief. Of all the gifts the High Queen bestowed on me for this little task, this was the best.\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oh, and yes...you can dye it."
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"I curtseyed...\""
+            },
+            {
+              "type": 52,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1124073754
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 13,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You think, \"...and headed out to join the festival celebrations. Something gnawed at my conscience, like a reedshark gnawing a shin bone, I didn't think that I'd found all there was to know. For now, I was content to enjoy the holiday cheer.\""
+            },
+            {
+              "type": 52,
+              "delay": 1.5,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 1.0,
+          "quest": "is_female"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Low_Scrollcase",
+              "max": 40,
+              "min": 21,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "New_Scrollcase"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Other_Scrollcase",
+              "max": 9999,
+              "min": 41,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Low_Scrollcase"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Houston, we have a problem."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Other_Scrollcase"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Low_Note",
+              "max": 40,
+              "min": 21,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "New_Note"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Other_Note",
+              "max": 9999,
+              "min": 41,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Low_Note"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Houston, we have a problem."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Other_Note"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "is_female",
+              "max": 2,
+              "min": 2,
+              "stat": 113
+            }
+          ],
+          "probability": 1.0,
+          "quest": "is_male"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Houston, we have a problem."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "is_female"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:05:55.9202156Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

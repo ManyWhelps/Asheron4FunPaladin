@@ -1,0 +1,247 @@
+{
+  "wcid": 80204,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 24,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 12
+    },
+    {
+      "key": 119,
+      "value": 0
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556024
+    },
+    {
+      "key": 3,
+      "value": 536871008
+    },
+    {
+      "key": 8,
+      "value": 100667465
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Menhir Ring Five"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This signature has already been lit."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MenhirResearchRingsComplete"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%tqc of %tqm rings have been lit."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MenhirResearchNPCCounter"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mana flows across the surface of the stone."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your fingers tingle as waves of energy coruscate across them."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The stone suddenly returns to its inert state."
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "MenhirResearchRingsComplete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MehirResearchComplete0310"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "MenhirResearchRingsComplete"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This signature lights the fifth ring of the mana stone."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This mana signature is unique."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirResearchNPCCounter"
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MenhirResearchNPCCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MenhirResearchRingsComplete"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%tqc of %tqm rings have been lit."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MenhirResearchNPCCounter"
+        }
+      ]
+    },
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MehirResearchComplete0310"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UseEnchantedManaStone"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:46.6275843Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

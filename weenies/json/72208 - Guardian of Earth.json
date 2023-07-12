@@ -1,0 +1,674 @@
+{
+  "wcid": 72208,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558554
+    },
+    {
+      "key": 2,
+      "value": 150995404
+    },
+    {
+      "key": 3,
+      "value": 536871080
+    },
+    {
+      "key": 7,
+      "value": 268437288
+    },
+    {
+      "key": 8,
+      "value": 100675661
+    },
+    {
+      "key": 22,
+      "value": 872415401
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 39,
+      "value": 1.2
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Guardian of Earth"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWfail@4"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWfail@4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckOrder1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@1-1_4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckOrder2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@2-2_4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckOrder3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@3-3_4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckOrder4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@4-4_4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Pass"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Pass"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Pass"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWpass"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWportalflag"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWcounter"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWn1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWn2"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWn3"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWn4"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWs1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWs2"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWs3"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWs4"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe2"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe3"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe4"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWw1"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWw2"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWw3"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWw4"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have chosen the final guardian correctly!"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Defender, you have succeeded in the Test of the Northwest Tower."
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 691
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have been granted the title Knight of the Northwest Tower!"
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "openportal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe4"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckClick1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWfail@4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckClick2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@1-1_4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckClick3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@2-2_4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckClick4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@3-3_4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should never see this."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWcounter@4-4_4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "mhoireNWe4"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWcounter@1-1_4",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckClick1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWcounter@2-2_4",
+              "max": 2,
+              "min": 2
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckClick2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWcounter@3-3_4",
+              "max": 3,
+              "min": 3
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckClick3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWcounter@4-4_4",
+              "max": 4,
+              "min": 4
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckClick4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckOrder1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckOrder2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckOrder3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWe4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckOrder4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWcounter"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have chosen correctly. You must choose the next guardian."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Pass"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "mhoireNWfail"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You fail"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Fail"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:23.5310491Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

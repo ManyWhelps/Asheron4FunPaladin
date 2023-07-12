@@ -1,0 +1,4598 @@
+{
+  "wcid": 24263,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 30
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 275
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 235,
+      "current": 485
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80,
+      "current": 110
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 40
+    },
+    {
+      "key": 5,
+      "value": 8000
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 8000
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 66
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 133,
+      "value": 0
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 4517
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558344
+    },
+    {
+      "key": 2,
+      "value": 150995196
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100674324
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Jojii Shrine"
+    },
+    {
+      "key": 14,
+      "value": "Donate a few coins to help upkeep the shrine."
+    },
+    {
+      "key": 16,
+      "value": "A simple shrine to Jojii."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1538.4248,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1538.4248,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1538.4248,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fortune"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 273
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The shrine appears to be very well kept and tidy. You feel a sense of well being just standing and looking at it."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FortuneCounter@Number1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FortuneCounter@Number2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FortuneCounter@Number3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "0"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FortuneCounter"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number2",
+              "max": 2,
+              "min": 2
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FortuneCounter@Number1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number3",
+              "max": 3,
+              "min": 3
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FortuneCounter@Number2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "FortuneCounter@Number3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "1"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.01,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "2"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.02,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "3"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.03,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "4"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.04,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "5"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.05,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "6"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.06,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "7"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.07,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "8"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.08,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "9"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.09,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "10"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.1,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "11"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.11,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "12"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.12,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "13"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.13,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "14"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.14,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "15"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.15,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "16"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.16,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "17"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.17,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "18"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.18,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "19"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.19,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "20"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.2,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "21"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.21,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "22"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.22,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "23"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.23,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "24"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.24,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "25"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.25,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "26"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.26,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "27"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.27,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "28"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.28,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "29"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.29,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "30"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.3,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "31"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.31,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "32"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.32,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "33"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.33,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "34"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.34,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "35"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.35,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "36"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.36,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "37"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.37,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "38"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.38,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "39"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.39,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "40"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.4,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "41"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.41,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "42"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.42,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "43"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.43,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "44"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.44,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "45"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.45,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "46"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.46,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "47"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.47,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "48"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.48,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "49"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.49,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "50"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.5,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "51"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.51,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "52"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.52,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "53"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.53,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "54"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.54,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "55"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.55,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "56"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.56,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "57"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.57,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "58"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.58,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "59"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.59,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "60"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.6,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "61"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.61,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "62"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.62,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "63"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.63,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "64"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.64,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "65"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.65,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "66"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.66,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "67"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.67,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "68"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.68,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "69"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.69,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "70"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.7,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "71"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.71,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "72"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.72,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "73"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.73,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "74"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.74,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "75"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.75,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "76"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.76,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "77"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.77,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "78"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.78,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "79"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.79,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "80"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.8,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "81"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.81,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "82"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.82,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "83"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.83,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "84"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.84,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "85"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.85,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "86"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.86,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "87"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.87,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "88"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.88,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "89"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.889999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "90"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.899999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "91"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.909999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "92"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.919999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "93"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.929999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "94"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.939999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "95"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.949999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "96"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.959999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "97"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.969999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "98"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.979999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "99"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.989999,
+          "quest": "FortuneCounter"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "100"
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter@Number1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 0.999999,
+          "quest": "FortuneCounter"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your Lucky Numbers are:"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter"
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FortuneCounter"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "GetLuckyNumbers"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Run with dragons while you are young."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.02,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Search for the good in all things. You may be overlooking your own fortune."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.04,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will meet a tall shadowy figure."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.06,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Someone in your Allegiance will soon die."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.08,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Never build a tower in a swamp."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.1,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your journeys will be long and rewarding."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.12,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Life shall visit upon you hardship before reward."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.14,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Look beneath the trees, you may find treasures there."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.16,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Not every guardian hides a treasure."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.18,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Nothing is not something."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.2,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It is the wise man that knows to walk around the site of danger."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.22,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Death; it is the end for us all."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.24,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You shall travel far and do much."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.26,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The only number that stands alone is one."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.28,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Take time to smell the snowflowers, but do not bring them into the sun."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.3,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will have great success."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.32,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will find happiness at the end of the day."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.34,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There is no journey to long."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.36,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Wealth is for the wicked."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.38,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "When you are faced with danger do not think, act."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.4,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Actions will speak louder than words."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.42,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Danger lurks in the brush."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.44,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Carry a torch to light your way in darkness."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.46,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A boulder that flies level with the eye is not falling from the sky."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.48,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Stifle your words or back them with action."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.5,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will see a Lifestone soon."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.52,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Time runs away.  So will you."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.54,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you are red your blood will be shed."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.56,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You may catch a fish. You may catch a boot."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.58,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you give a man a fish, for a day he will eat.  If you give a man a fishing rod, for a day he will fish, eat and drink beer."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.6,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will lose something precious to you."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.62,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Follow the white rabbit."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.64,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Don't worry about the vase."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.66,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It may snow tomorrow.  Somewhere.  Where it is cold.  And snowy."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.68,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Save at Lifestones often."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.7,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Beware the claws of the... (the rest of the fortune is shredded)"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.72,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Pay the Town Criers."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.74,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Got Sub?"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.76,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mmm... go PKLite you will, mmmm"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.78,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will scream like a mite when you see an Olthoi."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.8,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Sometimes the reward is experience."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.82,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Beware the ideas of Mark."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.84,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A wise man seldom swings first."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.86,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will help an ungrateful warrior."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.88,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Harmony is found in the simple tasks."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.9,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oui ryja ymud uv vnaa desa uh ouin ryhtc."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.92,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Don't ask, don't say, everything lies in Magic."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.94,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Always expect the worst when you take a portal."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.96,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "True wisdom comes from the heart not the head."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 0.98,
+          "quest": "Fortune"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Swords don't kill people. Things wielding swords kill people."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "GetLuckyNumbers"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Fortune"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:05:31.7376499Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

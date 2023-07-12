@@ -1,0 +1,314 @@
+{
+  "wcid": 36088,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200,
+      "current": 350
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 300
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 200
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 257
+    },
+    {
+      "key": 93,
+      "value": 6292492
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556558
+    },
+    {
+      "key": 2,
+      "value": 150995091
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268435990
+    },
+    {
+      "key": 8,
+      "value": 100670398
+    },
+    {
+      "key": 22,
+      "value": 872415331
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.0
+    },
+    {
+      "key": 39,
+      "value": 1.3
+    },
+    {
+      "key": 76,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Isin Dule"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "I am simply a man of the former town of Daralet who calls himself Isin Dule, who concerns himself most fiercely with an individual's right of choice. I just happen to have compatriots who...agree with me...and former friends who have gone too far."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerfalleInsult"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DuleIntro"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "Both of you can take your Dericostian arrogance and throw it into the void. You regarded those beneath you as chattel and treated them in the worst way possible. It was only a blessing that your empire fell. As for the rest of you...you are no better, Asheron, you meddling child of Yalaini nobility, and I cannot even begin to verbalize the dread I would feel at a Wind-Walker rulership."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767232
+            },
+            {
+              "type": 17,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "Claude says, in concert with the other Virindi, \"We consider your statement valueless. Your knowledge is unworthy of inclusion to the Singularity. The Quiddity comprehends all. You will cease existence.\""
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerfalleRetort"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DuleInsult"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Isin Dule holds the chalice before him and says, \"How could I refuse such an invitation? The madness of my old friend must be stopped before it is too late.\" He hesitantly hands the chalice to Asheron."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1073741851
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AsheronDrink"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DuleDrink"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "I agree. Let me first begin by saying, though it grieves me to do so, that I hereby declare myself in opposition to Ilservian Palacost. While his original goal was admirable, his endless war against all creation has gone too far. I cannot stand with him anymore."
+            },
+            {
+              "type": 8,
+              "delay": 4.0,
+              "extent": 80.0,
+              "msg": "What I tell you now is highly secret, for it is a key to Ilservian's newfound power. There is an item which acts as a channel between this world and the realm of the Living shadow, from which we draw our power. We call it the Heart of Shadow. While the Heart is heavily guarded by Ferah's forces, a skilled group could invade, claim the Heart for their own, and somehow use its connection to Ilservian to weaken him."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AsheronDiscuss"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DuleDiscuss"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "Repent? I think not. I merely object to total annihilation, not to power."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767253
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AsheronRespond"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DuleRepent"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:55.9805991Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

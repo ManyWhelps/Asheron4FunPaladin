@@ -1,0 +1,178 @@
+{
+  "wcid": 72774,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 60.0
+    },
+    {
+      "key": 43,
+      "value": 20.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Acid Portalspace Rift Gen"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 38.9356,
+          "y": -6.23438,
+          "z": 0.055
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2298610094,
+      "probability": 0.25,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 72750,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 17.6152,
+          "y": -20.0753,
+          "z": 0.055
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2298610056,
+      "probability": 0.5,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 72750,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 51.3047,
+          "y": -12.9525,
+          "z": 0.055
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2298610141,
+      "probability": 0.75,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 72750,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 33.5652,
+          "y": -13.0029,
+          "z": 6.055
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2298610190,
+      "probability": 1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 3,
+      "stackSize": -1,
+      "type": 72750,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:36.0123213Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

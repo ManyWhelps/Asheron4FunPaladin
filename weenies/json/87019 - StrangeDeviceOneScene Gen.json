@@ -1,0 +1,144 @@
+{
+  "wcid": 87019,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 2
+    },
+    {
+      "key": 82,
+      "value": 2
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 103,
+      "value": 2
+    },
+    {
+      "key": 142,
+      "value": 3
+    },
+    {
+      "key": 145,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 999999.0
+    },
+    {
+      "key": 43,
+      "value": 22.0
+    },
+    {
+      "key": 121,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "StrangeDeviceOneScene Gen"
+    },
+    {
+      "key": 34,
+      "value": "StrangeDeviceOneSceneEvent"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 24.9475,
+          "y": 172.621,
+          "z": 37.6199
+        },
+        "angles": {
+          "w": -0.116425,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.9932
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2543452176,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": 0,
+      "type": 36795,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1.0,
+      "frame": {
+        "origin": {
+          "x": 27.4535,
+          "y": 154.298,
+          "z": 39.1469
+        },
+        "angles": {
+          "w": 0.996931,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.078284
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2543452175,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": 0,
+      "type": 36789,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:52.7325229Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

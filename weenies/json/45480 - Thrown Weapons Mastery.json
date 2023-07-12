@@ -1,0 +1,1459 @@
+{
+  "wcid": 45480,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 5,
+      "value": 8066
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561434
+    },
+    {
+      "key": 2,
+      "value": 150995447
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100690412
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Thrown Weapons Mastery"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RangedMastery_10-10",
+              "max": 10,
+              "min": 10,
+              "stat": 355
+            }
+          ],
+          "probability": 1.0,
+          "classID": 46422
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RangedMastery_10-10_2",
+              "max": 10,
+              "min": 10,
+              "stat": 355
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedRangedMasteryReset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedFreeRangedMasteryReset"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have changed your melee mastery too recently"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedRangedMasteryReset@1-1",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OracleLuminanceRewardsAccess_1110"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@1-1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_3",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 20,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@2-2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_5",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 30,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@3-3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_7",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 40,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@4-4"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_200-9999",
+              "max": 9999,
+              "min": 200,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedRangedMasteryReset@2-2",
+              "max": 2,
+              "min": 2
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@1-1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedRangedMasteryReset@3-3",
+              "max": 3,
+              "min": 3
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@2-2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedRangedMasteryReset@4-4",
+              "max": 4,
+              "min": 4
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@3-3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_9",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 50,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedRangedMasteryReset@4-4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must walk the Path of Light to change your mastery again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OracleLuminanceRewardsAccess_1110"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_7",
+              "teststring": "Would you like to change your mastery to Thrown Weapons? You only get one free mastery change per character."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedFreeRangedMasteryReset"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are already a Master of Thrown Weapons."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RangedMastery_10-10"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-46422",
+              "cprof": {
+                "wcid": 46422,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 46422,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-46422"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are already a Master of Thrown Weapons."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RangedMastery_10-10_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OracleLuminanceRewardsAccess_1110"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_200-9999"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_100000-1500000",
+              "min64": 100000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_2",
+              "teststring": "Would you like to change your mastery to Thrown Weapons for 10 MMDs and 100,000 luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_100000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_2",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_100000-1500000_2",
+              "min64": 100000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 100000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StampAndDoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_100000-1500000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_200000-1500000",
+              "min64": 200000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_3",
+              "teststring": "Would you like to change your mastery to Thrown Weapons for 20 MMDs and 200,000 luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_200000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_4",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 20,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_200000-1500000_2",
+              "min64": 200000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 20,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 200000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StampAndDoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_200000-1500000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_300000-1500000",
+              "min64": 300000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_4",
+              "teststring": "Would you like to change your mastery to Thrown Weapons for 30 MMDs and 300,000 luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_300000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_6",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 30,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_300000-1500000_2",
+              "min64": 300000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_6"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 30,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 300000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StampAndDoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_300000-1500000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_400000-1500000",
+              "min64": 400000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_7"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_5",
+              "teststring": "Would you like to change your mastery to Thrown Weapons for 40 MMDs and 400,000 luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_400000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_8",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 40,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_400000-1500000_2",
+              "min64": 400000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_8"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 40,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 400000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StampAndDoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_400000-1500000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_500000-1500000",
+              "min64": 500000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_9"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_6",
+              "teststring": "Would you like to change your mastery to Thrown Weapons for 50 MMDs and 500,000 luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_500000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_10",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 50,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_6"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_500000-1500000_2",
+              "min64": 500000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_10"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 50,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 500000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StampAndDoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_500000-1500000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedFreeRangedMasteryReset"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StampAndDoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_7"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo",
+              "teststring": "Would you like to change your mastery to Thrown Weapons?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RangedMastery_10-10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Give the Mastery Reset Certificate to the statue again if wish to change your mastery to Thrown Weapons."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedFreeRangedMasteryReset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RangedMastery_10-10_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 100,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_100000-1500000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 10 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UseAgain"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 100,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_100000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 10 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 200,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_200000-1500000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 20 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UseAgain"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 200,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_200000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 20 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 300,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_300000-1500000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 30 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_6"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UseAgain"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 300,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_300000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 10 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_5"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 400,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_400000-1500000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 40 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_8"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UseAgain"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_5"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 400,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_400000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 40 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_7"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 500,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_500000-1500000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 50 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UseAgain"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_6"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 500,000 luminance available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_500000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need 50 MMDs available to have your mastery changed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_9"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must be at least level 200 to change your mastery again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_200-9999"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UseAgain"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_7"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Use the statue again if wish to change your mastery to Thrown Weapons."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UseAgain"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedRangedMasteryReset"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DoMasteryChange"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "StampAndDoMasteryChange"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 53,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 10,
+              "stat": 355
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are now a Master of Thrown Weapons."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DoMasteryChange"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:44.6581592Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

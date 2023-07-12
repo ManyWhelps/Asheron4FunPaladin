@@ -1,0 +1,2186 @@
+{
+  "wcid": 24937,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 3
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 5
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 1
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 2,
+          "dval": 6,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 7,
+            "armor_vs_pierce": 4,
+            "armor_vs_bludgeon": 5,
+            "armor_vs_cold": 7,
+            "armor_vs_fire": 12,
+            "armor_vs_acid": 4,
+            "armor_vs_electric": 12,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.5,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.5,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 10,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 3,
+            "armor_vs_pierce": 2,
+            "armor_vs_bludgeon": 3,
+            "armor_vs_cold": 3,
+            "armor_vs_fire": 6,
+            "armor_vs_acid": 2,
+            "armor_vs_electric": 6,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.5,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.5,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 12,
+        "value": {
+          "dtype": 1,
+          "dval": 3,
+          "dvar": 0.3,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 3,
+            "armor_vs_pierce": 2,
+            "armor_vs_bludgeon": 3,
+            "armor_vs_cold": 3,
+            "armor_vs_fire": 6,
+            "armor_vs_acid": 2,
+            "armor_vs_electric": 6,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.25,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.25,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 13,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 3,
+            "armor_vs_pierce": 2,
+            "armor_vs_bludgeon": 3,
+            "armor_vs_cold": 3,
+            "armor_vs_fire": 6,
+            "armor_vs_acid": 2,
+            "armor_vs_electric": 6,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.30000001192092896,
+            "MLB": 0.4000000059604645,
+            "LLB": 0.5,
+            "HRB": 0.30000001192092896,
+            "MRB": 0.4000000059604645,
+            "LRB": 0.5
+          }
+        }
+      },
+      {
+        "key": 15,
+        "value": {
+          "dtype": 1,
+          "dval": 3,
+          "dvar": 0.3,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 3,
+            "armor_vs_pierce": 2,
+            "armor_vs_bludgeon": 3,
+            "armor_vs_cold": 3,
+            "armor_vs_fire": 6,
+            "armor_vs_acid": 2,
+            "armor_vs_electric": 6,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.25,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.25
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 12,
+            "armor_vs_slash": 4,
+            "armor_vs_pierce": 2,
+            "armor_vs_bludgeon": 3,
+            "armor_vs_cold": 4,
+            "armor_vs_fire": 7,
+            "armor_vs_acid": 2,
+            "armor_vs_electric": 7,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.30000001192092896,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.25,
+            "HRF": 0.30000001192092896,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.25,
+            "HLB": 0.6000000238418579,
+            "MLB": 0.5,
+            "LLB": 0.25,
+            "HRB": 0.6000000238418579,
+            "MRB": 0.5,
+            "LRB": 0.25
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 4,
+          "dval": 1,
+          "dvar": 0.9,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 3,
+            "armor_vs_pierce": 2,
+            "armor_vs_bludgeon": 3,
+            "armor_vs_cold": 3,
+            "armor_vs_fire": 6,
+            "armor_vs_acid": 2,
+            "armor_vs_electric": 6,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.10000000149011612,
+            "MLB": 0.10000000149011612,
+            "LLB": 0.0,
+            "HRB": 0.10000000149011612,
+            "MRB": 0.10000000149011612,
+            "LRB": 0.0
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 69
+    },
+    {
+      "key": 3,
+      "value": 17
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 4
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 2
+    },
+    {
+      "key": 67,
+      "value": 64
+    },
+    {
+      "key": 68,
+      "value": 5
+    },
+    {
+      "key": 81,
+      "value": 3
+    },
+    {
+      "key": 82,
+      "value": 3
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 103,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 142,
+      "value": 3
+    },
+    {
+      "key": 146,
+      "value": 800
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555874
+    },
+    {
+      "key": 2,
+      "value": 150995244
+    },
+    {
+      "key": 3,
+      "value": 536871071
+    },
+    {
+      "key": 4,
+      "value": 805306423
+    },
+    {
+      "key": 6,
+      "value": 67114447
+    },
+    {
+      "key": 7,
+      "value": 268436660
+    },
+    {
+      "key": 8,
+      "value": 100674625
+    },
+    {
+      "key": 22,
+      "value": 872415397
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.067
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 13,
+      "value": 0.34
+    },
+    {
+      "key": 14,
+      "value": 0.18
+    },
+    {
+      "key": 15,
+      "value": 0.26
+    },
+    {
+      "key": 16,
+      "value": 0.34
+    },
+    {
+      "key": 17,
+      "value": 0.6
+    },
+    {
+      "key": 18,
+      "value": 0.18
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 31,
+      "value": 10.0
+    },
+    {
+      "key": 34,
+      "value": 4.0
+    },
+    {
+      "key": 36,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.0
+    },
+    {
+      "key": 41,
+      "value": 3600.0
+    },
+    {
+      "key": 43,
+      "value": 1.0
+    },
+    {
+      "key": 64,
+      "value": 0.86
+    },
+    {
+      "key": 65,
+      "value": 0.8
+    },
+    {
+      "key": 66,
+      "value": 0.8
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 0.86
+    },
+    {
+      "key": 69,
+      "value": 0.8
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Chicken"
+    },
+    {
+      "key": 34,
+      "value": "springbabies"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 262,
+      "palette": 0,
+      "shade": 0.75,
+      "destination": 9,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0.25,
+      "destination": 9,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 25558,
+      "palette": 0,
+      "shade": 0.05000000074505806,
+      "destination": 9,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0.949999988079071,
+      "destination": 9,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1609.2031,
+        "init_level": 20,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1609.2031,
+        "init_level": 20,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1609.2031,
+        "init_level": 5,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1609.2031,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1609.2031,
+        "init_level": 20,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1609.2031,
+        "init_level": 40,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.25,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.5,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          ],
+          "probability": 0.51,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.951056,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.309017
+                }
+              }
+            }
+          ],
+          "probability": 0.52,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.809017,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.587785
+                }
+              }
+            }
+          ],
+          "probability": 0.53,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.587785,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.809017
+                }
+              }
+            }
+          ],
+          "probability": 0.54,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.309017,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.951056
+                }
+              }
+            }
+          ],
+          "probability": 0.55,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -1.0
+                }
+              }
+            }
+          ],
+          "probability": 0.56,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": -0.309017,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.951056
+                }
+              }
+            }
+          ],
+          "probability": 0.57,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": -0.587785,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.809017
+                }
+              }
+            }
+          ],
+          "probability": 0.58,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": -0.809017,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.587785
+                }
+              }
+            }
+          ],
+          "probability": 0.59,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": -0.951056,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.309017
+                }
+              }
+            }
+          ],
+          "probability": 0.6,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -1.0,
+                  "y": 3.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.608,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 3.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.616,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 1.0,
+                  "y": 3.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.624,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -2.0,
+                  "y": 2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.632,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -1.0,
+                  "y": 2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.64,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.648,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 1.0,
+                  "y": 2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.656,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 2.0,
+                  "y": 2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.664,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -3.0,
+                  "y": 1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.672,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -2.0,
+                  "y": 1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.68,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -1.0,
+                  "y": 1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.688,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.696,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.704,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 2.0,
+                  "y": 1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.712,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 3.0,
+                  "y": 1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.72,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -3.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.728,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -2.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.736,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -1.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.744,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.752,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 1.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.76,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 2.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.768,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 3.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.776,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -3.0,
+                  "y": -1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.784,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -2.0,
+                  "y": -1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.792,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -1.0,
+                  "y": -1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.8,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": -1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.808,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 1.0,
+                  "y": -1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.816,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 2.0,
+                  "y": -1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.824,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 3.0,
+                  "y": -1.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.832,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -2.0,
+                  "y": -2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.84,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -1.0,
+                  "y": -2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.848,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": -2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.856,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 1.0,
+                  "y": -2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.864,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 2.0,
+                  "y": -2.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.872001,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": -1.0,
+                  "y": -3.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.88,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": -3.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.888,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 2.0,
+              "frame": {
+                "origin": {
+                  "x": 1.0,
+                  "y": -3.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 0.896001,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 4294967295,
+      "objcell_id": 0,
+      "probability": 1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 26676,
+      "whenCreate": 1,
+      "whereCreate": 2
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:05:45.4304625Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

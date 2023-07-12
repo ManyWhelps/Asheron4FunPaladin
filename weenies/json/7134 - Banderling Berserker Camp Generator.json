@@ -1,0 +1,286 @@
+{
+  "wcid": 7134,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 5
+    },
+    {
+      "key": 82,
+      "value": 5
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 60.0
+    },
+    {
+      "key": 43,
+      "value": 5.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Banderling Berserker Camp Generator"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": -4.5,
+          "y": -2.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.398749,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.91706
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.10000000149011612,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 7085,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 4.0,
+          "y": -3.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.258819,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.965926
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.25,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 7085,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 3.4,
+          "y": 2.4,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.44999998807907104,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 7085,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": -1.2,
+          "y": -3.6,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.6000000238418579,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 3,
+      "stackSize": -1,
+      "type": 7345,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 2.2,
+          "y": 1.2,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.699999988079071,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 4,
+      "stackSize": -1,
+      "type": 7345,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": -3.2,
+          "y": -1.5,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.8999999761581421,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 5,
+      "stackSize": -1,
+      "type": 7345,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 0.2,
+          "y": 0.4,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.999048,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.043619
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.949999988079071,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 6,
+      "stackSize": -1,
+      "type": 4179,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 1800.0,
+      "frame": {
+        "origin": {
+          "x": 0.1,
+          "y": -0.1,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 7,
+      "stackSize": -1,
+      "type": 4380,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T21:59:41.9972806Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

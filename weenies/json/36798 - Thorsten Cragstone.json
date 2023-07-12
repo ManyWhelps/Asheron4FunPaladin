@@ -1,0 +1,170 @@
+{
+  "wcid": 36798,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 3,
+      "value": 20
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 75
+    },
+    {
+      "key": 93,
+      "value": 2098196
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437237
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.933
+    },
+    {
+      "key": 76,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Thorsten Cragstone"
+    }
+  ],
+  "skills": [
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "Lass, ye've returned! I was worried for ye, but I dinna know how ta enter..."
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "What did he say, lass?"
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "And how d'we do that?"
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "What be that?"
+            },
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 25.0,
+              "msg": "I dinna think we're ready for an open confrontation quite yet...but if it be true, if it be the first step, maybe..."
+            },
+            {
+              "type": 88,
+              "delay": 6.0,
+              "extent": 1.0,
+              "msg": "StopScene2"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:03.345603Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

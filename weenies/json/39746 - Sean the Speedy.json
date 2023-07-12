@@ -1,0 +1,2701 @@
+{
+  "wcid": 39746,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 85
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 75
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 160
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1,
+      "current": 38
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 75
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 180
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 15
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Sean the Speedy"
+    },
+    {
+      "key": 5,
+      "value": "Society Explorer"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 12309,
+      "palette": 14,
+      "shade": 0.7142999768257141,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2590,
+      "palette": 7,
+      "shade": 0.5454999804496765,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2598,
+      "palette": 85,
+      "shade": 0.6071000099182129,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 115,
+      "palette": 6,
+      "shade": 0.5,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1687.4777,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1687.4777,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1687.4777,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 89,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 10001,
+              "msg": "PackSpace"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41254
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersGroups"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You've already found all 100 of my markers. You are truly a Master among Master Explorers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_10x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@1-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_MountainClimber"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@10x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You found your first 10 Exploration Markers! Let's see, I have your reward right here."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_MountainClimber"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@10-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_20x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@MountainClimber"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "ExplorationMarkersThemes"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You found all of the Mountain Climber markers!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 658
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Mountain Climber\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_20x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersMountainClimberFound"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_PartyGoer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@20x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 20 Exploration Markers! You've proven your interest in being a full fledged Explorer, so let's make it official, shall we?"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 653
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Amateur Explorer\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_PartyGoer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@20-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_30x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@PartyGoer"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "ExplorationMarkersThemes"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You found all of the Party-Goer markers!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 662
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Party Goer\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_30x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersPartyGoerFound"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_40x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@30x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 30 Exploration Markers! Let's see, I have your reward right here."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_40x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@30-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_CraterCrasher"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@40x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 40 Exploration Markers! You've gained much experience in exploring Dereth. This will best acknowledge your experience as an Exploere of Dereth!"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 654
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Experienced Explorer\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_CraterCrasher"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@40-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_50x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@CraterCrasher"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "ExplorationMarkersThemes"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You found all of the Crater Crasher markers!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 663
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Crater Crasher\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_50x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersCraterCrasherFound"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_60x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@50x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 50 Exploration Markers! Let's see, I have your reward right here."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_60x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@50-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_Spelunker"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@60x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 32,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 60 Exploration Markers! You've proven quite adept at finding these markers. I believe I have the perfect way to display that skill to your peers."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 655
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Adept Explorer\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_Spelunker"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@60-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_70x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@Spelunker"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "ExplorationMarkersThemes"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You found all of the Spelunker markers!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 661
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Spelunker\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_70x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersSpelunkerFound"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_80x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@70x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 64,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 70 Exploration Markers! Let's see, I have your reward right here."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_80x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@70-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_SkyDiver"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@80x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 128,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 80 Exploration Markers! You've become quite the Master Explorer!  It's time to honor that accomplishment appropriately."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 656
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Master Explorer\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_SkyDiver"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@80-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_90x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@SkyDiver"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "ExplorationMarkersThemes"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You found all of the Sky Diver markers!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 660
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Sky Diver\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_90x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersSkyDiverFound"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_Daredevil"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@90x"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 256,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found 90 Exploration Markers! Let's see, I have your reward right here."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_Daredevil"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@90-100"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_100x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@Daredevil"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 32,
+              "msg": "ExplorationMarkersThemes"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well done! You found all of the Daredevil markers!"
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 659
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Daredevil\"."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_100x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersDaredevilFound"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 512,
+              "msg": "ExplorationMarkersGroups"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Congratulations! You've found all 100 Exploration Markers! This calls for something special.."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41254,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 16,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%tn has proven to be a true Master of Exploration, having found all 100 markers, hidden over, under and around Dereth! Let it be henseforth known that %tn is truly an Elite Explorer!"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 1,
+              "max64": 186837005,
+              "percent": 0.2
+            },
+            {
+              "type": 34,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 657
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have earned the title, \"Elite Explorer\"."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@1-9"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@11-19"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@21-29"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@31-39"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@41-49"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@51-59"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@61-69"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@71-79"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@81-89"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@91-99"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@1-99"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@1-100",
+              "max": 100,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767242
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Hello traveler, my name is Sean, I'm a member of the Explorers Society. I've spent years exploring the wonders of Dereth. There are many interesting corners of Dereth that sadly go unvisited, but that's why I'm here."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "In order to introduce others to the joy of exploration I've placed markers on, above and below Dereth. If you feel the urge to explore you may come across a few of these Exploration Markers like the one next to me here. Come see me when you've found at least 10 of them and I'll reward you."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Go ahead and use this marker. I hope it will be the first of many you find while exploring the majesty of this world."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Over the past several months, I have been hiding more and more markers across this wondrous land. There are now a grand total of 100 markers hidden in the world, some of which are linked by theme. If you find all 100 markers, I may have something special for you."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "FoundSeantheSpeedy"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@1-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@10-100",
+              "max": 100,
+              "min": 10
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@10x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_MountainClimber"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@10-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersMountainClimberFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@MountainClimber"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_20x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersMountainClimberFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@20-100",
+              "max": 100,
+              "min": 20
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@20x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_PartyGoer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@20-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersPartyGoerFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@PartyGoer"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_30x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersPartyGoerFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@30-100",
+              "max": 100,
+              "min": 30
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@30x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_40x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@30-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@40-100",
+              "max": 100,
+              "min": 40
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@40x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_CraterCrasher"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@40-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersCraterCrasherFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@CraterCrasher"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_50x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersCraterCrasherFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@50-100",
+              "max": 100,
+              "min": 50
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@50x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_60x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@50-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@60-100",
+              "max": 100,
+              "min": 60
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@60x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_Spelunker"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@60-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersSpelunkerFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@Spelunker"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_70x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersSpelunkerFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@70-100",
+              "max": 100,
+              "min": 70
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@70x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_80x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@70-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@80-100",
+              "max": 100,
+              "min": 80
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@80x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_SkyDiver"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@80-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersSkyDiverFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@SkyDiver"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_90x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersSkyDiverFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@90-100",
+              "max": 100,
+              "min": 90
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@90x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_Daredevil"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@90-100"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersDaredevilFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersThemes@Daredevil"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_100x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersDaredevilFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersGroups@100x"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Found_CatchAll"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@11-19",
+              "max": 19,
+              "min": 11
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@1-9"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@21-29",
+              "max": 29,
+              "min": 21
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@11-19"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@31-39",
+              "max": 39,
+              "min": 31
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@21-29"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@41-49",
+              "max": 49,
+              "min": 41
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@31-39"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@51-59",
+              "max": 59,
+              "min": 51
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@41-49"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@61-69",
+              "max": 69,
+              "min": 61
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@51-59"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@71-79",
+              "max": 79,
+              "min": 71
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@61-69"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@81-89",
+              "max": 89,
+              "min": 81
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@71-79"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@91-99",
+              "max": 99,
+              "min": 91
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@81-89"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found a total of %tqc out of %tqm Exploration Markers."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ExplorationMarkersFound@91-99"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Got a pack spot free? Very Well."
+            },
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41254,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 39745,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PackSpace"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You need at least 1 pack spot free to trade this token for the backpack."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "PackSpace"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "ExplorationMarkersGroups@10x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_10x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "ExplorationMarkersThemes@MountainClimber"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_MountainClimber"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "ExplorationMarkersGroups@20x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_20x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "ExplorationMarkersThemes@PartyGoer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_PartyGoer"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "ExplorationMarkersGroups@30x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_30x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "ExplorationMarkersGroups@40x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_40x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "ExplorationMarkersThemes@CraterCrasher"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_CraterCrasher"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "ExplorationMarkersGroups@50x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_50x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 32,
+              "msg": "ExplorationMarkersGroups@60x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_60x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "ExplorationMarkersThemes@Spelunker"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_Spelunker"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 64,
+              "msg": "ExplorationMarkersGroups@70x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_70x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 128,
+              "msg": "ExplorationMarkersGroups@80x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_80x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "ExplorationMarkersThemes@SkyDiver"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_SkyDiver"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 256,
+              "msg": "ExplorationMarkersGroups@90x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_90x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 32,
+              "msg": "ExplorationMarkersThemes@Daredevil"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_Daredevil"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 512,
+              "msg": "ExplorationMarkersGroups@100x"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_100x"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let's see what you've found so far.."
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@1-9",
+              "max": 9,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_OddsAndEnds"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let's see what you've found so far.."
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ExplorationMarkersFound@1-99",
+              "max": 99,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Found_CatchAll"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:35.4165511Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,1103 @@
+{
+  "wcid": 28700,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 245
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 234
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 280
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 270
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 325,
+      "current": 325
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300,
+      "current": 300
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 310,
+      "current": 310
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Grand Knight"
+    },
+    {
+      "key": 5,
+      "value": "Protector of Sanamar"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 28629,
+      "palette": 20,
+      "shade": 0.013500000350177288,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28620,
+      "palette": 20,
+      "shade": 0.013500000350177288,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30950,
+      "palette": 20,
+      "shade": 0.013500000350177288,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30951,
+      "palette": 20,
+      "shade": 0.013500000350177288,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Yes, I have had dealings with this man. You say he stole a corpse?"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Well, what people do in their spare time is none of my concern."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 32591
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767238
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A hero? A hero wouldn't let a symbol of honor become so damaged. It almost looks like it was worn down on purpose... Who did you say you took this from?"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Hmmm, this bears further investigation. Thank you."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 73052
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "The Grand Knight looks carefully at the note. A look of rage slowly creeps across his face."
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "You dare to steal from the King?"
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "The Grand Knight places a hand on the hilt of his sword."
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "Be gone, filth. Be gone now."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31231
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.085,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.1,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435539
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435540
+            }
+          ],
+          "probability": 0.2,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "SilyunFlagged@DericostTome"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 28762
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "SilyunFlagged@EleonorasHeart"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 28760
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 34,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount": 55
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "May your loyalty to the glory of Sanamar be apparent to all you meet."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 28761
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "SilyunFlagged@DericostTome"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 28752
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "SanamarFlagged@Quest2Ring"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29493
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 34,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount": 35
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "May your loyalty to the glory of Sanamar be apparent to all you meet."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 30404
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "KnightsOfKarlunComplete@FiunHeart"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 29508
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Your dedication to our King is commendable, and greatly to be praised. I will make it known that you have served us well."
+            },
+            {
+              "type": 34,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount": 68
+            }
+          ],
+          "probability": 1.0,
+          "classID": 30939
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "So, you are the Lieutenant Commander's messenger, are you? You have certainly done her a great service. The King will welcome this information."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Now, if you would truly be of service, get back out there and fight. A land at war is a glorious land indeed!"
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 7500000,
+              "heroxp64": 0
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 31291,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 70005
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "SanamarFlagged@2"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The King may be willing to deal with you rebels, but until I hear from His Majesty directly, I'll have nothing to do with your kind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@DericostTome"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Grand Knight looks carefully at the note. A look of rage slowly creeps across his face."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You dare to steal from the King?"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Grand Knight places a hand on the hilt of his sword."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Be gone, filth. Be gone now."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@EleonorasHeart"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The King may be willing to deal with you rebels, but until I hear from His Majesty directly, I'll have nothing to do with your kind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@DericostTome"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Excellent work. One might grieve for the man Sir Belfelor was, but he was a fool and deserves his fate."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 30404,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KnightsOfKarlunComplete"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "SirCoretto"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SanamarFlagged@Quest2Ring"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Ah, this... heart is the key to the bull's health? Very well. This gives me much to think on. I thank you for your service. You are not the first to bloody your hands in the King's service."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 30939,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 29511,
+                "palette": 0,
+                "shade": 1.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 900000,
+              "heroxp64": 0
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "If you seek to serve the King further, speak with Garmasi."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RedBullComplete"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KnightsOfKarlunComplete@FiunHeart"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "KnightsOfKarlunComplete@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SanamarFlagged@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "RedBullComplete@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KnightsOfKarlunComplete@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "VissFlagComplete@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RedBullComplete@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "I see you have gained access to the isle they call Vissidal. The King has need of capable warriors on that island. Bide your time. Hunt and kill. When more is required of you, you will know."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VissFlagComplete@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The King may be willing to deal with you rebels, but until I hear from His Majesty directly, I'll have nothing to do with your kind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@2"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have done well. Feel free to stay in Sanamar as long as you like."
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 30000,
+              "heroxp64": 0
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28761,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 70,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "SanamarFlagged"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RossuMortaLoyaltyReset"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WhisperingBladeLoyaltyReset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@DericostTome"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have done well. The Duke's rebels are little more than a nuisance to His Majesty, but we welcome your intelligence."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I know they would call it betrayal. But we call it loyalty to the true throne of Dereth."
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 30000,
+              "heroxp64": 0
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28761,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 70,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "SanamarFlagged"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RossuMortaLoyaltyReset"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "WhisperingBladeLoyaltyReset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@EleonorasHeart"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "Ah, Sir Binwas. A finer warrior have I seldom met. He deserves not the humiliation he suffered at the hands of that wench."
+            },
+            {
+              "type": 18,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "Grand Knight grimaces with hatred."
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "Eleonora deserved everything we did to her."
+            },
+            {
+              "type": 62,
+              "delay": 1.0,
+              "extent": 1.0,
+              "amount64": 7500,
+              "heroxp64": 0
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 28853,
+                "palette": 0,
+                "shade": 1.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@DericostTome"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "You cannot fool me. You are working for the rebels. You stink of their dirty little town. This ring is obviously fake!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SanamarFlagged@Quest2Ring"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.25,
+              "extent": 1.0,
+              "msg": "I have no need of this..."
+            },
+            {
+              "type": 3,
+              "delay": 0.75,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 29508,
+                "palette": 0,
+                "shade": 1.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KnightsOfKarlunComplete@FiunHeart"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "You have proven yourself to me. Should you seek to further serve your King, speak with Garmasi. He will know of your loyalty."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VissFlagComplete@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.25,
+              "extent": 1.0,
+              "msg": "Well, it seems you may be worthy of royal service after all. Looking for more work, are you? There is one sensitive mission which you could undertake for us..."
+            },
+            {
+              "type": 10,
+              "delay": 2.5,
+              "extent": 1.0,
+              "msg": "The Red Bull of Sanamar, which you see at the center of town, has been sick for some time. We don't know how to cure it! The only man who might is the bull's old caretaker, a man named Lascare. Well, he left town some time ago. All we know is that he lives off by himself on a lonely hilltop on the island to the northeast. Seek him out, please, and figure out a way to cure the bull!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RedBullComplete@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have served us before, I see. There is another task for you, if you are strong enough for it. The King desires a bauble in the possession of a rogue group of Knights who have left our service. These so-called Knights of Karlun disdain the... physical gifts brought about by the transformation of our own Knights. But they distrust the rebels, too!"
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "The leader of the Knights of Karlun possesses a ring that once belonged to the great Karlun, founder of the nation of Viamont. Do whatever you must to gain their trust and take the ring from their Grand Master, a fallen knight named Sir Belfelor. You will probably have to kill Belfelor. Seek them out at 89.0N, 67.6W"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KnightsOfKarlunComplete@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "SilyunFlagged@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SanamarFlagged@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "You're new to Sanamar, are you not? If you desire to prove your loyalty to the King, I have a task you may find interesting."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The King has been informed of an ancient tome which lies in a ruined underground city. He dispatched a company of knights to the ruins, but they were repelled by the beasts within. The craven dogs spread tales of ghosts and undead before I had them executed for cowardice."
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "I need someone to enter the ruins and retrieve this tome. If you do this for me, I may have more tasks for you in the future. Of course, if you fail or otherwise betray me, then I'll have nothing to do with you ever again."
+            },
+            {
+              "type": 10,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "You can find the ruins near the outpost of Westwatch at 74.2N 74.2W. I expect to hear from you soon."
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1.0,
+              "msg": "But know this - the Grand Mother of Silyun also seeks this tome. Complete this task for me and she will have nothing more to do with you. Though, why you would want to socialize with those damnable rebels is beyond me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SilyunFlagged@2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:05.2496574Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

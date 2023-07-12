@@ -1,0 +1,376 @@
+{
+  "wcid": 45773,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 296
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 217
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437409
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890480
+    },
+    {
+      "key": 10,
+      "value": 83890547
+    },
+    {
+      "key": 11,
+      "value": 83890641
+    },
+    {
+      "key": 15,
+      "value": 67116979
+    },
+    {
+      "key": 16,
+      "value": 67110064
+    },
+    {
+      "key": 17,
+      "value": 67109559
+    }
+  ],
+  "iidStats": [
+    {
+      "key": 16,
+      "value": 1972691014
+    }
+  ],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Apparition of Borelean Strathelar"
+    },
+    {
+      "key": 5,
+      "value": "Prince of New Aluvia"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767250
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "Why can't I find it?"
+            },
+            {
+              "type": 5,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 1073741852
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Borelean pours through book after book, lines of desperation etched deeply into his face."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "A whisper of a female voice echoes through the room, \"Seek the path, my love. You will find the way to me. Do not lose hope.\""
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 318767250
+            },
+            {
+              "type": 5,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 1073741852
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "With all of the powers in this world, there has to be a way to make this work..."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "A whisper of a female voice echoes through the room, \"You will find the path, my love. You will find your way to me.\""
+            },
+            {
+              "type": 5,
+              "delay": 2.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767225
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "Bah! These copies are useless. I must find the Book itself. I *need* the Book of Eibhil itself!"
+            },
+            {
+              "type": 88,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "spawnbook"
+            },
+            {
+              "type": 17,
+              "delay": 4.0,
+              "extent": 1.0,
+              "msg": "A seductive female voice echoes in your mind, \"You have called to me, by despair and blood, and I have come. If you will pay my price and learn my secrets, that which you seek can be returned to you. But, with all your soul, you must desire this above all else, and you must be willing to do all that must be done. The road is long, but all things are achievable.\""
+            },
+            {
+              "type": 11,
+              "delay": 1.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": -0.92388,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.382683
+                }
+              }
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "I could get her back? Bring her back to life?"
+            },
+            {
+              "type": 17,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Borelean looks around the room, fear and hope both showing on his worn features."
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "A seductive female voice echoes in your mind, \"That and more, my love. That and much more.\""
+            },
+            {
+              "type": 15,
+              "delay": 2.0,
+              "extent": 1.0
+            },
+            {
+              "type": 11,
+              "delay": 1.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.707107,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.707107
+                }
+              }
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "deletebook"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "StartScene"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:47.9032225Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

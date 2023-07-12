@@ -1,0 +1,243 @@
+{
+  "wcid": 32542,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 81,
+      "value": 3
+    },
+    {
+      "key": 82,
+      "value": 3
+    },
+    {
+      "key": 86,
+      "value": 100
+    },
+    {
+      "key": 93,
+      "value": 3084
+    },
+    {
+      "key": 111,
+      "value": 49
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556212
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 10.0
+    },
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Viamont Staging Area Portal"
+    },
+    {
+      "key": 16,
+      "value": "This dungeon is quest restricted."
+    },
+    {
+      "key": 37,
+      "value": "ViamontStagingAreaPortal"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viaportalmid1"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viaportalmid2"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "viaportalmid3"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 79.6204,
+            "y": -149.404,
+            "z": 0.005
+          },
+          "angles": {
+            "w": -0.999874,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.015848
+          }
+        },
+        "objcell_id": 5833624
+      }
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 120.0,
+      "frame": {
+        "origin": {
+          "x": 133.072,
+          "y": 133.976,
+          "z": 64.518
+        },
+        "angles": {
+          "w": 0.12811,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.99176
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2678456366,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 32525,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 120.0,
+      "frame": {
+        "origin": {
+          "x": 129.941,
+          "y": 132.081,
+          "z": 64.518
+        },
+        "angles": {
+          "w": -0.66054,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.750791
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2678456366,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 32525,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 120.0,
+      "frame": {
+        "origin": {
+          "x": 133.113,
+          "y": 130.025,
+          "z": 64.518
+        },
+        "angles": {
+          "w": -0.968729,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.248122
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2678456366,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 32525,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:19.6593765Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,307 @@
+{
+  "wcid": 36085,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 90
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 60
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 30
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 60
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 250
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 3,
+      "value": 43
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 117
+    },
+    {
+      "key": 93,
+      "value": 6292508
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994981
+    },
+    {
+      "key": 3,
+      "value": 536870942
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268435645
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.0
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 76,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Lord Haranue Amarand"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 36576,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "I am Haranue Amarand, Lord of the Dericost and seneschal of Chalicmere. My people shall rise again and assume their rightful place as rulers of this land."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AsheronIntro"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "HaranueIntro"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "And your spidery manipulations are no better, you spawn of insects. As are yours, you blaspheming fool 'man of Daralet'."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767236
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DuleInsult"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "HaranueInsult"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "Lord Haranue picks up a chalice that you do not recall seeing before and says, \"We welcome you to our gathering.\" He hands the chalice to Isin Dule."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1073741851
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "DuleDrink"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "HaranueDrink"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 80.0,
+              "msg": "Yes, Lady Aerfalle. Some of you may be familiar with Dame Tolani, one of the great explorers of the Dericost. At one point she conducted a survey of our ancient homeland at Lord Rytheran's request. One thing she unearthed was the skull of a particular little boy - one Avoren Palacost. Unfortunately, of recent years it seems that Dame Tolani has decided to no longer honor the oaths she swore to follow the lords of Dericost. She has secreted the skull in the desert, in an ancient crypt. I do not care what becomes of those who guard that crypt, but the skull could be potentially be used against Ilservian, as my...dear...Lady Aerfalle will explain."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AerfalleFinish"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "HaranueDiscuss"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 8.0,
+              "extent": 1.0,
+              "msg": "Lord Haranue falls, destroyed by the attackers."
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1073741841
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Ambush"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:55.9110097Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

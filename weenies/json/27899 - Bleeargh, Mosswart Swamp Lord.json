@@ -1,0 +1,1464 @@
+{
+  "wcid": 27899,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 230
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250,
+      "current": 350
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 350
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80,
+      "current": 300
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 105,
+            "armor_vs_slash": 29,
+            "armor_vs_pierce": 55,
+            "armor_vs_bludgeon": 55,
+            "armor_vs_cold": 9,
+            "armor_vs_fire": 42,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 74,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 100,
+            "armor_vs_slash": 28,
+            "armor_vs_pierce": 52,
+            "armor_vs_bludgeon": 52,
+            "armor_vs_cold": 9,
+            "armor_vs_fire": 40,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 70,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 100,
+            "armor_vs_slash": 28,
+            "armor_vs_pierce": 52,
+            "armor_vs_bludgeon": 52,
+            "armor_vs_cold": 9,
+            "armor_vs_fire": 40,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 70,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 90,
+            "armor_vs_slash": 25,
+            "armor_vs_pierce": 47,
+            "armor_vs_bludgeon": 47,
+            "armor_vs_cold": 8,
+            "armor_vs_fire": 36,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 63,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 90,
+            "armor_vs_slash": 25,
+            "armor_vs_pierce": 47,
+            "armor_vs_bludgeon": 47,
+            "armor_vs_cold": 8,
+            "armor_vs_fire": 36,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 63,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 4,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 90,
+            "armor_vs_slash": 25,
+            "armor_vs_pierce": 47,
+            "armor_vs_bludgeon": 47,
+            "armor_vs_cold": 8,
+            "armor_vs_fire": 36,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 63,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 90,
+            "armor_vs_slash": 25,
+            "armor_vs_pierce": 47,
+            "armor_vs_bludgeon": 47,
+            "armor_vs_cold": 8,
+            "armor_vs_fire": 36,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 63,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 90,
+            "armor_vs_slash": 25,
+            "armor_vs_pierce": 47,
+            "armor_vs_bludgeon": 47,
+            "armor_vs_cold": 8,
+            "armor_vs_fire": 36,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 63,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 6,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 90,
+            "armor_vs_slash": 25,
+            "armor_vs_pierce": 47,
+            "armor_vs_bludgeon": 47,
+            "armor_vs_cold": 8,
+            "armor_vs_fire": 36,
+            "armor_vs_acid": 3,
+            "armor_vs_electric": 63,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 4
+    },
+    {
+      "key": 3,
+      "value": 17
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 120
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 2
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 101,
+      "value": 131
+    },
+    {
+      "key": 133,
+      "value": 2
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 140,
+      "value": 1
+    },
+    {
+      "key": 146,
+      "value": 2532
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557327
+    },
+    {
+      "key": 2,
+      "value": 150994953
+    },
+    {
+      "key": 3,
+      "value": 536870959
+    },
+    {
+      "key": 4,
+      "value": 805306373
+    },
+    {
+      "key": 6,
+      "value": 67113400
+    },
+    {
+      "key": 7,
+      "value": 268436293
+    },
+    {
+      "key": 8,
+      "value": 100667449
+    },
+    {
+      "key": 22,
+      "value": 872415264
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.4
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 2.0
+    },
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 13,
+      "value": 0.28
+    },
+    {
+      "key": 14,
+      "value": 0.52
+    },
+    {
+      "key": 15,
+      "value": 0.52
+    },
+    {
+      "key": 16,
+      "value": 0.09
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 0.03
+    },
+    {
+      "key": 19,
+      "value": 0.7
+    },
+    {
+      "key": 34,
+      "value": 1.0
+    },
+    {
+      "key": 36,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 54,
+      "value": 2.0
+    },
+    {
+      "key": 64,
+      "value": 0.55
+    },
+    {
+      "key": 65,
+      "value": 0.8
+    },
+    {
+      "key": 66,
+      "value": 0.8
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 0.38
+    },
+    {
+      "key": 69,
+      "value": 0.3
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Bleeargh, Mosswart Swamp Lord"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, no. Bleeargh not need thanking, you help Bleeargh. Me give you big distoboot version of stone. Me thank Ketnan for his help."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 27894
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435539
+            }
+          ],
+          "probability": 0.045,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.095,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.1,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find spear of Kreerg! Kreerg is Mosswart hero. He make first kill in battle against Banderling wanga at real home. He first Mosswart walk through portal come here. He make swamp homes and help Mosswart make nice with gromnie. He killed by Greearghk when floating things come make Greearghk smart. Kreerg spear get broken. But still symbol to Mosswarts."
+            },
+            {
+              "type": 9,
+              "delay": 1.0,
+              "extent": 1.0,
+              "sound": 12
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I meet Isparian who help make spears, he make spear like spear of Kreerg! You have now!"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27907,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MagicItemTraining1"
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Bleeargh lifts his hand and licks his fingers. He smears a symbol on your forehead with a foul smelling paste."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "There, now you need find stone that teach you basic magic to make item strong. No need thank. Have final gift from Bleeargh. Big distoboot thanking stone."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 27904
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find Hand of Vagurat! Vagurat very mean Banderling. Come to mosswart home and kill many in big wanga. Kreerg fight him and cut hand off. Then Kreerg take up hand of Vagurat and beat him with it. Vagurat die."
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 12
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Mosswart win big battle. Hand of Vagurat is symbol of victory and hope for mosswarts. You give me people hope. You need reward. Hand of Vagurat like humie mace. Meet Isparian that makes maces, he give me so I can give you."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27906,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MagicItemTraining2"
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Bleeargh bends down and drops his hand in a pile of nearby gunk. He smears two symbols on your cheeks. The stench of the gunk is overwhelming and stings your eyes."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There, now you need find stone that teach you little better than basic magic to make item strong. No need thank. Have final gift from Bleeargh. Big distoboot thanking stone."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 27901
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find necklace of Leerargh! She mother to many Mosswarts here on humie home."
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 12
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "She very powerful before she dies. She teach magics and help young Mosswarts grow strong. She protect shelter and make many hurt Mosswart well again. Her necklace lost when Burun come and steal homes. Bleeargh thank you! Have necklace like Leerargh necklace."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27895,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MagicItemTraining3"
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Bleerargh wipes under his arms and kneels down scooping up some nearby gunk and foul smelling swamp water. He rubs the coarse grains of sand between his fingers and draws a symbol on each of your cheeks and along the bridge of your nose."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There, now you need find stone that teach good magic to make item strong. No need thank. Have final gift from Bleeargh. Big distoboot thanking stone."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 27902
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find Eye of Drageerg! Drageerg first shaman! He have much power, teach magic through stones first."
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 12
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "He once teacher in fungal catacombs that big bugs keep Mosswarts in. When we escape he fight big bugs and lose one eye. When he die at age of old we keep his other eye to always watch for danger from big bugs. I meet Isparian who makes orb like eye I give you one now."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27898,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MagicItemTraining4"
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Bleeargh reaches into the folds of his loincloth and produces a dark toadstool. He mashes his hands together and then reaches out drawing a symbol on each of your cheeks along the bridge of your nose and on your chin."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There, now you need find stone that teach you much good magic to make item strong. No need thank. Have final gift from Bleeargh. Big distoboot thanking stone."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 27903
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You find Mire Witch Cloth! First Mire Witch to wear this cloth put magic into the cloth."
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 12
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Bleeargh holds the loincloth up."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Mire witches very powerful. First Mosswarts to use the magic of item stronger. They make cloths to wear about waists that house great magic. This the first one. We keep it safe for much time then the dark cousins come and steal it. It no look like Mosswart lost to dark, care about cloth. You saved it! You need gift."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27888,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MagicItemTraining5"
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Bleeargh reaches down to the ground and scoops up some foul smelling mud with his right hand. He spits into the mud and mixes it with his left hand. He reaches out and paints a symbol on each of your cheeks, along the bridge of your nose, on your chin and across your forehead."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There, now you need find stone that teach you big good magic to make item strong. No need thank. Have final gift from Bleeargh. Big distoboot thanking stone."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 27900
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You most powerful Isparian!"
+            },
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 12
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Great Swamp Lord Bleeargh, that me, first make paints as decoration for Mosswart body. Later, with use of bestest magic for make item strong I add magic to paints. Now all powerful Mosswarts wear paints on body. They make good armor for Mosswart people. Bleeargh happy to get paint back. Me make deal with big distobooter Isparian to make many paint. Bleeargh teach you secrets."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27889,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You can no wear armor over paint or it smudge and be useless. You should not wear cloth either. Well, only Mire Witch loincloth maybe. Magic only come when you no where armor so me make sure that no armor be worn with war paint. You can now make wanga like Mosswart!"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MagicItemTraining6"
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Bleeargh pulls a toadstool and a dye seed from the folds of his loincloth. He reaches down and scoops up some foul smelling mud and crushes the mud, seed and toadstool together in his hands. He then spits into the concoction and mashes the wad of nasty gunk onto your face leaving a big mosswart sized hand print there."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There, now you need find stone that teach you bestest magic to make item strong. No need thank. Have final gift from Bleeargh. Big distoboot thanking stone."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27894,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Also get book from humie that follow me around. You have now. Bleeargh no understand silly looking sticks on paper."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 27908,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 27905
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Mid_Level",
+              "max": 9999,
+              "min": 40,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The creature speaks in a broken form of Roulean."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We try make peace. We needs help before we leave and go make war on lost cousins on islands in the south. You help?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Bleeargh looks you over quickly."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You strong Isparian. You fight in the place where Bleeargh from. Swamps in lands of dire fighters. You make big wanga against mosswart enemies. You help, much you can do."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Drudge gathering near humie town outside blackmire swamp near mosswart home of green mire. There we lose Spear of Kreerg to Drudges. You get back easy. Not far from there, in trees, Banderlings try to take back the hand of Vagurat. You get that easy too."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You can help get necklace of Leerargh away from Burun. They steal old mosswart home and take necklace. Necklace most important to Mosswarts. You get easily. Not far from here in puddle swamp to south."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Eye of Drageerg taken by dark clouded mosswarts who flee to islands where new home be. You can get easy for Bleeargh and his kin. You have tougher time getting cloth of first mire witch. It on islands in the south too. You go get for Bleeargh he give good reward."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Or you could help Bleeargh get first paint of his kin. The war paint taken by Burun usurpers. They in western part of swamp near swamp temple. They might take that home too. You help Bleeargh, bring these back he give you big knowledge of make items stronger. You unleash knowledge when you learn."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Mid_Level"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The creature speaks in a broken form of Roulean."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We try make peace. We needs help before we leave and go make war on lost cousins on islands in the south. You help?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Bleeargh looks you over quickly."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You not weak Isparian. You help, there is some you can do."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Drudge gathering near humie town outside blackmire swamp near mosswart home of green mire. There we lose Spear of Kreerg to Drudges. You get back easy. Not far from there, in trees, Banderlings try to take back the hand of Vagurat. You get that easy too."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You can help get necklace of Leerargh away from Burun. They steal old mosswart home and take necklace. Necklace most important to Mosswarts. You get easily. Not far from here in puddle swamp to south."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Eye of Drageerg taken by dark clouded mosswarts who flee to islands where new home be. You can get easy for Bleeargh and his kin. You have tougher time getting cloth of first mire witch. It on islands in the south too. You go get for Bleeargh he give good reward."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level30"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The creature speaks in a broken form of Roulean."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We try make peace. We needs help before we leave and go make war on lost cousins on islands in the south. You help?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Bleeargh looks you over quickly."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You not so strong Isparian. You help, there still some you can do."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Drudge gathering near humie town outside blackmire swamp near mosswart home of green mire. There we lose Spear of Kreerg to Drudges. You get back easy. Not far from there, in trees, Banderlings try to take back the hand of Vagurat. You get that easy too."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You can help get necklace of Leerargh away from Burun. They steal old mosswart home and take necklace. Necklace most important to Mosswarts. You get easily. Not far from here in puddle swamp to south."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level20"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level30",
+              "max": 39,
+              "min": 30,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Mid_Level"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level20",
+              "max": 29,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level30"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The creature speaks in a broken form of Roulean."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We try make peace. We needs help before we leave and go make war on lost cousins on islands in the south. You help?"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Bleeargh looks you over quickly."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "You weak Isparian. But you still help, little you can do."
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1.0,
+              "msg": "Drudge gathering near humie town outside blackmire swamp near mosswart home of green mire. There we lose Spear of Kreerg to Drudges. You get back easy. Not far from there, in trees, Banderlings try to take back the hand of Vagurat. You get that easy too."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level20"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:06:46.55476Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

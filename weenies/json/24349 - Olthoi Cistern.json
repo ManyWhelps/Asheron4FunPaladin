@@ -1,0 +1,223 @@
+{
+  "wcid": 24349,
+  "weenieType": 26,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 81,
+      "value": 4
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 83,
+      "value": 65552
+    },
+    {
+      "key": 93,
+      "value": 16
+    },
+    {
+      "key": 119,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557286
+    },
+    {
+      "key": 2,
+      "value": 150995240
+    },
+    {
+      "key": 8,
+      "value": 100674304
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [
+    {
+      "key": 16,
+      "value": 0
+    }
+  ],
+  "floatStats": [
+    {
+      "key": 11,
+      "value": 120.0
+    },
+    {
+      "key": 39,
+      "value": 1.1
+    },
+    {
+      "key": 41,
+      "value": 0.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Olthoi Cistern"
+    },
+    {
+      "key": 14,
+      "value": "There is an opening in the top of the cistern that you might be able to reach into."
+    },
+    {
+      "key": 17,
+      "value": "Something slimy grips your hand and then quickly releases it."
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 120.0,
+      "frame": {
+        "origin": {
+          "x": -3.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 24270,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 120.0,
+      "frame": {
+        "origin": {
+          "x": 3.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.707107,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.707107
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 10911,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 120.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": -3.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 24271,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 120.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 3.0,
+          "z": 0.0
+        },
+        "angles": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 3,
+      "stackSize": -1,
+      "type": 24272,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:05:34.0432998Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

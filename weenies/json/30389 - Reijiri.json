@@ -1,0 +1,782 @@
+{
+  "wcid": 30389,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 689
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 534
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 724
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 784
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 264
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 458
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5000,
+      "current": 5267
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5000,
+      "current": 5534
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300,
+      "current": 758
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 1,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 190,
+            "armor_vs_slash": 190,
+            "armor_vs_pierce": 158,
+            "armor_vs_bludgeon": 158,
+            "armor_vs_cold": 184,
+            "armor_vs_fire": 158,
+            "armor_vs_acid": 184,
+            "armor_vs_electric": 158,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.4000000059604645,
+            "MRF": 0.10000000149011612,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.4000000059604645,
+            "MRB": 0.10000000149011612,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 180,
+            "armor_vs_slash": 180,
+            "armor_vs_pierce": 149,
+            "armor_vs_bludgeon": 149,
+            "armor_vs_cold": 175,
+            "armor_vs_fire": 149,
+            "armor_vs_acid": 175,
+            "armor_vs_electric": 149,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.5,
+            "MLF": 0.47999998927116394,
+            "LLF": 0.10000000149011612,
+            "HRF": 0.5,
+            "MRF": 0.6000000238418579,
+            "LRF": 0.10000000149011612,
+            "HLB": 0.5,
+            "MLB": 0.47999998927116394,
+            "LLB": 0.10000000149011612,
+            "HRB": 0.5,
+            "MRB": 0.6000000238418579,
+            "LRB": 0.2199999988079071
+          }
+        }
+      },
+      {
+        "key": 21,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 150,
+            "armor_vs_slash": 150,
+            "armor_vs_pierce": 125,
+            "armor_vs_bludgeon": 125,
+            "armor_vs_cold": 146,
+            "armor_vs_fire": 125,
+            "armor_vs_acid": 146,
+            "armor_vs_electric": 125,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.30000001192092896,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.30000001192092896,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.30000001192092896,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2800000011920929
+          }
+        }
+      },
+      {
+        "key": 24,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 160,
+            "armor_vs_slash": 160,
+            "armor_vs_pierce": 133,
+            "armor_vs_bludgeon": 133,
+            "armor_vs_cold": 155,
+            "armor_vs_fire": 133,
+            "armor_vs_acid": 155,
+            "armor_vs_electric": 133,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.05999999865889549,
+            "MLF": 0.2199999988079071,
+            "LLF": 0.30000001192092896,
+            "HRF": 0.10000000149011612,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.30000001192092896,
+            "HLB": 0.05999999865889549,
+            "MLB": 0.2199999988079071,
+            "LLB": 0.30000001192092896,
+            "HRB": 0.10000000149011612,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.2199999988079071
+          }
+        }
+      },
+      {
+        "key": 25,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 150,
+            "armor_vs_slash": 150,
+            "armor_vs_pierce": 125,
+            "armor_vs_bludgeon": 125,
+            "armor_vs_cold": 146,
+            "armor_vs_fire": 125,
+            "armor_vs_acid": 146,
+            "armor_vs_electric": 125,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.30000001192092896,
+            "HRF": 0.0,
+            "MRF": 0.10000000149011612,
+            "LRF": 0.30000001192092896,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.30000001192092896,
+            "HRB": 0.0,
+            "MRB": 0.10000000149011612,
+            "LRB": 0.2800000011920929
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 45
+    },
+    {
+      "key": 3,
+      "value": 77
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 276
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 2
+    },
+    {
+      "key": 67,
+      "value": 64
+    },
+    {
+      "key": 68,
+      "value": 9
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 101,
+      "value": 131
+    },
+    {
+      "key": 133,
+      "value": 2
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 140,
+      "value": 1
+    },
+    {
+      "key": 146,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556774
+    },
+    {
+      "key": 2,
+      "value": 150995286
+    },
+    {
+      "key": 3,
+      "value": 536871010
+    },
+    {
+      "key": 4,
+      "value": 805306410
+    },
+    {
+      "key": 6,
+      "value": 67112937
+    },
+    {
+      "key": 7,
+      "value": 268436039
+    },
+    {
+      "key": 8,
+      "value": 100670961
+    },
+    {
+      "key": 22,
+      "value": 872415365
+    },
+    {
+      "key": 35,
+      "value": 465
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.5
+    },
+    {
+      "key": 4,
+      "value": 3.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 13,
+      "value": 1.0
+    },
+    {
+      "key": 14,
+      "value": 0.83
+    },
+    {
+      "key": 15,
+      "value": 0.83
+    },
+    {
+      "key": 16,
+      "value": 0.97
+    },
+    {
+      "key": 17,
+      "value": 0.83
+    },
+    {
+      "key": 18,
+      "value": 0.97
+    },
+    {
+      "key": 19,
+      "value": 0.83
+    },
+    {
+      "key": 31,
+      "value": 0.0
+    },
+    {
+      "key": 34,
+      "value": 1.0
+    },
+    {
+      "key": 36,
+      "value": 3.0
+    },
+    {
+      "key": 39,
+      "value": 0.3
+    },
+    {
+      "key": 54,
+      "value": 2.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 0.5
+    },
+    {
+      "key": 66,
+      "value": 0.5
+    },
+    {
+      "key": 67,
+      "value": 0.5
+    },
+    {
+      "key": 68,
+      "value": 0.91
+    },
+    {
+      "key": 69,
+      "value": 0.91
+    },
+    {
+      "key": 70,
+      "value": 0.5
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Reijiri"
+    },
+    {
+      "key": 3,
+      "value": "Female"
+    },
+    {
+      "key": 5,
+      "value": "The Littlest Niffis"
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 76,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 44,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 80,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 14,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 55,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 74,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 50,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 43,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 43,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 2254.9446,
+        "init_level": 43,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%mn throws the Wallbound Niffis back in your face. It is clear that she is angry with you for rejecting her gift."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 30401
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.01,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%mn flexes her tentacles."
+            }
+          ],
+          "probability": 0.02,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%mn beats the air rapidly with her wings."
+            }
+          ],
+          "probability": 0.03,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%mn sighs deeply. You get the feeling that beneath her prize-fighting, rough and tumble exterior lies an ocean of despair and longing. You wonder just what could cause such a deep feeling of sadness in one who has accomplished so much. Yet before you can question her, she wipes away a purple tear with one shaking tentacle, cocks her head, and resumes her previous stance of fighter, champion, warrior."
+            }
+          ],
+          "probability": 0.031,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%mn ponders the note for a long moment. She looks you in the eye and your heart breaks at the sadness you glimpse beneath those dark, melancholy orbs. This is a fighter who has abandoned those that love her. And for what? Glory? Acceptance? Approval from those who would use her for naught but entertainment? Or worse, for profit?"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "%mn regards you for a time, then nods her head. You don't quite understand what passes between you, but you think it feels a little something like gratitude. Perhaps you have helped this poor, small Niffis. Perhaps you have pointed out the path - that path which all of us seek - towards contentment."
+            },
+            {
+              "type": 3,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 30401,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 62,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 20000000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "classID": 30396
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "%mn's tentacles quiver, as if itching to lash out. You get the feeling that this is a well-trained and well-disciplined fighter and you know, deep in your heart, that she will not hurt you now. No, she will not. She's saving it for the ring."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:43.0010265Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

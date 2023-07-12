@@ -1,0 +1,276 @@
+{
+  "wcid": 40535,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 29,
+      "value": 1
+    },
+    {
+      "key": 50,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556730
+    },
+    {
+      "key": 2,
+      "value": 150995097
+    },
+    {
+      "key": 3,
+      "value": 536871001
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435859
+    },
+    {
+      "key": 8,
+      "value": 100670283
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 54,
+      "value": 5.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Eldrytch Web Buffing Array"
+    },
+    {
+      "key": 15,
+      "value": "A small Crystal Array, designed to strengthen the defenses of those within the Society of the Eldrytch Web that use it."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KeepBuffingArrayWait"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must wait another %tqt before you can this array again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KeepBuffingArrayWait"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Faction1Bits_2-2",
+              "max": 2,
+              "min": 2,
+              "stat": 281
+            }
+          ],
+          "probability": 1.0,
+          "quest": "KeepBuffingArrayWait"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4290
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4459
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4469
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4467
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4465
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4461
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4463
+            },
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4471
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "KeepBuffingArrayWait"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Faction1Bits_2-2"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must be a member of the Society of Eldrytch Web to use this array."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Faction1Bits_2-2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:43.914916Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

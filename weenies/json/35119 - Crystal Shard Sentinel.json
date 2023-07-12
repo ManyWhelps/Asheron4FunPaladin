@@ -1,0 +1,759 @@
+{
+  "wcid": 35119,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 230
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 350
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 350
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 90,
+      "current": 200
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80,
+      "current": 300
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 500
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 25,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 298,
+            "armor_vs_fire": 25000,
+            "armor_vs_acid": 695,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.5,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.5,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 10,
+        "value": {
+          "dtype": 4,
+          "dval": 25,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 298,
+            "armor_vs_fire": 25000,
+            "armor_vs_acid": 695,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.5,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.5,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 12,
+        "value": {
+          "dtype": 4,
+          "dval": 25,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 298,
+            "armor_vs_fire": 25000,
+            "armor_vs_acid": 695,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.25,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.25,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 13,
+        "value": {
+          "dtype": 4,
+          "dval": 25,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 298,
+            "armor_vs_fire": 25000,
+            "armor_vs_acid": 695,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.30000001192092896,
+            "MLB": 0.4000000059604645,
+            "LLB": 0.5,
+            "HRB": 0.30000001192092896,
+            "MRB": 0.4000000059604645,
+            "LRB": 0.5
+          }
+        }
+      },
+      {
+        "key": 15,
+        "value": {
+          "dtype": 4,
+          "dval": 25,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 298,
+            "armor_vs_fire": 25000,
+            "armor_vs_acid": 695,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.25,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.25
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 4,
+          "dval": 25,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 298,
+            "armor_vs_fire": 25000,
+            "armor_vs_acid": 695,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.30000001192092896,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.25,
+            "HRF": 0.30000001192092896,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.25,
+            "HLB": 0.6000000238418579,
+            "MLB": 0.5,
+            "LLB": 0.25,
+            "HRB": 0.6000000238418579,
+            "MRB": 0.5,
+            "LRB": 0.25
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 4,
+          "dval": 25,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 250,
+            "armor_vs_slash": 250,
+            "armor_vs_pierce": 250,
+            "armor_vs_bludgeon": 250,
+            "armor_vs_cold": 298,
+            "armor_vs_fire": 25000,
+            "armor_vs_acid": 695,
+            "armor_vs_electric": 250,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.10000000149011612,
+            "MLB": 0.10000000149011612,
+            "LLB": 0.0,
+            "HRB": 0.10000000149011612,
+            "MRB": 0.10000000149011612,
+            "LRB": 0.0
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 6,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 50,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 47
+    },
+    {
+      "key": 3,
+      "value": 2
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 160
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 2
+    },
+    {
+      "key": 68,
+      "value": 5
+    },
+    {
+      "key": 69,
+      "value": 4
+    },
+    {
+      "key": 93,
+      "value": 3080
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 146,
+      "value": 500000
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556226
+    },
+    {
+      "key": 2,
+      "value": 150995097
+    },
+    {
+      "key": 3,
+      "value": 536871001
+    },
+    {
+      "key": 4,
+      "value": 805306407
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435859
+    },
+    {
+      "key": 8,
+      "value": 100670395
+    },
+    {
+      "key": 22,
+      "value": 872415348
+    },
+    {
+      "key": 35,
+      "value": 461
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 1.2
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 3.0
+    },
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 13,
+      "value": 1.0
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.0
+    },
+    {
+      "key": 16,
+      "value": 1.19
+    },
+    {
+      "key": 17,
+      "value": 100.0
+    },
+    {
+      "key": 18,
+      "value": 2.78
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 31,
+      "value": 18.0
+    },
+    {
+      "key": 34,
+      "value": 1.0
+    },
+    {
+      "key": 36,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 0.0
+    },
+    {
+      "key": 68,
+      "value": 0.65
+    },
+    {
+      "key": 69,
+      "value": 0.3
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 80,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Crystal Shard Sentinel"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 6056,
+      "palette": 0,
+      "shade": 0.004999999888241291,
+      "destination": 9,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0.9950000047683716,
+      "destination": 9,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 250,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 550,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 200,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 100,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 144,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 350,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 3,
+      "value": [
+        {
+          "category": 3,
+          "emotes": [
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoCritterKilled"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "ColoCritterSpawned"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 2121,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    },
+    {
+      "key": 2129,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    },
+    {
+      "key": 2137,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    },
+    {
+      "key": 2141,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    },
+    {
+      "key": 2717,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    },
+    {
+      "key": 2731,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    },
+    {
+      "key": 2737,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    },
+    {
+      "key": 2745,
+      "value": {
+        "casting_likelihood": 2.125
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:45.6703706Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

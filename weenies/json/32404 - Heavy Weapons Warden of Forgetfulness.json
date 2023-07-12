@@ -1,0 +1,502 @@
+{
+  "wcid": 32404,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 0
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 105
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 133,
+      "value": 1
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 78
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555352
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536871052
+    },
+    {
+      "key": 8,
+      "value": 100667624
+    },
+    {
+      "key": 22,
+      "value": 872415274
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.5
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Heavy Weapons Warden of Forgetfulness"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems1",
+              "max": 2,
+              "min": 0
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.1,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 22345,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems1"
+            },
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "You may receive up to four total Gems of Forgetfulness before you must then wait a week."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgetfulnessGems1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "It has not yet been a week."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Forgetfulness6days"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.1,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 22345,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems2"
+            },
+            {
+              "type": 22,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Forgetfulness6days"
+            },
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "You may receive up to eight total Gems of Forgetfulness before you must then wait two weeks."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgetfulnessGems2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "It has not yet been two weeks."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Forgetfulness13days"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.1,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 22345,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems3"
+            },
+            {
+              "type": 22,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Forgetfulness13days"
+            },
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "You may receive up to sixteen total Gems of Forgetfulness before you must then wait three weeks."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgetfulnessGems3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "It has not yet been three weeks."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Forgetfulness20days"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.1,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 22345,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems4"
+            },
+            {
+              "type": 22,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Forgetfulness20days"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgetfulnessGems4"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Forgetfulness6days"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgetfulnessGems1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems2",
+              "max": 3,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Forgetfulness6days"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Forgetfulness13days"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgetfulnessGems2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems3",
+              "max": 7,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Forgetfulness13days"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "Forgetfulness20days"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "ForgetfulnessGems3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "ForgetfulnessGems4",
+              "max": 9999999,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Forgetfulness20days"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:17.0970876Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

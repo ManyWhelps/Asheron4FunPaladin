@@ -1,0 +1,617 @@
+{
+  "wcid": 22116,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 20,
+      "current": 25
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200,
+      "current": 210
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 100
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 8,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 2000,
+            "armor_vs_pierce": 2000,
+            "armor_vs_bludgeon": 2000,
+            "armor_vs_cold": 2000,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 2000,
+            "armor_vs_electric": 2000,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 2000,
+            "armor_vs_pierce": 2000,
+            "armor_vs_bludgeon": 2000,
+            "armor_vs_cold": 2000,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 2000,
+            "armor_vs_electric": 2000,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4000000059604645,
+            "MLF": 0.4000000059604645,
+            "LLF": 0.4000000059604645,
+            "HRF": 0.4000000059604645,
+            "MRF": 0.4000000059604645,
+            "LRF": 0.4000000059604645,
+            "HLB": 0.4000000059604645,
+            "MLB": 0.4000000059604645,
+            "LLB": 0.4000000059604645,
+            "HRB": 0.4000000059604645,
+            "MRB": 0.4000000059604645,
+            "LRB": 0.4000000059604645
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 20,
+            "armor_vs_slash": 2000,
+            "armor_vs_pierce": 2000,
+            "armor_vs_bludgeon": 2000,
+            "armor_vs_cold": 2000,
+            "armor_vs_fire": 200,
+            "armor_vs_acid": 2000,
+            "armor_vs_electric": 2000,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "key": 21,
+        "value": {
+          "dtype": 64,
+          "dval": 3,
+          "dvar": 0.5,
+          "acache": {
+            "base_armor": 10,
+            "armor_vs_slash": 1000,
+            "armor_vs_pierce": 1000,
+            "armor_vs_bludgeon": 1000,
+            "armor_vs_cold": 1000,
+            "armor_vs_fire": 100,
+            "armor_vs_acid": 1000,
+            "armor_vs_electric": 1000,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.20000000298023224,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.20000000298023224,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.20000000298023224,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.20000000298023224,
+            "HRB": 0.20000000298023224,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.20000000298023224
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 6,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 29,
+      "value": 1
+    },
+    {
+      "key": 50,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 68
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 666
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 1
+    },
+    {
+      "key": 68,
+      "value": 13
+    },
+    {
+      "key": 93,
+      "value": 1036
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 2
+    },
+    {
+      "key": 146,
+      "value": 5000
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558043
+    },
+    {
+      "key": 2,
+      "value": 150995217
+    },
+    {
+      "key": 3,
+      "value": 536870998
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 6,
+      "value": 67114004
+    },
+    {
+      "key": 7,
+      "value": 268436461
+    },
+    {
+      "key": 8,
+      "value": 100671209
+    },
+    {
+      "key": 22,
+      "value": 872415331
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.4
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 200.0
+    },
+    {
+      "key": 13,
+      "value": 100.0
+    },
+    {
+      "key": 14,
+      "value": 100.0
+    },
+    {
+      "key": 15,
+      "value": 100.0
+    },
+    {
+      "key": 16,
+      "value": 100.0
+    },
+    {
+      "key": 17,
+      "value": 10.0
+    },
+    {
+      "key": 18,
+      "value": 100.0
+    },
+    {
+      "key": 19,
+      "value": 100.0
+    },
+    {
+      "key": 31,
+      "value": 25.0
+    },
+    {
+      "key": 34,
+      "value": 1.0
+    },
+    {
+      "key": 36,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 0.0
+    },
+    {
+      "key": 65,
+      "value": 0.0
+    },
+    {
+      "key": 66,
+      "value": 0.0
+    },
+    {
+      "key": 67,
+      "value": 0.5
+    },
+    {
+      "key": 68,
+      "value": 0.0
+    },
+    {
+      "key": 69,
+      "value": 0.0
+    },
+    {
+      "key": 70,
+      "value": 0.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 0.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 80,
+      "value": 5.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Dark Sarcophagus"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1331.7015,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1331.7015,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1331.7015,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1331.7015,
+        "init_level": 400,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 3,
+      "value": [
+        {
+          "category": 3,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "You feel something without voice scream in your mind in utter rage. It chills you to the bone as it fades away."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NULLIFIEDSARCOPHAGUS"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 15,
+      "value": [
+        {
+          "category": 15,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NULLIFIEDSARCOPHAGUS"
+            }
+          ],
+          "probability": 1.0,
+          "minhealth": 0.0,
+          "maxhealth": 1.0
+        }
+      ]
+    },
+    {
+      "key": 20,
+      "value": [
+        {
+          "category": 20,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "The black sarcophagus pulses with a black light."
+            }
+          ],
+          "probability": 0.5
+        }
+      ]
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 221,
+      "value": {
+        "casting_likelihood": 2.0999999046325684
+      }
+    },
+    {
+      "key": 197,
+      "value": {
+        "casting_likelihood": 2.0799999237060547
+      }
+    },
+    {
+      "key": 1240,
+      "value": {
+        "casting_likelihood": 2.1500000953674316
+      }
+    },
+    {
+      "key": 1251,
+      "value": {
+        "casting_likelihood": 2.0799999237060547
+      }
+    },
+    {
+      "key": 1262,
+      "value": {
+        "casting_likelihood": 2.1500000953674316
+      }
+    },
+    {
+      "key": 174,
+      "value": {
+        "casting_likelihood": 2.0999999046325684
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:04:45.2621619Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

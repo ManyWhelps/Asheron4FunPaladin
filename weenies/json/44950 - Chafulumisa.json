@@ -1,0 +1,1962 @@
+{
+  "wcid": 44950,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 65
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 230
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 5,
+      "current": 105
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 51
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 200
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 9
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561110
+    },
+    {
+      "key": 2,
+      "value": 150995463
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.25
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Chafulumisa"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 127,
+      "palette": 18,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 130,
+      "palette": 18,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43048,
+      "palette": 16,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43051,
+      "palette": 2,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43050,
+      "palette": 16,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43052,
+      "palette": 16,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43053,
+      "palette": 2,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43054,
+      "palette": 2,
+      "shade": 0.23639999330043793,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "30MinAttributes"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have 30 minutes to create as many attribute gems as you need."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 46421
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "30MinAttributes"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You'd better hurry up, time is ticking."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have %tqt left to adjust your attributes."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "30MinAttributes"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AttributeReset30Day"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedFreeAttributeReset"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "It is too soon to use such potent magics apon you."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AttributeReset30Day"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_2",
+              "teststring": "Would you like to reset your attributes for 10 MMDs and 100,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@0-1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_3",
+              "teststring": "Would you like to reset your attributes for 20 MMDs and 200,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@2-2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_4",
+              "teststring": "Would you like to reset your attributes for 30 MMDs and 300,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@3-3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_5",
+              "teststring": "Would you like to reset your attributes for 40 MMDs and 400,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@4-4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_6",
+              "teststring": "Would you like to reset your attributes for 50 MMDs and 500,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@5-5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_7",
+              "teststring": "Would you like to reset your attributes for 60 MMDs and 600,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@6-6"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_8",
+              "teststring": "Would you like to reset your attributes for 70 MMDs and 700,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@7-7"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_9",
+              "teststring": "Would you like to reset your attributes for 80 MMDs and 800,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@8-8"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_10",
+              "teststring": "Would you like to reset your attributes for 90 MMDs and 900,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@9-9"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedFreeAttributeReset"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "30MinAttributes"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MaximumLuminance_0-0",
+              "min64": 0,
+              "max64": 0,
+              "stat": 7
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AttributeReset30Day"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo",
+              "teststring": "You only get one free attribute reset per character. Each additional reset costs MMDs and Luminance. Would you like to continue with your free attribute reset?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedFreeAttributeReset"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@0-1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@2-2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@3-3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset5"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@4-4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset6"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@5-5"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset7"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@6-6"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@7-7"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset9"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@8-8"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset10"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "UsedAttributeReset@9-9"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your free attribute reset has already been used, and you must be capable of earning Luminance before you may adjust your attributes again."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MaximumLuminance_0-0"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedFreeAttributeReset"
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_100000-1500000",
+              "min64": 100000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 10,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 100000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_100000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_2",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 20,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_200000-1500000",
+              "min64": 200000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 20,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 200000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_200000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_3",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 30,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_300000-1500000",
+              "min64": 300000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 30,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 300000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_300000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_4",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 40,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_400000-1500000",
+              "min64": 400000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 40,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 400000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_400000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_5",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 50,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_6"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_500000-1500000",
+              "min64": 500000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 50,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 500000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_500000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_6",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 60,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_7"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_600000-1500000",
+              "min64": 600000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_6"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 60,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 600000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_600000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_7",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 70,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_8"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_700000-1500000",
+              "min64": 700000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_7"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 70,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 700000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_700000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_8",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 80,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_9"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_800000-1500000",
+              "min64": 800000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_8"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 80,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 800000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_800000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_9",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 90,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_10"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_900000-1500000",
+              "min64": 900000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_9"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 90,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 900000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_900000-1500000"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-20630_10",
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 100,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_11"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AvailableLuminance_1000000-1500000",
+              "min64": 1000000,
+              "max64": 1500000,
+              "stat": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_10"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 20630,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 100,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 112,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 1000000
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartTimer"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_1000000-1500000"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckUsedAttributeReset1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MaximumLuminance_0-0"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_100000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_200000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_300000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_400000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_5"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_500000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_5"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_6"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_600000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_6"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_7"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_700000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_7"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_8"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_800000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_8"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_9"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_900000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_9"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough Luminance."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "AvailableLuminance_1000000-1500000"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You don't have enough MMDs."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-20630_10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let me know if you change your mind."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "InqYesNo_11"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@0-1",
+              "max": 1,
+              "min": 0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset1"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@2-2",
+              "max": 2,
+              "min": 2
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@3-3",
+              "max": 3,
+              "min": 3
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset3"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@4-4",
+              "max": 4,
+              "min": 4
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset4"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@5-5",
+              "max": 5,
+              "min": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset5"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@6-6",
+              "max": 6,
+              "min": 6
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset6"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@7-7",
+              "max": 7,
+              "min": 7
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset7"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@8-8",
+              "max": 8,
+              "min": 8
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset8"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset@9-9",
+              "max": 9,
+              "min": 9
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset9"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "InqYesNo_11",
+              "teststring": "Would you like to reset your attributes for 100 MMDs and 1,000,000 Luminance?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckUsedAttributeReset10"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "AttributeReset30Day"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "30MinAttributes"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "UsedAttributeReset"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "You have 30 minutes to create as many attribute gems as you need."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "StartTimer"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:37.3575631Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

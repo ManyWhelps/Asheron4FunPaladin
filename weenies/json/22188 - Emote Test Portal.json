@@ -1,0 +1,222 @@
+{
+  "wcid": 22188,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 86,
+      "value": 50
+    },
+    {
+      "key": 93,
+      "value": 3084
+    },
+    {
+      "key": 111,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554867
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Emote Test Portal"
+    },
+    {
+      "key": 33,
+      "value": "EmoteTestSwordQuest"
+    },
+    {
+      "key": 37,
+      "value": "MartineMask"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 4,
+      "value": [
+        {
+          "category": 4,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You successfully portalled!"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I have stamped you with EmoteTestSwordQuest."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Now I will change your lifestone position to be my destination."
+            },
+            {
+              "type": 63,
+              "delay": 0.0,
+              "extent": 1.0,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 167.7,
+                    "y": 129.5,
+                    "z": 6.1
+                  },
+                  "angles": {
+                    "w": -0.636078,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.771625
+                  }
+                },
+                "objcell_id": 3127836726
+              }
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Restrictions:"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "- Must be Level 50 or higher."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "- Must have picked up MaskMartine.wdf."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "======================================"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I am stamping you with EmoteTestPortal wether or not you succeeded in using the portal."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestPortal"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "If you succeeded in portalling, I will also stamp you with EmoteTestSwordQuest."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 167.7,
+            "y": 129.5,
+            "z": 6.1
+          },
+          "angles": {
+            "w": -0.636078,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.771625
+          }
+        },
+        "objcell_id": 3127836726
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:04:46.4660962Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

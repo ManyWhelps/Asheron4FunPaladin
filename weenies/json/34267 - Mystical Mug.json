@@ -1,0 +1,140 @@
+{
+  "wcid": 34267,
+  "weenieType": 64,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 800
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1000
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 151,
+      "value": 9
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560130
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100689277
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Mystical Mug"
+    },
+    {
+      "key": 16,
+      "value": "A huge mug of eternally frothy stout honoring the owner as having beaten Ulgrim in a Drinking Contest."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "MysticalMugFlag"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "An extra sense of stability infuses your being."
+            },
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4025
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MysticalMugFlag"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are unable to use this mug."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "MysticalMugFlag"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:36.0981213Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

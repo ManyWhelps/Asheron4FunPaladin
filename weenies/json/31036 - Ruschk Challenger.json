@@ -1,0 +1,686 @@
+{
+  "wcid": 31036,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 60
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 70
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 130
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 45
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 80
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 140
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 300
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559104
+    },
+    {
+      "key": 2,
+      "value": 150994951
+    },
+    {
+      "key": 3,
+      "value": 536871101
+    },
+    {
+      "key": 6,
+      "value": 67115447
+    },
+    {
+      "key": 8,
+      "value": 100677373
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.15
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Ruschk Challenger"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.085,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.1,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435539
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 268435540
+            }
+          ],
+          "probability": 0.15,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 0.2,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "OnQuest@ReceiveScalp"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31037
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.25,
+              "extent": 1.0,
+              "motion": 318767229
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Ruschk cocks one eyebrow, clearly surprised at your success. He presses his right fist into his left hand and bows to you."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 30000000,
+              "max64": 101021267,
+              "percent": 0.1
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurshChallengerComplete"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OnQuest"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurshScalpCount"
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "classID": 31038
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.1,
+              "extent": 1.0
+            },
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "TurshChallengerComplete"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurshChallengerComplete@%tqt"
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurshChallengerComplete"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Ruschk nods, then sends you out into the wilds."
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OnQuest"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurshScalpCount"
+            },
+            {
+              "type": 30,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "TurshScalpCount",
+              "max": 9999,
+              "min": 5
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OnQuest@ReceiveScalp"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurshDungeonFlag"
+            },
+            {
+              "type": 5,
+              "delay": 0.25,
+              "extent": 1.0,
+              "motion": 318767235
+            },
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "The Ruschk nods approvingly, then spits into his hand. Before you can react, he slaps your cheek, marking you with his saliva."
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TurshScalpCount"
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurshScalpCount"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.1,
+              "extent": 1.0,
+              "msg": "OnQuest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurshChallengerComplete"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.2,
+              "extent": 1.0,
+              "msg": "You feel an icy grip on your heart, as though the Ruschk is reaching inside of your very chest with ethereal hands. The Ruschk opens his mouth; his speech comes out in but a whisper...\"%s\""
+            },
+            {
+              "type": 5,
+              "delay": 0.1,
+              "extent": 1.0,
+              "motion": 318767237
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Ruschk shakes his head, then hands you a scrap of bloody flesh."
+            },
+            {
+              "type": 3,
+              "delay": 0.5,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 31039,
+                "palette": 0,
+                "shade": 1.0,
+                "destination": 1,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OnQuest"
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OnQuest"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 31037,
+                "palette": 0,
+                "shade": 1.0,
+                "destination": 1,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OnQuest@ReceiveScalp"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.25,
+              "extent": 1.0,
+              "motion": 318767235
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Ruschk nods, then sends you out into the wilds once more."
+            },
+            {
+              "type": 11,
+              "delay": 2.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 6.20114,
+                  "y": 179.558,
+                  "z": 275.563
+                },
+                "angles": {
+                  "w": -0.417352,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.908745
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TurshScalpCount"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:07:57.3231507Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

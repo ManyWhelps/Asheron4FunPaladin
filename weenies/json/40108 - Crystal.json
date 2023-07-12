@@ -1,0 +1,211 @@
+{
+  "wcid": 40108,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292508
+    },
+    {
+      "key": 95,
+      "value": 8
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558563
+    },
+    {
+      "key": 2,
+      "value": 150995264
+    },
+    {
+      "key": 3,
+      "value": 536871001
+    },
+    {
+      "key": 8,
+      "value": 100667386
+    },
+    {
+      "key": 22,
+      "value": 872415348
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Crystal"
+    },
+    {
+      "key": 14,
+      "value": "A crystal marking a special location."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CrystallineMarkerStart"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "CrystallineMarkersFound"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CrystallineMarkerStart"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have discovered this marker already."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CrystallineMarkersFound"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have found the 5th Marker!"
+            },
+            {
+              "type": 7,
+              "delay": 0.0,
+              "extent": 1.0,
+              "pscript": 138
+            },
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 16,
+              "msg": "CrystallineMarkersFound"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CrystallineMarkerCounter0109"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CrystallineMarkersFound"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You examine the crystal, but are unsure what to do with it."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CrystallineMarkerStart"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:39.0944877Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

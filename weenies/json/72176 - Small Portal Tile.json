@@ -1,0 +1,144 @@
+{
+  "wcid": 72176,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 24,
+      "value": 1
+    },
+    {
+      "key": 89,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 4096
+    },
+    {
+      "key": 93,
+      "value": 2060
+    },
+    {
+      "key": 111,
+      "value": 49
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557928
+    },
+    {
+      "key": 3,
+      "value": 536871008
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.6
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Small Portal Tile"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 4,
+      "value": [
+        {
+          "category": 4,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have strayed from the path."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 180.0,
+            "y": -203.185,
+            "z": -12.0
+          },
+          "angles": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "objcell_id": 1483997449
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:12:22.8459365Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

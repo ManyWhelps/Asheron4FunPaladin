@@ -1,0 +1,307 @@
+{
+  "wcid": 51855,
+  "weenieType": 2,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 99,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 4,
+      "value": 16384
+    },
+    {
+      "key": 5,
+      "value": 200
+    },
+    {
+      "key": 9,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 28,
+      "value": 440
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 106,
+      "value": 500
+    },
+    {
+      "key": 107,
+      "value": 3000
+    },
+    {
+      "key": 108,
+      "value": 3000
+    },
+    {
+      "key": 109,
+      "value": 240
+    },
+    {
+      "key": 114,
+      "value": 1
+    },
+    {
+      "key": 151,
+      "value": 2
+    },
+    {
+      "key": 158,
+      "value": 7
+    },
+    {
+      "key": 159,
+      "value": 1
+    },
+    {
+      "key": 160,
+      "value": 180
+    },
+    {
+      "key": 265,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561594
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 7,
+      "value": 268437595
+    },
+    {
+      "key": 8,
+      "value": 100693220
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.05
+    },
+    {
+      "key": 12,
+      "value": 0.0
+    },
+    {
+      "key": 13,
+      "value": 1.0
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.0
+    },
+    {
+      "key": 16,
+      "value": 0.8
+    },
+    {
+      "key": 17,
+      "value": 0.8
+    },
+    {
+      "key": 18,
+      "value": 0.6
+    },
+    {
+      "key": 19,
+      "value": 1.2
+    },
+    {
+      "key": 165,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Rynthid Minion of Rage's Mask"
+    },
+    {
+      "key": 15,
+      "value": "A mask crafted from the damaged mask of a Rynthid Minion of Rage."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 10,
+      "value": [
+        {
+          "category": 10,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You reach down and pickup the mask. You nearly drop it when you see two flaming eyes staring from the eyeholes. An instant later they are gone."
+            }
+          ],
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "key": 25,
+      "value": [
+        {
+          "category": 25,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The mask slips onto your face, feeling slick and strangly oily. Tendrils of energy loop into your cheeks and a reddish hue covers your eyes for a brief moment. The world swims as all of your emotions flare into a new level of vibrance and clarity."
+            }
+          ],
+          "probability": 0.25
+        },
+        {
+          "category": 25,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As the mask falls into place you see Rynthid and Virindi... everywhere. The faces melt into nothingness after a few panicked moments."
+            }
+          ],
+          "probability": 0.5
+        },
+        {
+          "category": 25,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As the mask settles into place you are engulfed in a torrent of conflicting emotions. You are driven to your knees by the brief but overwhelming moment."
+            }
+          ],
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "key": 26,
+      "value": [
+        {
+          "category": 26,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As you pull the mask from your head a great wave of sadness and disappointment washes over you."
+            }
+          ],
+          "probability": 0.25
+        },
+        {
+          "category": 26,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "As you reach up to remove the mask, the tendrils of energy it generates try to block your hands. A great wave of anger flows through you as you remove the mask a moment later."
+            }
+          ],
+          "probability": 0.5
+        },
+        {
+          "category": 26,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The mask slips from your skull with a sickeningly slick sound. A wave of pure joy passes through you as the mask falls away."
+            }
+          ],
+          "probability": 0.75
+        }
+      ]
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 4291,
+      "value": {
+        "casting_likelihood": 2.0
+      }
+    },
+    {
+      "key": 6051,
+      "value": {
+        "casting_likelihood": 2.0
+      }
+    },
+    {
+      "key": 6054,
+      "value": {
+        "casting_likelihood": 2.0
+      }
+    },
+    {
+      "key": 4407,
+      "value": {
+        "casting_likelihood": 2.0
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:11:35.6533978Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

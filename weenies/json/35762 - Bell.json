@@ -1,0 +1,321 @@
+{
+  "wcid": 35762,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292508
+    },
+    {
+      "key": 95,
+      "value": 8
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560214
+    },
+    {
+      "key": 2,
+      "value": 150995394
+    },
+    {
+      "key": 3,
+      "value": 536871076
+    },
+    {
+      "key": 8,
+      "value": 100671824
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Bell"
+    },
+    {
+      "key": 16,
+      "value": "Quests originated from this bell are intended for characters of level 120 and above."
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A tendril of violet energy flickers from the gem to the bell. Suddenly, the gem shatters into a fine powder which trickles out of your hand. You think that the bell now might do something different if rung."
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LabPortalGem120"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 35852
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 9,
+              "delay": 0.0,
+              "extent": 1.0,
+              "sound": 1
+            },
+            {
+              "type": 9,
+              "delay": 1.0,
+              "extent": 1.0,
+              "sound": 1
+            },
+            {
+              "type": 9,
+              "delay": 1.0,
+              "extent": 1.0,
+              "sound": 1
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "LabPortalGem120"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Monouga120FPHugeGenEvent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "LabPortalGem120"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Monouga120FPHugeGenEvent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Monouga120HugeGenEvent"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You ring the bell."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "In the distance, shrieks and growls echo through the halls. A purple light glows brightly for a few moments."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "LabPortalGem120"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Monouga120PortalGenEvent"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Monouga120FPHugeGenEvent"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The ringing of the bell has no additional effect."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Monouga120PortalGenEvent"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Monouga120PortalGenEvent"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You ring the bell."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The bell's hollow ring echoes through the corridors and the gantry, and a cold purple glow radiates from below."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Monouga120PortalGenEvent"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Monouga120FPHugeGenEvent"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Monouga120HugeGenEvent"
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You ring the bell."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "In the distance, shrieks and growls echo through the halls. A purple light glows brightly for a few moments."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Monouga120FPHugeGenEvent"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:51.4996094Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

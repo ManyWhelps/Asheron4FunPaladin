@@ -1,0 +1,131 @@
+{
+  "wcid": 44067,
+  "weenieType": 19,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 1
+    },
+    {
+      "key": 34,
+      "value": 1
+    },
+    {
+      "key": 35,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 8,
+      "value": 500
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 28
+    },
+    {
+      "key": 119,
+      "value": 0
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 100
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561239
+    },
+    {
+      "key": 2,
+      "value": 150995473
+    },
+    {
+      "key": 3,
+      "value": 536870946
+    },
+    {
+      "key": 8,
+      "value": 100668183
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 11,
+      "value": 300.0
+    },
+    {
+      "key": 54,
+      "value": 2.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Door"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 117,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SlaveMasterCloseDoor"
+        },
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 116,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "SlaveMasterOpenDoor"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:25.9219098Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

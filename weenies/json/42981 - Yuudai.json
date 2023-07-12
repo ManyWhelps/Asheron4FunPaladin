@@ -1,0 +1,505 @@
+{
+  "wcid": 42981,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 60
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 256
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 316
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 256
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 174
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 0.0
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Yuudai"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 28607,
+      "palette": 4,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6047,
+      "palette": 2,
+      "shade": 0.30000001192092896,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 132,
+      "palette": 4,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QueenElysaInDangerGaveYuudaiBow"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 20.0,
+              "msg": "Ahh you have succeeded!"
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 20.0,
+              "msg": "Mistress will be very pleased with this indeed."
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 20.0,
+              "msg": "Mesalina, inform Her at once about our success here."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "%n examines the bow closely"
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 20.0,
+              "msg": "Something about this bow seems off, not as deadly as I imagined...."
+            },
+            {
+              "type": 72,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 8,
+              "delay": 3.0,
+              "extent": 20.0,
+              "msg": "I will not forget how you betrayed me to The Queen, your day will come..."
+            },
+            {
+              "type": 77,
+              "delay": 1.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "classID": 42988
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 76,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "OwnsItem-88413",
+              "cprof": {
+                "wcid": 88413,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QueenElysaInDangerGaveYuudaiBow"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "QueenElysaInDangerTalkYuudai"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Get lost. I don't care to even have a conversation with a traitor like you."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "QueenElysaInDangerGaveYuudaiBow"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Get lost. I don't care to even have a conversation with a traitor like you."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "QueenElysaInDangerCompleted"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've already told you what you need to do, now get moving before we miss our window."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "QueenElysaInDangerGaveYuudaiBow"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QueenElysaInDangerCompleted"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "QueenElysaInDangerTalkYuudai"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I do not know you, and I do not trust you. Leave this place before I get rid of you myself."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "QueenElysaInDangerCompleted"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QueenElysaInDangerTalkYuudai"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You came with word on the task at hand?"
+            },
+            {
+              "type": 74,
+              "delay": 1.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 88413,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": -1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Ahh, this information is most useful. The target has been located and has little guard."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "We must act quickly. Go find the lady in purple armor in the house just outside of Cragstone."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Her Mistress says this substance I have applied to your weapon will sever her tie to the lifestone as it severs her flesh."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "It sounds like she only has a couple guards with her. Dispatch of her and bring me back her bow as proof of your work."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-88413"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QueenElysaInDangerTalkYuudai"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "OwnsItem-88413"
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 300.0,
+      "frame": {
+        "origin": {
+          "x": 0.0,
+          "y": 5.4,
+          "z": 0.0
+        },
+        "angles": {
+          "w": -0.833943,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.551851
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 88411,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:09.7076232Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

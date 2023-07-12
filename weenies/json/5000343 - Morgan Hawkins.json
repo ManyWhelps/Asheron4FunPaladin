@@ -1,0 +1,894 @@
+{
+  "wcid": 5000343,
+  "weenieType": 12,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 495
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 790
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 10,
+      "current": 700
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 39,
+      "value": 1
+    },
+    {
+      "key": 41,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": 255
+    },
+    {
+      "key": 7,
+      "value": 255
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 666
+    },
+    {
+      "key": 74,
+      "value": 1073741824
+    },
+    {
+      "key": 75,
+      "value": 0
+    },
+    {
+      "key": 76,
+      "value": 100000
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890511
+    },
+    {
+      "key": 10,
+      "value": 83890562
+    },
+    {
+      "key": 11,
+      "value": 83890637
+    },
+    {
+      "key": 15,
+      "value": 67117076
+    },
+    {
+      "key": 16,
+      "value": 67109564
+    },
+    {
+      "key": 17,
+      "value": 67109560
+    },
+    {
+      "key": 57,
+      "value": 20630
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 37,
+      "value": 1.0
+    },
+    {
+      "key": 38,
+      "value": 0.0002
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Morgan Hawkins"
+    },
+    {
+      "key": 5,
+      "value": "Specialty Supplies"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 5893,
+      "palette": 93,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37360,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37361,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37359,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37358,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37357,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37356,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37355,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37354,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37353,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37365,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37364,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37363,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37362,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43379,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 49455,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 45374,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 45373,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 45372,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 45371,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 45370,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43387,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43380,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 41747,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 41746,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 38760,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37373,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37372,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37371,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37370,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37369,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37352,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37351,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37350,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37349,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37348,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37347,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37346,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37345,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37344,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37343,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37342,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37341,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37340,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37336,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37333,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37337,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37332,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37331,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37330,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37329,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37328,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37327,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37326,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37325,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37324,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37323,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37321,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37319,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37318,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37317,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37316,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37315,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37314,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37313,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37312,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37311,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37310,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37309,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37307,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37305,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37304,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37303,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37302,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37301,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 37300,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 29581,
+      "palette": 0,
+      "shade": 0.0,
+      "destination": 4,
+      "stack_size": -1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 2,
+      "value": [
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Bring me more.. more extremities of those you hate. Or love. Nobody is judging."
+            }
+          ],
+          "probability": 0.8,
+          "vendorType": 1
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oh this is perfect for my collection.."
+            }
+          ],
+          "probability": 0.8,
+          "vendorType": 2
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Tasty... I mean... Good material for a great study later."
+            }
+          ],
+          "probability": 0.8,
+          "vendorType": 4
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:13:32.3510213Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

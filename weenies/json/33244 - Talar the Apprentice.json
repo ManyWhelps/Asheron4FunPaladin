@@ -1,0 +1,993 @@
+{
+  "wcid": 33244,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 215
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 215
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 108
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 215
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 290
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Talar the Apprentice"
+    },
+    {
+      "key": 5,
+      "value": "Apprentice Alchemist"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 5852,
+      "palette": 5,
+      "shade": 0.013899999670684338,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "DecanterOfEssencesGiven"
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 15,
+              "msg": "DecanterOfEssencesGiven@Artifice15"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 32730
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "DecanterOfEssencesGiven"
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 15,
+              "msg": "DecanterOfEssencesGiven@Enchantment15"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 32729
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "DecanterOfEssencesGiven"
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 15,
+              "msg": "DecanterOfEssencesGiven@Strife15"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 32732
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 106,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "DecanterOfEssencesGiven"
+            },
+            {
+              "type": 102,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 15,
+              "msg": "DecanterOfEssencesGiven@Verdancy15"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 70988
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "No problem, let's see, I think you've earned this."
+            },
+            {
+              "type": 62,
+              "delay": 2.0,
+              "extent": 1.0,
+              "amount64": 6500000,
+              "heroxp64": 0
+            }
+          ],
+          "probability": 1.0,
+          "classID": 32758
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "TestLevel",
+              "max": 999,
+              "min": 100,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32758,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32968,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Artifice! I can't wait to start testing this. These Essences react differently to various alchemical tests than the pure essence we collect from the Fathomless Chasm."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardFinal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Artifice15"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32758,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32968,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Enchantment! You didn't get any on you I hope. I theorize that this essence could have dangerous effects if it comes in contact with a creature. I'll have to be very careful while I'm testing this."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardFinal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Enchantment15"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32758,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32968,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Strife! War in a bottle eh? I don't know where to begin testing this. I'll have to confer with some of the Arcanum's War Magic specialists."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardFinal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Strife15"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32758,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32968,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Verdancy! It's a good thing this decanter is enchanted or the essence would have eaten right through it and through the floor stones and through the ground beneath. In fact I don't think it would stop until it reached its source."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "RewardFinal"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Verdancy15"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You still need to retrieve a sample of the Essence of Artifice for me."
+            },
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "DecanterOfEssencesGiven@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You still need to retrieve a sample of the Essence of Enchantment for me."
+            },
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "DecanterOfEssencesGiven@4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You still need to retrieve a sample of the Essence of Strife for me."
+            },
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "DecanterOfEssencesGiven@8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You still need to retrieve a sample of the Essence of Verdancy for me."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@8"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Artifice! I can't wait to start testing this. These Essences react differently to various alchemical tests than the pure essence we collect from the Fathomless Chasm."
+            },
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "DecanterOfEssencesGiven@1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Artifice15"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Enchantment! You didn't get any on you I hope. I theorize that this essence could have dangerous effects if it comes in contact with a creature. I'll have to be very careful while I'm testing this."
+            },
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "DecanterOfEssencesGiven@1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Enchantment15"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Strife! War in a bottle eh? I don't know where to begin testing this. I'll have to confer with some of the Arcanum's War Magic specialists."
+            },
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "DecanterOfEssencesGiven@1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Strife15"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Ah, Essence of Verdancy! It's a good thing this decanter is enchanted or the essence would have eaten right through it and through the floor stones and through the ground beneath. In fact I don't think it would stop until it reached its source."
+            },
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "DecanterOfEssencesGiven@1"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@Verdancy15"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 2,
+              "msg": "DecanterOfEssencesGiven@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@1"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 4,
+              "msg": "DecanterOfEssencesGiven@4"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 103,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 8,
+              "msg": "DecanterOfEssencesGiven@8"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "DecanterOfEssencesGiven@4"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The four Essences have sunken into the ground below Old Yanshi. The Menhir rings that once focused and held them have been overpowered by the Harbinger's magic and he now feeds from their power."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Yes, you look skilled enough to help me. I require a sample from each of the four Essences below Old Yanshi."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "All of the Arcanum's attempts at collecting these samples ourselves have failed. Fifteen of our best agents were defeated in a recent attempt on the Essence of Verdancy. Find yourself a group of adventurers at least as powerful as you before you go anywhere near these new Essences."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "First, you need to retrieve four Enchanted Decanters from the Arcanum Research Facility outside of Al-Jalima. You will use these decanters to collect each Essence's essence. The details are in these instructions."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 32750,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Good luck and don't underestimate the power of the Essences. They are raw magic after all."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TestLevel"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No offense, but you aren't powerful enough to help me collect samples of the Essences. Keep improving yourself and I'm sure that you will be able to help me in the future."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "TestLevel"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "DecanterOfEssencesGiven"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Let's see, where did I put those enchanted gloves."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Excellent, more essence samples. These will prove invaluable in my continuing research. Let me mix your reward."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Talar combines a small amount of each essence into a small vial of viscous red oil. He holds the bottle up to the light and watches as the oil clears and prismatic colors can be seen spinning in vial."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Here you go. This oil works on the same principle of elemental energies that the Prismatic Plume uses. Apply this oil to a piece of Greater Amuli Shadow Armor and you should be able to instill it with an impressive amount of elemental protection. If you would prefer a different reward then give me back the Prismatic Oil and I'll see what I can do."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If you wish to apply the Prismatic Oil to one of the other Greater Shadow Armor pieces you should read this report we received from an Arcanum Researcher on Aerlinthe Island. He found a buried structure there which may hold the required intermediary you need to instill the other armor sets with the Prismatic Oil."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "RewardFinal"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:27.2090795Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,289 @@
+{
+  "wcid": 36115,
+  "weenieType": 10,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 2098204
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560381
+    },
+    {
+      "key": 2,
+      "value": 150994984
+    },
+    {
+      "key": 3,
+      "value": 536870930
+    },
+    {
+      "key": 8,
+      "value": 100667943
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Claude the Archmage"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You take the twisted key, which feels amorphous here in this shadowed, shattered place. At first it is not very apparent what to do with the key. You hold it out in front of you, hoping for some reaction."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Claude takes the key from you, and begins to press it into its chest. It sinks slowly in until it has been absorbed fully. Claude then regards you and, for a split second, you think you see its mask turn from a frown to a smile."
+            },
+            {
+              "type": 65,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A key springs from your fellowship member to Claude and disappears into Claude's robe. Suddenly, you find yourself spinning."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CheckArena"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 36065
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Welcome to my shop. My name is Claude. How are you today..."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "A pleasant day, is it not, fellow human? What interests you in my shop..."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Please, enjoy my one hundred and four items for purchase. I cast dispels in exchange for metals or promissory notes. My one hundred and fourth item is a rumor about the Obsidian Plains..."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I will eat your soul! What would you like to purchase from my normal human store, fellow normal human..."
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4156
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest1@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4157
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest2@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4158
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest3@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4159
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest4@3"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest2@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest1@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest3@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest2@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest4@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest3@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 4150
+            }
+          ],
+          "probability": 1.0,
+          "quest": "VisionQuest4@3"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "VisionQuest1@3"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CheckArena"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:08:56.2303821Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

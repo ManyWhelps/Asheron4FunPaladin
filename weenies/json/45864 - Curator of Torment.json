@@ -1,0 +1,268 @@
+{
+  "wcid": 45864,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 400
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 12000,
+      "current": 12250
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 4200,
+      "current": 4700
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 3500,
+      "current": 3900
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 19
+    },
+    {
+      "key": 3,
+      "value": 11
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 375
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 290,
+      "value": 1
+    },
+    {
+      "key": 291,
+      "value": 20
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561227
+    },
+    {
+      "key": 2,
+      "value": 150994984
+    },
+    {
+      "key": 3,
+      "value": 536870930
+    },
+    {
+      "key": 6,
+      "value": 67111346
+    },
+    {
+      "key": 7,
+      "value": 268437423
+    },
+    {
+      "key": 8,
+      "value": 100667943
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Curator of Torment"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 5.0,
+              "extent": 0.0,
+              "msg": "This cannot be! Fleshlings? Here?!?!?"
+            },
+            {
+              "type": 17,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "The room begins to crackle with energy."
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "StartScene2"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 37,
+      "value": [
+        {
+          "category": 37,
+          "emotes": [
+            {
+              "type": 14,
+              "delay": 0.0,
+              "extent": 1.0,
+              "spellid": 5972
+            },
+            {
+              "type": 88,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "PlayDead"
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "There is much that still needs to be done. I have no time to waste on you insignificant little ones."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "This will be a perfect test for my newest toy. Come Dravann, slay the intruders. Leave none alive. This I command!"
+            },
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The Warden softly utters unfamiliar words."
+            },
+            {
+              "type": 88,
+              "delay": 2.0,
+              "extent": 1.0,
+              "msg": "StartScene3"
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "Lesser beings such as your kind do not have the capacity to comprehend our intentions."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "I have more pressing matters that now require my attention with this latest change in direction."
+            },
+            {
+              "type": 8,
+              "delay": 2.0,
+              "extent": 0.0,
+              "msg": "Let your deaths serve as a warning to any that would interfere with the Reaver of Dreams!"
+            },
+            {
+              "type": 77,
+              "delay": 0.0,
+              "extent": 1.0
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CastRing"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:10:48.9658738Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

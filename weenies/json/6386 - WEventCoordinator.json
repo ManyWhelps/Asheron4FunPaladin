@@ -1,0 +1,3857 @@
+{
+  "wcid": 6386,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 70
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 70
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 65
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 60
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 75,
+      "current": 110
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 110,
+      "current": 180
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 55,
+      "current": 105
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0.0,
+            "LLF": 0.0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0.0,
+            "LRF": 0.0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0.0,
+            "LLB": 0.0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0.0,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0.0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0.0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0.0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.0,
+            "HRF": 0.0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.0,
+            "HLB": 0.0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0.0,
+            "HRB": 0.0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0.0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0.0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0.0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0.0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0.0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0.0,
+            "MLF": 0.0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0.0,
+            "MRF": 0.0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0.0,
+            "MLB": 0.0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0.0,
+            "MRB": 0.0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 5
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 154
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5.0
+    },
+    {
+      "key": 2,
+      "value": 0.0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5.0
+    },
+    {
+      "key": 5,
+      "value": 1.0
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    },
+    {
+      "key": 71,
+      "value": 1.0
+    },
+    {
+      "key": 72,
+      "value": 1.0
+    },
+    {
+      "key": 73,
+      "value": 1.0
+    },
+    {
+      "key": 74,
+      "value": 1.0
+    },
+    {
+      "key": 75,
+      "value": 1.0
+    },
+    {
+      "key": 104,
+      "value": 10.0
+    },
+    {
+      "key": 125,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "WEventCoordinator"
+    },
+    {
+      "key": 3,
+      "value": "Female"
+    },
+    {
+      "key": 4,
+      "value": "Aluvian"
+    },
+    {
+      "key": 5,
+      "value": "Groundskeeper"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 130,
+      "palette": 2,
+      "shade": 0.800000011920929,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2604,
+      "palette": 9,
+      "shade": 1.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 132,
+      "palette": 4,
+      "shade": 0.800000011920929,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 477.106,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 477.106,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 477.106,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thanks for the green taper"
+            },
+            {
+              "type": 58,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest@subtest"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 1645
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 365,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "awarding 1000 xp via the AwardXp emote!"
+            },
+            {
+              "type": 2,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount64": 1000,
+              "heroxp64": 0
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Attempting to do UpdateQuestEmote..."
+            },
+            {
+              "type": 20,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EmoteTestNPCQuest"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 365
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "you deserve mace experience! Have 1000 points of it! (If you don't have mace trained, it will be wasted.)"
+            },
+            {
+              "type": 28,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1000,
+              "stat": 5
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "now, to test some more, give me a WaspWingGreen."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 3703
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "you deserve a point of missile defense! Hope you have it trained, or it will be wasted."
+            },
+            {
+              "type": 29,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "stat": 7
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Have you completed the EmoteTestDrudgeKillerQuest twice?"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestDrudgeKillerQuest",
+              "max": 2,
+              "min": 2
+            }
+          ],
+          "probability": 1.0,
+          "classID": 3701
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Now I will see if you have done the EmoteTestSwordQuest three times!"
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest@given_blue_wing",
+              "max": 3,
+              "min": 3
+            }
+          ],
+          "probability": 1.0,
+          "classID": 3699
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "I am removing the EmoteTestDrudgeKillerQuest from your quest table!"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestDrudgeKillerQuest"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "type @quests to make sure it is gone!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Give me a WaspWingMire to continue testing."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 3700
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "I am incrementing your EmoteTestDrudgeKillerQuest by 1."
+            },
+            {
+              "type": 33,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "EmoteTestDrudgeKillerQuest"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "type @quests to verify that this has been done one time."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Give me a WaspWingJungle to continue testing."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 3702
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "I am decrementing your EmoteTestDrudgeKillerQuest by 1."
+            },
+            {
+              "type": 32,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1,
+              "msg": "EmoteTestDrudgeKillerQuest"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "type @quests to verify that this has now been done zero times."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Give me a Heaume to continue testing."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 8426
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Here is a training credit! Wow!"
+            },
+            {
+              "type": 47,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Give me a Helmet to continue testing."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 74
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thanks! Let me see if you are over level 20."
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "level_test",
+              "max": 9999,
+              "min": 20,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0,
+          "classID": 75
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I really hate apples!"
+            },
+            {
+              "type": 48,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 5
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Enjoy that Vitae loser."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Give me a drudge charm and maybe I'll forgive you."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 258
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 318767236
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Dance, fool, dance!"
+            },
+            {
+              "type": 52,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 1124073796
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Now give me a male tusker token (TokenTuskerMale). But look at your deaths (on the burden panel) first."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 23200
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I'm going to make you die 100 deaths."
+            },
+            {
+              "type": 54,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 100,
+              "stat": 43
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have died 100 times more! Ahahahah! (Check your burden panel to see how many times you have died.)"
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Now give me a female tusker token (TokenTuskerFemale)."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 22629
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Didn't like that, huh? Okay, okay, you didn't die 100 more times. (Check your deaths again.)"
+            },
+            {
+              "type": 55,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 100,
+              "stat": 43
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Now give me a tusker slave token (TokenTuskerSlave)."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 22625
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Instead of adding to your deaths, I can just set them. Here, you have died exactly 3 times."
+            },
+            {
+              "type": 53,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 3,
+              "stat": 43
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Now give me a tusker guard token (TokenTuskerGuard)."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 22634
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oooh, pretty! I'll give you something for that!"
+            },
+            {
+              "type": 56,
+              "delay": 0.0,
+              "extent": 1.0,
+              "wealth_rating": 6,
+              "treasure_class": 3,
+              "treasure_type": 2
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There you go! Enjoy your incomparable jewelry."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "*** TESTS COMPLETE ***"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 22627
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Let me see if you are attackable or don't have that quality"
+            },
+            {
+              "type": 35,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "fake_bool",
+              "stat": 19
+            }
+          ],
+          "probability": 1.0,
+          "classID": 77
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I will give you one of 4 somethings."
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "give_something"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 3687
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "do_ymca"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 24847
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "do_ymca"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 24840
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "do_ymca"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 9539
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "loopdeloop"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 24845
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 26,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is some admin spam!"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 1650
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Starting all TEST events, then wait 1 minute for WEventController, please be patient"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartFutureEndFuture"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndFuture"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndPast"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartFuture"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartPast"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndFuture"
+            },
+            {
+              "type": 23,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndPast"
+            },
+            {
+              "type": 10,
+              "delay": 10.0,
+              "extent": 1.0,
+              "msg": "1 minute"
+            },
+            {
+              "type": 5,
+              "delay": 20.0,
+              "extent": 1.0,
+              "motion": 318767239
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "40 seconds"
+            },
+            {
+              "type": 5,
+              "delay": 20.0,
+              "extent": 1.0,
+              "motion": 318767239
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "20 seconds"
+            },
+            {
+              "type": 5,
+              "delay": 20.0,
+              "extent": 1.0,
+              "motion": 318767239
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Starting Event tests, these tests are valid through January 1 2010"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartFutureEndFuture"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 1643
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "prop_xp_test",
+              "max": 0,
+              "min": 0,
+              "stat": 21
+            }
+          ],
+          "probability": 1.0,
+          "classID": 3669
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767235
+            },
+            {
+              "type": 9,
+              "delay": 1.0,
+              "extent": 1.0,
+              "sound": 3
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Give me a parchment to test some more!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "(but check your xp first...)"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(Alternatively, you can jump to the middle of testing by just giving me a WaspWingRed, or jump to the last phase by giving me a Helmet.)"
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CowTest"
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0.0,
+              "extent": 1.0,
+              "motion": 1090519043
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestDrudgeKillerQuest@heartbeat"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(InqQuest-QuestSuccess) TimeQuestTime: %tqt"
+            },
+            {
+              "type": 20,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest@subtest2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@subtest"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(UpdateQuest-QuestSuccess)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@subtest2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 16,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is %n's WorldBroadcast, announcing the UpdateQuestEmote successfully returned!"
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Give me another parchment within... oh... one minute (??), and I should say something different soon!"
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "And while we're at it, lets check if you've completed the EmoteTestSwordQuest..."
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestNPCQuest"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "I see you've completed the EmoteTestSwordQuest!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "(...by picking up a EmoteTestSword!)"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QuestSuccess (shouldn't work) Quest time substitution: %tl"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Give me a WaspWingRed to get some mace experience! (And continue the tests.)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Yes, you have! You have completed the emote-test drudge quest twice!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "to test more, give me a WaspWingBlue."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestDrudgeKillerQuest"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Yes, you have! You have completed the EmoteTestSwordQuest three times!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "to test more, give me a WaspWingGold."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@given_blue_wing"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "(I see you've done it two times. But two is not three.)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@two_times"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "(I see you've done it one time. But one is not three.)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@one_time"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestDrudgeKillerQuest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestDrudgeKillerQuest@heartbeat"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(InqQuest-QuestFailure) TimeQuestTime: %tqt"
+            },
+            {
+              "type": 20,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest@subtest2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@subtest"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(UpdateQuest-QuestFailure)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@subtest2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "This is %n's LocalBroadcast. This is what happens when UpdateQuest successfully returns a QuestFailure!!"
+            },
+            {
+              "type": 8,
+              "delay": 1.0,
+              "extent": 0.0,
+              "msg": "And while we're at it, lets check if you've completed the EmoteTestSwordQuest..."
+            },
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestNPCQuest"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "I see you have not completed the EmoteTestSwordQuest!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "(try picking up a EmoteTestSword!)"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "QuestFailure Quest time substitution: %tl"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "No, you haven't killed the emote-test drudge enough. You lamer!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Type \"@Create EmoteTestDrudge\". Kill the drudge. Do this again. Then come back and give me another green wing."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestDrudgeKillerQuest"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "No, you haven't completed the EmoteTestSwordQuest THREE times... You lamer!"
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Pick up EmoteTestSword's until you have three of them. Give me a blue wasp wing after you pick each one up, and I'll comment differently depending on how many times you've completed the quest."
+            },
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest@two_times",
+              "max": 2,
+              "min": 2
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@given_blue_wing"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest@one_time",
+              "max": 1,
+              "min": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@two_times"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "(You've never done it before at all. Zero is not three.)"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@one_time"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "20 or over! Now let me see if you are attackable."
+            },
+            {
+              "type": 35,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "attackable_test",
+              "stat": 19
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are attackable! Is your name Eric?"
+            },
+            {
+              "type": 38,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "name_test",
+              "stat": 1,
+              "teststring": "Eric"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "attackable_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are attackable! Is your name Eric?"
+            },
+            {
+              "type": 38,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "name_test",
+              "stat": 1,
+              "teststring": "Eric"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "pk_test2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are named Eric!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Have you screwed with your acid resistance?"
+            },
+            {
+              "type": 37,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "acidresist_test",
+              "fmax": 1.1,
+              "fmin": 0.9,
+              "stat": 69
+            }
+          ],
+          "probability": 1.0,
+          "quest": "name_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Looks like your RESIST_ACID float is about normal."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Is your strength over 100?"
+            },
+            {
+              "type": 39,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "strength_test",
+              "max": 999,
+              "min": 100,
+              "stat": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "acidresist_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your strength is indeed impressive!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Now what about your max mana? Have you explicitly bought 50 points of mana? This won't count the mana gained from Self."
+            },
+            {
+              "type": 41,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "maxmana_test",
+              "max": 999,
+              "min": 50,
+              "stat": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "strength_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You have purchased 50 or more points of mana! Very nice!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "But is your sword skill is over 100?"
+            },
+            {
+              "type": 43,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "swordskill_test",
+              "max": 999,
+              "min": 100,
+              "stat": 11
+            }
+          ],
+          "probability": 1.0,
+          "quest": "maxmana_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "your sword skill is decent! Good!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "More importantly, do you have mace trained?"
+            },
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "macetrained_Test",
+              "stat": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "swordskill_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Trained, it is! But to be a true warrior you need missile defense specialized."
+            },
+            {
+              "type": 46,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "missiledspec_test",
+              "stat": 7
+            }
+          ],
+          "probability": 1.0,
+          "quest": "macetrained_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Yes, well, that's something. Missile defense is specialized."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Now, let's see if your unbuffed Coordination is over 100."
+            },
+            {
+              "type": 40,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "coord_test",
+              "max": 999,
+              "min": 100,
+              "stat": 4
+            }
+          ],
+          "probability": 1.0,
+          "quest": "missiledspec_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "coord >= 100."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "How about your raw health, disregarding health gained from endurance?"
+            },
+            {
+              "type": 42,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "rawmaxhealth_test",
+              "max": 80,
+              "min": 0,
+              "stat": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "coord_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "raw max health is low -- less than 80."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "is your *unbuffed* crossbow skill over 100?"
+            },
+            {
+              "type": 44,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "rawxbow_test",
+              "max": 999,
+              "min": 100,
+              "stat": 3
+            }
+          ],
+          "probability": 1.0,
+          "quest": "rawmaxhealth_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "raw xbow is 100+! Damn!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good thing you didn't give me any apples, I hate those."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "rawxbow_test"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test Failure @ TestSuccess fake_bool"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "fake_bool"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "start_xp_test"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "prop_xp_test"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Under 20! Now let me see if you are a attackable."
+            },
+            {
+              "type": 35,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "attackable_test",
+              "stat": 19
+            }
+          ],
+          "probability": 1.0,
+          "quest": "level_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are not attackable! Is your name Eric?"
+            },
+            {
+              "type": 38,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "name_test",
+              "stat": 1,
+              "teststring": "Eric"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "attackable_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are not attackable! Is your name Eric?"
+            },
+            {
+              "type": 38,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "name_test",
+              "stat": 1,
+              "teststring": "Eric"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "pk_test2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are not named Eric! (You can change your name in the admin UI for testing purposes.)"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Have you screwed with your acid resistance?"
+            },
+            {
+              "type": 37,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "acidresist_test",
+              "fmax": 1.1,
+              "fmin": 0.9,
+              "stat": 69
+            }
+          ],
+          "probability": 1.0,
+          "quest": "name_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Hmm, you are a cheater! Your RESIST_ACID is abnormal!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Is your strength over 100?"
+            },
+            {
+              "type": 39,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "strength_test",
+              "max": 999,
+              "min": 100,
+              "stat": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "acidresist_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your strength is pitifully low. Less than 100!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Now what about your max mana? Have you explicitly bought 50 points of mana? This won't count the mana gained from Self."
+            },
+            {
+              "type": 41,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "maxmana_test",
+              "max": 999,
+              "min": 50,
+              "stat": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "strength_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I see you suck as a mage. You've bought less than 50 mana!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "But is your sword skill is over 100?"
+            },
+            {
+              "type": 43,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "swordskill_test",
+              "max": 999,
+              "min": 100,
+              "stat": 11
+            }
+          ],
+          "probability": 1.0,
+          "quest": "maxmana_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Your sword skill is less than 100."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "More importantly, do you have mace trained?"
+            },
+            {
+              "type": 45,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "macetrained_Test",
+              "stat": 5
+            }
+          ],
+          "probability": 1.0,
+          "quest": "swordskill_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You don't have maced trained! You suck! Do you have missile defense specialized?"
+            },
+            {
+              "type": 46,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "missiledspec_test",
+              "stat": 7
+            }
+          ],
+          "probability": 1.0,
+          "quest": "macetrained_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "No, you don't have missile defense specialized. What a loser!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Now, let's see if your unbuffed Coordination is over 100."
+            },
+            {
+              "type": 40,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "coord_test",
+              "max": 999,
+              "min": 100,
+              "stat": 4
+            }
+          ],
+          "probability": 1.0,
+          "quest": "missiledspec_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "coord < 100."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "How about your raw health, disregarding health gained from endurance?"
+            },
+            {
+              "type": 42,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "rawmaxhealth_test",
+              "max": 80,
+              "min": 0,
+              "stat": 1
+            }
+          ],
+          "probability": 1.0,
+          "quest": "coord_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "raw max health is high -- 80 or more! Very impressive."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "is your *unbuffed* crossbow skill over 100?"
+            },
+            {
+              "type": 44,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "rawxbow_test",
+              "max": 999,
+              "min": 100,
+              "stat": 3
+            }
+          ],
+          "probability": 1.0,
+          "quest": "rawmaxhealth_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "raw xbow is less than 100."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Good thing you didn't give me any apples, I hate those."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "rawxbow_test"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test Failure @  TestFailure fake_bool"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "fake_bool"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You must not have any experience to start this test, please create a new character."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 3669,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "prop_xp_test"
+        }
+      ]
+    },
+    {
+      "key": 27,
+      "value": [
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The cow test is running! The cow test is running! Now I will test again."
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CowTest@next"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CowTest"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The cow test is *still* running! Of course."
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "I think I'll just wander off a bit ..."
+            },
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 40.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.707107,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.707107
+                }
+              }
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Resetting my home position ..."
+            },
+            {
+              "type": 57,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Moving home!"
+            },
+            {
+              "type": 4,
+              "delay": 5.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CowTest@next"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: OK @ NormalStartFutureEndFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndFuture"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartFutureEndFuture"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: OK @ NormalStartPastEndFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndPast"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndFuture"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: FAILURE! @ NormalStartPastEndPast"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartFuture"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndPast"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: OK @ StartOnlyStartFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartPast"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartFuture"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: OK @ StartOnlyStartPast"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndFuture"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartPast"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: OK @ EndOnlyEndFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndPast"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndFuture"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: FAILURE! @ EndOnlyEndPast"
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "turnEventsOff"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndPast"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: FAILURE @ NormalStartFutureEndFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndFuture@turnedOff"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartFutureEndFuture@off"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: OK @ NormalStartPastEndFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndPast@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndFuture@off"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: FAILURE! @ NormalStartPastEndPast@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartFuture@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndPast@off"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: FAILURE @ StartOnlyStartFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartPast@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartFuture@off"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: OK @ StartOnlyStartPast@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndFuture@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartPast@off"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: FAILURE @ EndOnlyEndFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndPast@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndFuture@off"
+        },
+        {
+          "category": 27,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventSuccess) Event status: FAILURE! @ EndOnlyEndPast@off"
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "doneWithTests"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndPast@off"
+        }
+      ]
+    },
+    {
+      "key": 28,
+      "value": [
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The cow test is not running. How sad."
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "CowTest@next"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CowTest"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The cow test is not running. Damnit! I'm leaving!"
+            },
+            {
+              "type": 6,
+              "delay": 0.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 40.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 0.707107,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": -0.707107
+                }
+              }
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Resetting my home position ..."
+            },
+            {
+              "type": 57,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Moving home!"
+            },
+            {
+              "type": 4,
+              "delay": 5.0,
+              "extent": 1.0,
+              "frame": {
+                "origin": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "angles": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "CowTest@next"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: FAILURE @ NormalStartFutureEndFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndFuture"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartFutureEndFuture"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: FAILURE! @ NormalStartPastEndFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndPast"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndFuture"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: OK @ NormalStartPastEndPast"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartFuture"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndPast"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: FAILURE @ StartOnlyStartFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartPast"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartFuture"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: FAILURE! @ StartOnlyStartPast"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndFuture"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartPast"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: FAILURE @ EndOnlyEndFuture"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndPast"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndFuture"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: OK @ EndOnlyEndPast"
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "turnEventsOff"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndPast"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: OK @ NormalStartFutureEndFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndFuture@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartFutureEndFuture@off"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: FAILURE! @ NormalStartPastEndFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndPast@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndFuture@off"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: OK @ NormalStartPastEndPast@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartFuture@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTNormalStartPastEndPast@off"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: OK @ StartOnlyStartFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartPast@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartFuture@off"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: FAILURE! @ StartOnlyStartPast@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndFuture@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTStartOnlyStartPast@off"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: OK @ EndOnlyEndFuture@off"
+            },
+            {
+              "type": 51,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndPast@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndFuture@off"
+        },
+        {
+          "category": 28,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "(EventFailure) Event status: OK @ EndOnlyEndPast@off"
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "doneWithTests"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EventTESTEndOnlyEndPast@off"
+        }
+      ]
+    },
+    {
+      "key": 29,
+      "value": [
+        {
+          "category": 29,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "you don't have the attackable boolean set! (This is correct)"
+            },
+            {
+              "type": 35,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "pk_test2",
+              "stat": 19
+            }
+          ],
+          "probability": 1.0,
+          "quest": "attackable_test"
+        },
+        {
+          "category": 29,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Test Successful @ TestNoQuality fake_bool"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "fake_bool"
+        },
+        {
+          "category": 29,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "start_xp_test"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "prop_xp_test"
+        }
+      ]
+    },
+    {
+      "key": 30,
+      "value": [
+        {
+          "category": 30,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EmoteTestSwordQuest@subtest"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "EmoteTestSwordQuest@subtest"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Have a Reapper Reedshark Hide"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 24847,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.25,
+          "quest": "give_something"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Have a Peerless Drudge Charm"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 24840,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.5,
+          "quest": "give_something"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Have a Green Eep"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 9539,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 0.75,
+          "quest": "give_something"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0.0,
+              "extent": 0.0,
+              "msg": "Have a Merciless Monouga Idol (Danger, returning to NPC will produce infinite loop)"
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 24845,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "give_something"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 301990043
+            },
+            {
+              "type": 67,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "give_something"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "do_ymca"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 318767239
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "loopdeloop2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "loopdeloop"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 1.0,
+              "extent": 1.0,
+              "motion": 301990043
+            },
+            {
+              "type": 67,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "loopdeloop"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "loopdeloop2"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Stopping all TEST events - then waiting 1 minute, please be patient"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartFutureEndFuture"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndFuture"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartPastEndPast"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartFuture"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTStartOnlyStartPast"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndFuture"
+            },
+            {
+              "type": 24,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTEndOnlyEndPast"
+            },
+            {
+              "type": 10,
+              "delay": 10.0,
+              "extent": 1.0,
+              "msg": "1 minute"
+            },
+            {
+              "type": 5,
+              "delay": 20.0,
+              "extent": 1.0,
+              "motion": 318767239
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "40 seconds"
+            },
+            {
+              "type": 5,
+              "delay": 20.0,
+              "extent": 1.0,
+              "motion": 318767239
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "20 seconds"
+            },
+            {
+              "type": 5,
+              "delay": 20.0,
+              "extent": 1.0,
+              "motion": 318767239
+            },
+            {
+              "type": 51,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "EventTESTNormalStartFutureEndFuture@off"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "turnEventsOff"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Done with Event Tests"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "doneWithTests"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 1,000 XP (AwardLevelProportionalXP 1.0 0 0)"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 0,
+              "percent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 500 XP (AwardLevelProportionalXP 1.0 0 500)"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 500,
+              "percent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 5,000 XP (AwardLevelProportionalXP 1.0 5000 0)"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 5000,
+              "max64": 0,
+              "percent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 10,000 XP (AwardLevelProportionalXP 1.0 10000 100001)"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 10000,
+              "max64": 100001,
+              "percent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 10 XP (AwardLevelProportionalXP 1.0 5 10)"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 5,
+              "max64": 10,
+              "percent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 6,783 XP (AwardLevelProportionalXP 1.0 0 0)"
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 0,
+              "percent": 1.0
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 178 XP into your Loyalty skill (AwardLevelProportionalSkillXP LOYALTY 1.0 0 0)"
+            },
+            {
+              "type": 50,
+              "delay": 0.0,
+              "extent": 1.0,
+              "percent": 1.0,
+              "max": 0,
+              "min": 0,
+              "stat": 36
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 200 XP into your Loyalty skill (AwardLevelProportionalSkillXP LOYALTY 0.01 200 0)"
+            },
+            {
+              "type": 50,
+              "delay": 0.0,
+              "extent": 1.0,
+              "percent": 0.01,
+              "max": 0,
+              "min": 200,
+              "stat": 36
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 4 XP into your Loyalty skill (AwardLevelProportionalSkillXP LOYALTY 1.0 0 4)"
+            },
+            {
+              "type": 50,
+              "delay": 0.0,
+              "extent": 1.0,
+              "percent": 1.0,
+              "max": 4,
+              "min": 0,
+              "stat": 36
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 230 XP into your Loyalty skill (AwardLevelProportionalSkillXP LOYALTY 1.0 100 300)"
+            },
+            {
+              "type": 50,
+              "delay": 0.0,
+              "extent": 1.0,
+              "percent": 1.0,
+              "max": 300,
+              "min": 100,
+              "stat": 36
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 771 XP into your Loyalty skill (AwardLevelProportionalSkillXP LOYALTY 3.0 10 1000)"
+            },
+            {
+              "type": 50,
+              "delay": 0.0,
+              "extent": 1.0,
+              "percent": 3.0,
+              "max": 1000,
+              "min": 10,
+              "stat": 36
+            },
+            {
+              "type": 10,
+              "delay": 5.0,
+              "extent": 1.0,
+              "msg": "-------------------------------"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You will receive a large chunk of XP into your loyalty skill so that I can check that the hard-coded cap has been removed from code."
+            },
+            {
+              "type": 28,
+              "delay": 0.0,
+              "extent": 1.0,
+              "amount": 1000000000,
+              "stat": 36
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should recieve 78,410,305 XP into your Loyalty skill (AwardLevelProportionalSkillXP LOYALTY 1.0 0 0)"
+            },
+            {
+              "type": 50,
+              "delay": 0.0,
+              "extent": 1.0,
+              "percent": 1.0,
+              "max": 0,
+              "min": 0,
+              "stat": 36
+            }
+          ],
+          "probability": 1.0,
+          "quest": "start_xp_test"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T21:59:28.4179695Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

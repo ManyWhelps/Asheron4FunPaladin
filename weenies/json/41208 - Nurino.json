@@ -1,0 +1,865 @@
+{
+  "wcid": 41208,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 190
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 220
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 195
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 180
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 306
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 416
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 486
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 180
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Nurino"
+    },
+    {
+      "key": 5,
+      "value": "Arcanum Researcher"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 5854,
+      "palette": 5,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2630,
+      "palette": 88,
+      "shade": 0.0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart3Done@2"
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72965
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you, but I can read the original. That's for your collection, and for posterity."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72966
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart1Done"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart1Start"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart2Start"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fascinating!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "These appear to be exceptionally advanced when compared even to the most intricate Empyrean Golems. I've never seen anything like this."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Nurino sets the large gear aside and examines the head very carefully."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "There seems to be a great deal of interlocked parts in this head..."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "What's this? Some sort of socket? Hmmm..."
+            },
+            {
+              "type": 18,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Nurino pulls out a book, flipping quickly through the pages and comparing diagrams to the socket in the head."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "It just might work..."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "In my studies, I've heard of a gem that should fit in this socket. The last known owner of this gem was the undead, Rytheran. As, last I heard, he was having problems in the Direlands, why don't you go, um, explore for this gem in his Library. if you happen to find this strange gem, and happen to accidently pocket it and return to me, we can see if I can make this golem function."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You should begin your search for the Mana Gem in Rytheran's Library. It's the only place where I've heard reports of a gem that matches the general dimensions of the socket I found in the head of this golem-like contraption."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41207
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart2Done"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart2Start"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart3Start"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Beautiful! It looks like it'll fit!\""
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Nurino flips the head over in his hand, working the gem into the socket with the other."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Now, we'll see if this works...\""
+            },
+            {
+              "type": 72,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "With a whirring click, the head begins to generate small internal lights and a crackling sound."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head yells, \"Have at thee!\""
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head yells, \"This is one Gear Knight you won't defeat so easily!\""
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head says, \"Oh, where am I?\""
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head begins to spit out sparks."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head says, \"Initiating diagnostic scan... Massive internal and external damage. Missing 95% of systems. Status: Critical.\""
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head says, \"Well, this is unfortunate...\""
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head spits out a gout of sparks and smoke."
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head says, \"Seek the *crack* book! Lyceum... Knorr... Tome. Directions... for *fizzle* Healing... Us.\""
+            },
+            {
+              "type": 18,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "The Gear Knight Head says, \"Aetherium Core Failure. Shutting down...\""
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "Oh my..."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "This seems to be a lot more than a Golem."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If I could garner your assistance once again, I was wondering if you could go retrieve this tome the Gear Knight head mentioned. If it still exists, it could be the key to bringing this being back."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If this book is a guide for these beings, these Gear Knights, then it was likely a highly valued tome. Things of such an occult nature were usually stored, as I've been told by other adventurers who've been there, in the deeper sections of the Lyceum."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "If you could find your way into the Lyceum of Knorr, and find this occult tome, we may be able to unravel this mystery once and for all."
+            },
+            {
+              "type": 10,
+              "delay": 1.0,
+              "extent": 1.0,
+              "msg": "I'll be here if you need me, seeing what I can make of these parts..."
+            }
+          ],
+          "probability": 1.0,
+          "classID": 72964
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Very well, I can always use this for my research. I can reward you thusly instead."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 49539309,
+              "percent": 0.05
+            }
+          ],
+          "probability": 1.0,
+          "classID": 41204
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0.0,
+              "extent": 1.0
+            },
+            {
+              "type": 36,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Level_130-999",
+              "max": 999,
+              "min": 130,
+              "stat": 25
+            }
+          ],
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you again for your assistance. In all my researches, I never expected to find an entire sentient race of golem-like creatures. I could spend my entire life researching and studying these Gear Knights!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart3Done"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Have you found the tome mentioned by the head?"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Before it... fizzled, the head noted the existence of a book in the Lyceum of Knorr. I leave it up to you to find your way to Knorr and retrieve this occult tome."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Look in the deeper sections. The more valued an item was in the Lyceum, the deeper in it was placed."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart2Done"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Were you able to retrieve the gem from Rytheran's Library?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart1Done"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Thank you again for your assistance. In all my researches, I never expected to find an entire sentient race of golem-like creatures. I could spend my entire life researching and studying these Gear Knights!"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart3Done@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart1Done@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart2Done@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72965,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart3Done"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart3Start"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart1Done"
+            },
+            {
+              "type": 31,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart2Done"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Fascinating. Of course, it's written in Empyrean, and in the rather esoteric hand of a true scholar of mysteries. Let me take that and see if I can translate it for us both."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "This is amazing! The whole first section of this book appears to be a documentary of the Empyrean exploration of the Gear Knight world, as well as their interaction with the Gear Knights, up through the Olthoi Invasion and the collapse of the Portal Network!"
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "I've never seen such a detailed study of a race of beings before. The whole second half of this book is filled with diagrams and notes on how these Gear Knights work. I don't even know where to begin..."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Oh, sorry. I almost forgot you there for a minute. Please, let me give you this copy of the history. I'm afraid these diagrams defy simple translation."
+            },
+            {
+              "type": 49,
+              "delay": 0.0,
+              "extent": 1.0,
+              "min64": 0,
+              "max64": 297235856,
+              "percent": 0.3
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 72966,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Also, I was able to fashion this large gear into something you may find useful."
+            },
+            {
+              "type": 3,
+              "delay": 0.0,
+              "extent": 1.0,
+              "cprof": {
+                "wcid": 41204,
+                "palette": 0,
+                "shade": 0.0,
+                "destination": 0,
+                "stack_size": 1,
+                "try_to_bond": 0
+              }
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart1Done@2"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart2Done"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart3Done"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart1Done"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart2Done"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Greetings."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "My name is Nurino. I am a researcher for the Arcanum who specializes in ancient constructs. I've recently heard both rumors and reports of some strange parts being seen that could be a portion of some ancient form of Golem. I would be very interested in piecing together the truth of these rumors, and if they are true, piecing together this Golem itself."
+            },
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "The majority of the reports have come from adventurers who were dealing with some problem with thugs. I sent a scout to look in the areas reported, but the pieces seem to have been moved. Perhaps the pieces can be found wherever these thugs have gone?"
+            },
+            {
+              "type": 22,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart1Start"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart1Done"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart2Done@2"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart3Done@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Were you able to retrieve the pieces from the Thug Hideout?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart1Done@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "Were you able to retrieve the gem from Rytheran's Library?"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "NurinoPart2Done@2"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "NurinoPart3Done"
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_130-999"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.0,
+              "extent": 1.0,
+              "msg": "You are not powerful enough to aid me, adventurer."
+            }
+          ],
+          "probability": 1.0,
+          "quest": "Level_130-999"
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 180.0,
+      "frame": {
+        "origin": {
+          "x": 32.2823,
+          "y": 75.5707,
+          "z": 20.658
+        },
+        "angles": {
+          "w": 0.382684,
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.92388
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 2471165964,
+      "probability": -1.0,
+      "ptid": 0,
+      "shade": 0.0,
+      "slot": 0,
+      "stackSize": 0,
+      "type": 72967,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2023-07-12T22:09:49.9866196Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}
