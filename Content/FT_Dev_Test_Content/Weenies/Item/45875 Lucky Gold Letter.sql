@@ -8,7 +8,7 @@ VALUES (45875,   1,       8192) /* ItemType - Writable */
      , (45875,   5,         10) /* EncumbranceVal */
      , (45875,   8,        200) /* Mass */
      , (45875,   9,          0) /* ValidLocations - None */
-     , (45875,  11,        500) /* MaxStackSize */
+     , (45875,  11,        100) /* MaxStackSize */
      , (45875,  12,          1) /* StackSize */
      , (45875,  13,          1) /* StackUnitEncumbrance */
      , (45875,  14,          1) /* StackUnitMass */
