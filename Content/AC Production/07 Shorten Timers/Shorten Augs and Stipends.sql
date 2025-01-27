@@ -25,7 +25,8 @@ WHERE name = 'AugmentationBlankGemAcquired';
 
 UPDATE quest
 SET
-min_Delta = 172800, /* 2 days*/
+min_Delta = 0, /* 2 days*/
+max_Solves = 1, /* Makes Perm */
 last_Modified = SYSDATE()
 WHERE name = 'AugmentationProvingGroundAccess';
 
